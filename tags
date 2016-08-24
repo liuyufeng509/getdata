@@ -1,0 +1,1793 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CYGWIN	gsoap/stdsoap2.h	185;"	d
+DB	oracle/mydb.py	/^class DB(object):$/;"	c
+DBGFUN	gsoap/stdsoap2.h	1801;"	d
+DBGFUN	gsoap/stdsoap2.h	1823;"	d
+DBGFUN1	gsoap/stdsoap2.h	1802;"	d
+DBGFUN1	gsoap/stdsoap2.h	1824;"	d
+DBGFUN2	gsoap/stdsoap2.h	1803;"	d
+DBGFUN2	gsoap/stdsoap2.h	1825;"	d
+DBGFUN3	gsoap/stdsoap2.h	1804;"	d
+DBGFUN3	gsoap/stdsoap2.h	1826;"	d
+DBGHEX	gsoap/stdsoap2.h	1807;"	d
+DBGHEX	gsoap/stdsoap2.h	1827;"	d
+DBGLOG	gsoap/stdsoap2.h	1742;"	d
+DBGLOG	gsoap/stdsoap2.h	1757;"	d
+DBGLOG	gsoap/stdsoap2.h	1775;"	d
+DBGLOG	gsoap/stdsoap2.h	1821;"	d
+DBGMSG	gsoap/stdsoap2.h	1789;"	d
+DBGMSG	gsoap/stdsoap2.h	1822;"	d
+DBL_MAX	gsoap/stdsoap2.h	1315;"	d
+DBL_NAN	gsoap/stdsoap2.h	1344;"	d
+DBL_NINFTY	gsoap/stdsoap2.h	1364;"	d
+DBL_PINFTY	gsoap/stdsoap2.h	1349;"	d
+DBL_PINFTY	gsoap/stdsoap2.h	1351;"	d
+DBL_PINFTY	gsoap/stdsoap2.h	1353;"	d
+DBL_PINFTY	gsoap/stdsoap2.h	1355;"	d
+DBL_PINFTY	gsoap/stdsoap2.h	1357;"	d
+DBL_PINFTY	gsoap/stdsoap2.h	1359;"	d
+DBL_PINFTY	gsoap/stdsoap2.h	644;"	d
+DEBUG	gsoap/stdsoap2.h	1659;"	d
+FD_SETSIZE	gsoap/stdsoap2.h	942;"	d
+FLT_MAX	gsoap/stdsoap2.h	1312;"	d
+FLT_NAN	gsoap/stdsoap2.h	1320;"	d
+FLT_NINFTY	gsoap/stdsoap2.h	1340;"	d
+FLT_PINFTY	gsoap/stdsoap2.h	1325;"	d
+FLT_PINFTY	gsoap/stdsoap2.h	1327;"	d
+FLT_PINFTY	gsoap/stdsoap2.h	1329;"	d
+FLT_PINFTY	gsoap/stdsoap2.h	1331;"	d
+FLT_PINFTY	gsoap/stdsoap2.h	1333;"	d
+FLT_PINFTY	gsoap/stdsoap2.h	1335;"	d
+GSOAP_VERSION	gsoap/stdsoap2.h	54;"	d
+HAVE_FTIME	gsoap/stdsoap2.h	268;"	d
+HAVE_FTIME	gsoap/stdsoap2.h	283;"	d
+HAVE_FTIME	gsoap/stdsoap2.h	322;"	d
+HAVE_FTIME	gsoap/stdsoap2.h	353;"	d
+HAVE_FTIME	gsoap/stdsoap2.h	394;"	d
+HAVE_FTIME	gsoap/stdsoap2.h	414;"	d
+HAVE_FTIME	gsoap/stdsoap2.h	452;"	d
+HAVE_FTIME	gsoap/stdsoap2.h	496;"	d
+HAVE_FTIME	gsoap/stdsoap2.h	510;"	d
+HAVE_FTIME	gsoap/stdsoap2.h	529;"	d
+HAVE_FTIME	gsoap/stdsoap2.h	545;"	d
+HAVE_FTIME	gsoap/stdsoap2.h	560;"	d
+HAVE_GETHOSTBYNAME_R	gsoap/stdsoap2.h	454;"	d
+HAVE_GETHOSTBYNAME_R	gsoap/stdsoap2.h	531;"	d
+HAVE_GETHOSTBYNAME_R	gsoap/stdsoap2.h	547;"	d
+HAVE_GETHOSTBYNAME_R	gsoap/stdsoap2.h	562;"	d
+HAVE_GETTIMEOFDAY	gsoap/stdsoap2.h	307;"	d
+HAVE_GETTIMEOFDAY	gsoap/stdsoap2.h	374;"	d
+HAVE_GETTIMEOFDAY	gsoap/stdsoap2.h	431;"	d
+HAVE_GMTIME	gsoap/stdsoap2.h	269;"	d
+HAVE_GMTIME	gsoap/stdsoap2.h	485;"	d
+HAVE_GMTIME_R	gsoap/stdsoap2.h	285;"	d
+HAVE_GMTIME_R	gsoap/stdsoap2.h	305;"	d
+HAVE_GMTIME_R	gsoap/stdsoap2.h	324;"	d
+HAVE_GMTIME_R	gsoap/stdsoap2.h	355;"	d
+HAVE_GMTIME_R	gsoap/stdsoap2.h	376;"	d
+HAVE_GMTIME_R	gsoap/stdsoap2.h	396;"	d
+HAVE_GMTIME_R	gsoap/stdsoap2.h	416;"	d
+HAVE_GMTIME_R	gsoap/stdsoap2.h	434;"	d
+HAVE_GMTIME_R	gsoap/stdsoap2.h	455;"	d
+HAVE_GMTIME_R	gsoap/stdsoap2.h	498;"	d
+HAVE_GMTIME_R	gsoap/stdsoap2.h	512;"	d
+HAVE_GMTIME_R	gsoap/stdsoap2.h	532;"	d
+HAVE_GMTIME_R	gsoap/stdsoap2.h	548;"	d
+HAVE_GMTIME_R	gsoap/stdsoap2.h	563;"	d
+HAVE_GMTIME_R	gsoap/stdsoap2.h	647;"	d
+HAVE_INTTYPES_H	gsoap/stdsoap2.h	313;"	d
+HAVE_ISINF	gsoap/stdsoap2.h	1278;"	d
+HAVE_ISINF	gsoap/stdsoap2.h	1298;"	d
+HAVE_ISINF	gsoap/stdsoap2.h	384;"	d
+HAVE_ISINF	gsoap/stdsoap2.h	423;"	d
+HAVE_ISNAN	gsoap/stdsoap2.h	1261;"	d
+HAVE_ISNAN	gsoap/stdsoap2.h	1274;"	d
+HAVE_ISNAN	gsoap/stdsoap2.h	1284;"	d
+HAVE_ISNAN	gsoap/stdsoap2.h	1295;"	d
+HAVE_ISNAN	gsoap/stdsoap2.h	1303;"	d
+HAVE_ISNAN	gsoap/stdsoap2.h	359;"	d
+HAVE_ISNAN	gsoap/stdsoap2.h	383;"	d
+HAVE_ISNAN	gsoap/stdsoap2.h	422;"	d
+HAVE_LOCALTIME	gsoap/stdsoap2.h	486;"	d
+HAVE_LOCALTIME_R	gsoap/stdsoap2.h	286;"	d
+HAVE_LOCALTIME_R	gsoap/stdsoap2.h	308;"	d
+HAVE_LOCALTIME_R	gsoap/stdsoap2.h	325;"	d
+HAVE_LOCALTIME_R	gsoap/stdsoap2.h	356;"	d
+HAVE_LOCALTIME_R	gsoap/stdsoap2.h	377;"	d
+HAVE_LOCALTIME_R	gsoap/stdsoap2.h	397;"	d
+HAVE_LOCALTIME_R	gsoap/stdsoap2.h	417;"	d
+HAVE_LOCALTIME_R	gsoap/stdsoap2.h	435;"	d
+HAVE_LOCALTIME_R	gsoap/stdsoap2.h	456;"	d
+HAVE_LOCALTIME_R	gsoap/stdsoap2.h	499;"	d
+HAVE_LOCALTIME_R	gsoap/stdsoap2.h	513;"	d
+HAVE_LOCALTIME_R	gsoap/stdsoap2.h	533;"	d
+HAVE_LOCALTIME_R	gsoap/stdsoap2.h	549;"	d
+HAVE_LOCALTIME_R	gsoap/stdsoap2.h	564;"	d
+HAVE_LOCALTIME_R	gsoap/stdsoap2.h	648;"	d
+HAVE_MBTOWC	gsoap/stdsoap2.h	271;"	d
+HAVE_MBTOWC	gsoap/stdsoap2.h	289;"	d
+HAVE_MBTOWC	gsoap/stdsoap2.h	312;"	d
+HAVE_MBTOWC	gsoap/stdsoap2.h	327;"	d
+HAVE_MBTOWC	gsoap/stdsoap2.h	337;"	d
+HAVE_MBTOWC	gsoap/stdsoap2.h	358;"	d
+HAVE_MBTOWC	gsoap/stdsoap2.h	380;"	d
+HAVE_MBTOWC	gsoap/stdsoap2.h	399;"	d
+HAVE_MBTOWC	gsoap/stdsoap2.h	421;"	d
+HAVE_MBTOWC	gsoap/stdsoap2.h	438;"	d
+HAVE_MBTOWC	gsoap/stdsoap2.h	459;"	d
+HAVE_MBTOWC	gsoap/stdsoap2.h	501;"	d
+HAVE_MBTOWC	gsoap/stdsoap2.h	515;"	d
+HAVE_MBTOWC	gsoap/stdsoap2.h	536;"	d
+HAVE_MBTOWC	gsoap/stdsoap2.h	568;"	d
+HAVE_MBTOWC	gsoap/stdsoap2.h	646;"	d
+HAVE_MKTIME	gsoap/stdsoap2.h	487;"	d
+HAVE_POLL	gsoap/stdsoap2.h	275;"	d
+HAVE_POLL	gsoap/stdsoap2.h	291;"	d
+HAVE_POLL	gsoap/stdsoap2.h	361;"	d
+HAVE_POLL	gsoap/stdsoap2.h	401;"	d
+HAVE_POLL	gsoap/stdsoap2.h	519;"	d
+HAVE_PTHREAD_H	gsoap/stdsoap2.h	864;"	d
+HAVE_RAND_R	gsoap/stdsoap2.h	284;"	d
+HAVE_RAND_R	gsoap/stdsoap2.h	304;"	d
+HAVE_RAND_R	gsoap/stdsoap2.h	323;"	d
+HAVE_RAND_R	gsoap/stdsoap2.h	354;"	d
+HAVE_RAND_R	gsoap/stdsoap2.h	375;"	d
+HAVE_RAND_R	gsoap/stdsoap2.h	395;"	d
+HAVE_RAND_R	gsoap/stdsoap2.h	415;"	d
+HAVE_RAND_R	gsoap/stdsoap2.h	433;"	d
+HAVE_RAND_R	gsoap/stdsoap2.h	453;"	d
+HAVE_RAND_R	gsoap/stdsoap2.h	497;"	d
+HAVE_RAND_R	gsoap/stdsoap2.h	511;"	d
+HAVE_RAND_R	gsoap/stdsoap2.h	530;"	d
+HAVE_RAND_R	gsoap/stdsoap2.h	546;"	d
+HAVE_RAND_R	gsoap/stdsoap2.h	561;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	254;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	276;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	292;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	315;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	329;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	344;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	362;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	387;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	402;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	425;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	443;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	489;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	503;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	520;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	538;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	551;"	d
+HAVE_SNPRINTF	gsoap/stdsoap2.h	649;"	d
+HAVE_SPRINTF_L	gsoap/stdsoap2.h	260;"	d
+HAVE_SPRINTF_L	gsoap/stdsoap2.h	299;"	d
+HAVE_SPRINTF_L	gsoap/stdsoap2.h	369;"	d
+HAVE_SPRINTF_L	gsoap/stdsoap2.h	408;"	d
+HAVE_SPRINTF_L	gsoap/stdsoap2.h	449;"	d
+HAVE_SPRINTF_L	gsoap/stdsoap2.h	633;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	251;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	258;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	279;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	296;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	318;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	332;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	347;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	366;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	390;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	405;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	428;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	446;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	482;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	492;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	506;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	523;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	541;"	d
+HAVE_SSCANF	gsoap/stdsoap2.h	554;"	d
+HAVE_SSCANF_L	gsoap/stdsoap2.h	298;"	d
+HAVE_SSCANF_L	gsoap/stdsoap2.h	368;"	d
+HAVE_SSCANF_L	gsoap/stdsoap2.h	407;"	d
+HAVE_SSCANF_L	gsoap/stdsoap2.h	448;"	d
+HAVE_SSCANF_L	gsoap/stdsoap2.h	632;"	d
+HAVE_STRERROR_R	gsoap/stdsoap2.h	287;"	d
+HAVE_STRERROR_R	gsoap/stdsoap2.h	309;"	d
+HAVE_STRERROR_R	gsoap/stdsoap2.h	378;"	d
+HAVE_STRERROR_R	gsoap/stdsoap2.h	418;"	d
+HAVE_STRERROR_R	gsoap/stdsoap2.h	457;"	d
+HAVE_STRERROR_R	gsoap/stdsoap2.h	534;"	d
+HAVE_STRERROR_R	gsoap/stdsoap2.h	565;"	d
+HAVE_STRLCPY	gsoap/stdsoap2.h	293;"	d
+HAVE_STRLCPY	gsoap/stdsoap2.h	363;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	256;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	277;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	294;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	316;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	330;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	345;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	364;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	388;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	403;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	426;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	444;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	480;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	490;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	504;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	521;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	539;"	d
+HAVE_STRRCHR	gsoap/stdsoap2.h	552;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	257;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	278;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	295;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	317;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	331;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	346;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	365;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	389;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	404;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	427;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	445;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	462;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	473;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	481;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	491;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	505;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	522;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	540;"	d
+HAVE_STRTOD	gsoap/stdsoap2.h	553;"	d
+HAVE_STRTOD_L	gsoap/stdsoap2.h	259;"	d
+HAVE_STRTOD_L	gsoap/stdsoap2.h	297;"	d
+HAVE_STRTOD_L	gsoap/stdsoap2.h	367;"	d
+HAVE_STRTOD_L	gsoap/stdsoap2.h	406;"	d
+HAVE_STRTOD_L	gsoap/stdsoap2.h	447;"	d
+HAVE_STRTOD_L	gsoap/stdsoap2.h	631;"	d
+HAVE_STRTOF	gsoap/stdsoap2.h	518;"	d
+HAVE_STRTOF_L	gsoap/stdsoap2.h	630;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	261;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	280;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	300;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	319;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	333;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	348;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	370;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	391;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	409;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	429;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	450;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	483;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	493;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	507;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	524;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	542;"	d
+HAVE_STRTOL	gsoap/stdsoap2.h	555;"	d
+HAVE_STRTOLL	gsoap/stdsoap2.h	264;"	d
+HAVE_STRTOLL	gsoap/stdsoap2.h	302;"	d
+HAVE_STRTOLL	gsoap/stdsoap2.h	350;"	d
+HAVE_STRTOLL	gsoap/stdsoap2.h	372;"	d
+HAVE_STRTOLL	gsoap/stdsoap2.h	411;"	d
+HAVE_STRTOLL	gsoap/stdsoap2.h	526;"	d
+HAVE_STRTOLL	gsoap/stdsoap2.h	557;"	d
+HAVE_STRTOLL	gsoap/stdsoap2.h	969;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	262;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	281;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	301;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	320;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	334;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	349;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	371;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	392;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	410;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	430;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	451;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	484;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	494;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	508;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	525;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	543;"	d
+HAVE_STRTOUL	gsoap/stdsoap2.h	556;"	d
+HAVE_STRTOULL	gsoap/stdsoap2.h	265;"	d
+HAVE_STRTOULL	gsoap/stdsoap2.h	303;"	d
+HAVE_STRTOULL	gsoap/stdsoap2.h	351;"	d
+HAVE_STRTOULL	gsoap/stdsoap2.h	373;"	d
+HAVE_STRTOULL	gsoap/stdsoap2.h	412;"	d
+HAVE_STRTOULL	gsoap/stdsoap2.h	527;"	d
+HAVE_STRTOULL	gsoap/stdsoap2.h	558;"	d
+HAVE_STRTOULL	gsoap/stdsoap2.h	970;"	d
+HAVE_SYS_TIMEB_H	gsoap/stdsoap2.h	267;"	d
+HAVE_SYS_TIMEB_H	gsoap/stdsoap2.h	282;"	d
+HAVE_SYS_TIMEB_H	gsoap/stdsoap2.h	321;"	d
+HAVE_SYS_TIMEB_H	gsoap/stdsoap2.h	335;"	d
+HAVE_SYS_TIMEB_H	gsoap/stdsoap2.h	352;"	d
+HAVE_SYS_TIMEB_H	gsoap/stdsoap2.h	393;"	d
+HAVE_SYS_TIMEB_H	gsoap/stdsoap2.h	413;"	d
+HAVE_SYS_TIMEB_H	gsoap/stdsoap2.h	432;"	d
+HAVE_SYS_TIMEB_H	gsoap/stdsoap2.h	495;"	d
+HAVE_SYS_TIMEB_H	gsoap/stdsoap2.h	509;"	d
+HAVE_SYS_TIMEB_H	gsoap/stdsoap2.h	528;"	d
+HAVE_SYS_TIMEB_H	gsoap/stdsoap2.h	544;"	d
+HAVE_SYS_TIMEB_H	gsoap/stdsoap2.h	559;"	d
+HAVE_TIMEGM	gsoap/stdsoap2.h	310;"	d
+HAVE_TIMEGM	gsoap/stdsoap2.h	419;"	d
+HAVE_TM_GMTOFF	gsoap/stdsoap2.h	306;"	d
+HAVE_WCTOMB	gsoap/stdsoap2.h	270;"	d
+HAVE_WCTOMB	gsoap/stdsoap2.h	288;"	d
+HAVE_WCTOMB	gsoap/stdsoap2.h	311;"	d
+HAVE_WCTOMB	gsoap/stdsoap2.h	326;"	d
+HAVE_WCTOMB	gsoap/stdsoap2.h	336;"	d
+HAVE_WCTOMB	gsoap/stdsoap2.h	357;"	d
+HAVE_WCTOMB	gsoap/stdsoap2.h	379;"	d
+HAVE_WCTOMB	gsoap/stdsoap2.h	398;"	d
+HAVE_WCTOMB	gsoap/stdsoap2.h	420;"	d
+HAVE_WCTOMB	gsoap/stdsoap2.h	437;"	d
+HAVE_WCTOMB	gsoap/stdsoap2.h	458;"	d
+HAVE_WCTOMB	gsoap/stdsoap2.h	500;"	d
+HAVE_WCTOMB	gsoap/stdsoap2.h	514;"	d
+HAVE_WCTOMB	gsoap/stdsoap2.h	535;"	d
+HAVE_WCTOMB	gsoap/stdsoap2.h	567;"	d
+HAVE_WCTOMB	gsoap/stdsoap2.h	645;"	d
+HP_UX	gsoap/stdsoap2.h	202;"	d
+IGNORE_STDIO_STUBS	gsoap/stdsoap2.h	465;"	d
+INET_ERROR	gsoap/stdsoap2.h	664;"	d
+JqServiceHttpBindingProxy	gsoap/soapJqServiceHttpBindingProxy.cpp	/^JqServiceHttpBindingProxy::JqServiceHttpBindingProxy() : soap(SOAP_IO_DEFAULT)$/;"	f	class:JqServiceHttpBindingProxy
+JqServiceHttpBindingProxy	gsoap/soapJqServiceHttpBindingProxy.cpp	/^JqServiceHttpBindingProxy::JqServiceHttpBindingProxy(const JqServiceHttpBindingProxy& rhs)$/;"	f	class:JqServiceHttpBindingProxy
+JqServiceHttpBindingProxy	gsoap/soapJqServiceHttpBindingProxy.cpp	/^JqServiceHttpBindingProxy::JqServiceHttpBindingProxy(const char *endpoint) : soap(SOAP_IO_DEFAULT)$/;"	f	class:JqServiceHttpBindingProxy
+JqServiceHttpBindingProxy	gsoap/soapJqServiceHttpBindingProxy.cpp	/^JqServiceHttpBindingProxy::JqServiceHttpBindingProxy(const char *endpoint, soap_mode iomode) : soap(iomode)$/;"	f	class:JqServiceHttpBindingProxy
+JqServiceHttpBindingProxy	gsoap/soapJqServiceHttpBindingProxy.cpp	/^JqServiceHttpBindingProxy::JqServiceHttpBindingProxy(const struct soap &_soap) : soap(_soap)$/;"	f	class:JqServiceHttpBindingProxy
+JqServiceHttpBindingProxy	gsoap/soapJqServiceHttpBindingProxy.cpp	/^JqServiceHttpBindingProxy::JqServiceHttpBindingProxy(soap_mode imode, soap_mode omode) : soap(imode, omode)$/;"	f	class:JqServiceHttpBindingProxy
+JqServiceHttpBindingProxy	gsoap/soapJqServiceHttpBindingProxy.cpp	/^JqServiceHttpBindingProxy::JqServiceHttpBindingProxy(soap_mode iomode) : soap(iomode)$/;"	f	class:JqServiceHttpBindingProxy
+JqServiceHttpBindingProxy	gsoap/soapJqServiceHttpBindingProxy.h	/^    class SOAP_CMAC JqServiceHttpBindingProxy : public soap {$/;"	c
+JqServiceHttpBindingProxy_init	gsoap/soapJqServiceHttpBindingProxy.cpp	/^void JqServiceHttpBindingProxy::JqServiceHttpBindingProxy_init(soap_mode imode, soap_mode omode)$/;"	f	class:JqServiceHttpBindingProxy
+JqServiceHttpBindingService	gsoap/soapJqServiceHttpBindingService.cpp	/^JqServiceHttpBindingService::JqServiceHttpBindingService() : soap(SOAP_IO_DEFAULT)$/;"	f	class:JqServiceHttpBindingService
+JqServiceHttpBindingService	gsoap/soapJqServiceHttpBindingService.cpp	/^JqServiceHttpBindingService::JqServiceHttpBindingService(const JqServiceHttpBindingService& rhs)$/;"	f	class:JqServiceHttpBindingService
+JqServiceHttpBindingService	gsoap/soapJqServiceHttpBindingService.cpp	/^JqServiceHttpBindingService::JqServiceHttpBindingService(const struct soap &_soap) : soap(_soap)$/;"	f	class:JqServiceHttpBindingService
+JqServiceHttpBindingService	gsoap/soapJqServiceHttpBindingService.cpp	/^JqServiceHttpBindingService::JqServiceHttpBindingService(soap_mode imode, soap_mode omode) : soap(imode, omode)$/;"	f	class:JqServiceHttpBindingService
+JqServiceHttpBindingService	gsoap/soapJqServiceHttpBindingService.cpp	/^JqServiceHttpBindingService::JqServiceHttpBindingService(soap_mode iomode) : soap(iomode)$/;"	f	class:JqServiceHttpBindingService
+JqServiceHttpBindingService	gsoap/soapJqServiceHttpBindingService.h	/^    class SOAP_CMAC JqServiceHttpBindingService : public soap {$/;"	c
+JqServiceHttpBindingService_init	gsoap/soapJqServiceHttpBindingService.cpp	/^void JqServiceHttpBindingService::JqServiceHttpBindingService_init(soap_mode imode, soap_mode omode)$/;"	f	class:JqServiceHttpBindingService
+LONG64	gsoap/stdsoap2.h	1000;"	d
+LONG64	gsoap/stdsoap2.h	1004;"	d
+LONG64	gsoap/stdsoap2.h	1009;"	d
+LONG64	gsoap/stdsoap2.h	1012;"	d
+LONG64	gsoap/stdsoap2.h	642;"	d
+LONG64	gsoap/stdsoap2.h	958;"	d
+LONG64	gsoap/stdsoap2.h	961;"	d
+LONG64	gsoap/stdsoap2.h	978;"	d
+LONG64	gsoap/stdsoap2.h	982;"	d
+LONG64	gsoap/stdsoap2.h	986;"	d
+LONG64	gsoap/stdsoap2.h	991;"	d
+Namespace	gsoap/stdsoap2.h	/^struct Namespace$/;"	s
+OPENSSL_NO_KRB5	gsoap/stdsoap2.h	842;"	d
+OS390	gsoap/stdsoap2.h	214;"	d
+O_NONBLOCK	gsoap/stdsoap2.h	467;"	d
+PALM	gsoap/stdsoap2.h	196;"	d
+SOAP_BASEREFNAME	gsoap/stdsoap2.h	1185;"	d
+SOAP_BEGIN	gsoap/stdsoap2.h	1638;"	d
+SOAP_BLKLEN	gsoap/stdsoap2.h	1130;"	d
+SOAP_BLKLEN	gsoap/stdsoap2.h	1132;"	d
+SOAP_BLKLEN	gsoap/stdsoap2.h	247;"	d
+SOAP_BUFLEN	gsoap/stdsoap2.h	1103;"	d
+SOAP_BUFLEN	gsoap/stdsoap2.h	1105;"	d
+SOAP_BUFLEN	gsoap/stdsoap2.h	244;"	d
+SOAP_BUFLEN	gsoap/stdsoap2.h	616;"	d
+SOAP_BUFLEN	gsoap/stdsoap2.h	637;"	d
+SOAP_BUFLEN	gsoap/stdsoap2.h	650;"	d
+SOAP_BUFLEN	gsoap/stdsoap2.h	668;"	d
+SOAP_CHK_EOF	gsoap/stdsoap2.h	946;"	d
+SOAP_CHK_EOF	gsoap/stdsoap2.h	948;"	d
+SOAP_CLI_FAULT	gsoap/stdsoap2.h	1453;"	d
+SOAP_CMAC	gsoap/stdsoap2.h	123;"	d
+SOAP_CMAC	gsoap/stdsoap2.h	76;"	d
+SOAP_CONNECT	gsoap/stdsoap2.h	1534;"	d
+SOAP_COPY	gsoap/stdsoap2.h	1632;"	d
+SOAP_C_MBSTRING	gsoap/stdsoap2.h	1592;"	d
+SOAP_C_NILSTRING	gsoap/stdsoap2.h	1593;"	d
+SOAP_C_NOIOB	gsoap/stdsoap2.h	1590;"	d
+SOAP_C_UTFSTRING	gsoap/stdsoap2.h	1591;"	d
+SOAP_DATAENCODINGUNKNOWN	gsoap/stdsoap2.h	1493;"	d
+SOAP_DEBUG	gsoap/stdsoap2.h	1664;"	d
+SOAP_DEL	gsoap/stdsoap2.h	1533;"	d
+SOAP_DELETE	gsoap/stdsoap2.h	1728;"	d
+SOAP_DELETE_ARRAY	gsoap/stdsoap2.h	1732;"	d
+SOAP_DEL_METHOD	gsoap/stdsoap2.h	1469;"	d
+SOAP_DIME_ABSURI	gsoap/stdsoap2.h	1543;"	d
+SOAP_DIME_CF	gsoap/stdsoap2.h	1538;"	d
+SOAP_DIME_END	gsoap/stdsoap2.h	1487;"	d
+SOAP_DIME_ERROR	gsoap/stdsoap2.h	1484;"	d
+SOAP_DIME_HREF	gsoap/stdsoap2.h	1485;"	d
+SOAP_DIME_MB	gsoap/stdsoap2.h	1540;"	d
+SOAP_DIME_ME	gsoap/stdsoap2.h	1539;"	d
+SOAP_DIME_MEDIA	gsoap/stdsoap2.h	1542;"	d
+SOAP_DIME_MISMATCH	gsoap/stdsoap2.h	1486;"	d
+SOAP_DIME_VERSION	gsoap/stdsoap2.h	1541;"	d
+SOAP_DOM_ASIS	gsoap/stdsoap2.h	1586;"	d
+SOAP_DOM_NODE	gsoap/stdsoap2.h	1585;"	d
+SOAP_DOM_TREE	gsoap/stdsoap2.h	1584;"	d
+SOAP_DUPLICATE_ID	gsoap/stdsoap2.h	1476;"	d
+SOAP_EADDRINUSE	gsoap/stdsoap2.h	1058;"	d
+SOAP_EADDRINUSE	gsoap/stdsoap2.h	1068;"	d
+SOAP_EAGAIN	gsoap/stdsoap2.h	1055;"	d
+SOAP_EAGAIN	gsoap/stdsoap2.h	1067;"	d
+SOAP_ECONNREFUSED	gsoap/stdsoap2.h	1059;"	d
+SOAP_ECONNREFUSED	gsoap/stdsoap2.h	1069;"	d
+SOAP_EINPROGRESS	gsoap/stdsoap2.h	1057;"	d
+SOAP_EINPROGRESS	gsoap/stdsoap2.h	1072;"	d
+SOAP_EINPROGRESS	gsoap/stdsoap2.h	1075;"	d
+SOAP_EINTR	gsoap/stdsoap2.h	1054;"	d
+SOAP_EINTR	gsoap/stdsoap2.h	1066;"	d
+SOAP_ENC	gsoap/stdsoap2.h	1566;"	d
+SOAP_ENC_DIME	gsoap/stdsoap2.h	1569;"	d
+SOAP_ENC_LATIN	gsoap/stdsoap2.h	1567;"	d
+SOAP_ENC_MIME	gsoap/stdsoap2.h	1570;"	d
+SOAP_ENC_MTOM	gsoap/stdsoap2.h	1571;"	d
+SOAP_ENC_SSL	gsoap/stdsoap2.h	1573;"	d
+SOAP_ENC_XML	gsoap/stdsoap2.h	1568;"	d
+SOAP_ENC_ZLIB	gsoap/stdsoap2.h	1572;"	d
+SOAP_END	gsoap/stdsoap2.h	1646;"	d
+SOAP_END_BODY	gsoap/stdsoap2.h	1644;"	d
+SOAP_END_ENVELOPE	gsoap/stdsoap2.h	1645;"	d
+SOAP_END_HEADER	gsoap/stdsoap2.h	1641;"	d
+SOAP_ENV__Code	gsoap/soapStub.h	/^        SOAP_ENV__Code()$/;"	f	struct:SOAP_ENV__Code
+SOAP_ENV__Code	gsoap/soapStub.h	/^        struct SOAP_ENV__Code *SOAP_ENV__Code;$/;"	m	struct:SOAP_ENV__Fault	typeref:struct:SOAP_ENV__Fault::SOAP_ENV__Code
+SOAP_ENV__Code	gsoap/soapStub.h	/^struct SOAP_ENV__Code {$/;"	s
+SOAP_ENV__Detail	gsoap/soapStub.h	/^        SOAP_ENV__Detail()$/;"	f	struct:SOAP_ENV__Detail
+SOAP_ENV__Detail	gsoap/soapStub.h	/^        struct SOAP_ENV__Detail *SOAP_ENV__Detail;$/;"	m	struct:SOAP_ENV__Fault	typeref:struct:SOAP_ENV__Fault::SOAP_ENV__Detail
+SOAP_ENV__Detail	gsoap/soapStub.h	/^struct SOAP_ENV__Detail {$/;"	s
+SOAP_ENV__Fault	gsoap/soapStub.h	/^        SOAP_ENV__Fault()$/;"	f	struct:SOAP_ENV__Fault
+SOAP_ENV__Fault	gsoap/soapStub.h	/^struct SOAP_ENV__Fault {$/;"	s
+SOAP_ENV__Header	gsoap/soapStub.h	/^        SOAP_ENV__Header()$/;"	f	struct:SOAP_ENV__Header
+SOAP_ENV__Header	gsoap/soapStub.h	/^struct SOAP_ENV__Header {$/;"	s
+SOAP_ENV__Node	gsoap/soapStub.h	/^        char *SOAP_ENV__Node;$/;"	m	struct:SOAP_ENV__Fault
+SOAP_ENV__Reason	gsoap/soapStub.h	/^        SOAP_ENV__Reason()$/;"	f	struct:SOAP_ENV__Reason
+SOAP_ENV__Reason	gsoap/soapStub.h	/^        struct SOAP_ENV__Reason *SOAP_ENV__Reason;$/;"	m	struct:SOAP_ENV__Fault	typeref:struct:SOAP_ENV__Fault::SOAP_ENV__Reason
+SOAP_ENV__Reason	gsoap/soapStub.h	/^struct SOAP_ENV__Reason {$/;"	s
+SOAP_ENV__Role	gsoap/soapStub.h	/^        char *SOAP_ENV__Role;$/;"	m	struct:SOAP_ENV__Fault
+SOAP_ENV__Subcode	gsoap/soapStub.h	/^        struct SOAP_ENV__Code *SOAP_ENV__Subcode;$/;"	m	struct:SOAP_ENV__Code	typeref:struct:SOAP_ENV__Code::SOAP_ENV__Code
+SOAP_ENV__Text	gsoap/soapStub.h	/^        char *SOAP_ENV__Text;$/;"	m	struct:SOAP_ENV__Reason
+SOAP_ENV__Value	gsoap/soapStub.h	/^        char *SOAP_ENV__Value;$/;"	m	struct:SOAP_ENV__Code
+SOAP_EOF	gsoap/stdsoap2.h	1450;"	d
+SOAP_EOM	gsoap/stdsoap2.h	1472;"	d
+SOAP_ERANGE	gsoap/stdsoap2.h	1053;"	d
+SOAP_ERANGE	gsoap/stdsoap2.h	1062;"	d
+SOAP_ERANGE	gsoap/stdsoap2.h	1064;"	d
+SOAP_ERR	gsoap/stdsoap2.h	1451;"	d
+SOAP_EWOULDBLOCK	gsoap/stdsoap2.h	1056;"	d
+SOAP_EWOULDBLOCK	gsoap/stdsoap2.h	1071;"	d
+SOAP_EWOULDBLOCK	gsoap/stdsoap2.h	1074;"	d
+SOAP_FATAL_ERROR	gsoap/stdsoap2.h	1463;"	d
+SOAP_FAULT	gsoap/stdsoap2.h	1464;"	d
+SOAP_FD_EXCEEDED	gsoap/stdsoap2.h	1499;"	d
+SOAP_FILE	gsoap/stdsoap2.h	1525;"	d
+SOAP_FMAC1	gsoap/stdsoap2.h	79;"	d
+SOAP_FMAC1	gsoap/stdsoap2.h	91;"	d
+SOAP_FMAC2	gsoap/stdsoap2.h	95;"	d
+SOAP_FMAC3	gsoap/stdsoap2.h	82;"	d
+SOAP_FMAC3	gsoap/stdsoap2.h	99;"	d
+SOAP_FMAC3S	gsoap/stdsoap2.h	103;"	d
+SOAP_FMAC4	gsoap/stdsoap2.h	107;"	d
+SOAP_FMAC4S	gsoap/stdsoap2.h	111;"	d
+SOAP_FMAC5	gsoap/stdsoap2.h	115;"	d
+SOAP_FMAC5	gsoap/stdsoap2.h	85;"	d
+SOAP_FMAC6	gsoap/stdsoap2.h	119;"	d
+SOAP_FORM	gsoap/stdsoap2.h	1523;"	d
+SOAP_FREE	gsoap/stdsoap2.h	1677;"	d
+SOAP_FREE	gsoap/stdsoap2.h	1686;"	d
+SOAP_FUNC_R_ERR	gsoap/stdsoap2.h	916;"	d
+SOAP_FUNC_R_ERR	gsoap/stdsoap2.h	918;"	d
+SOAP_GAI_STRERROR	gsoap/stdsoap2.h	811;"	d
+SOAP_GAI_STRERROR	gsoap/stdsoap2.h	938;"	d
+SOAP_GET	gsoap/stdsoap2.h	1531;"	d
+SOAP_GET_METHOD	gsoap/stdsoap2.h	1467;"	d
+SOAP_HDR	gsoap/stdsoap2.h	1474;"	d
+SOAP_HDRLEN	gsoap/stdsoap2.h	1144;"	d
+SOAP_HDRLEN	gsoap/stdsoap2.h	1146;"	d
+SOAP_HDRLEN	gsoap/stdsoap2.h	249;"	d
+SOAP_HEAD_METHOD	gsoap/stdsoap2.h	1470;"	d
+SOAP_HREF	gsoap/stdsoap2.h	1478;"	d
+SOAP_HTML	gsoap/stdsoap2.h	1524;"	d
+SOAP_HTTP_ERROR	gsoap/stdsoap2.h	1481;"	d
+SOAP_HTTP_METHOD	gsoap/stdsoap2.h	1471;"	d
+SOAP_IDHASH	gsoap/stdsoap2.h	1123;"	d
+SOAP_IDHASH	gsoap/stdsoap2.h	1125;"	d
+SOAP_IDHASH	gsoap/stdsoap2.h	246;"	d
+SOAP_INDEX_RECV	gsoap/stdsoap2.h	1173;"	d
+SOAP_INDEX_SENT	gsoap/stdsoap2.h	1174;"	d
+SOAP_INDEX_TEST	gsoap/stdsoap2.h	1175;"	d
+SOAP_INIT	gsoap/stdsoap2.h	1631;"	d
+SOAP_INVALID_SOCKET	gsoap/stdsoap2.h	931;"	d
+SOAP_IN_BODY	gsoap/stdsoap2.h	1643;"	d
+SOAP_IN_ENVELOPE	gsoap/stdsoap2.h	1639;"	d
+SOAP_IN_HEADER	gsoap/stdsoap2.h	1640;"	d
+SOAP_IO	gsoap/stdsoap2.h	1556;"	d
+SOAP_IOB	gsoap/stdsoap2.h	1459;"	d
+SOAP_IO_BUFFER	gsoap/stdsoap2.h	1558;"	d
+SOAP_IO_CHUNK	gsoap/stdsoap2.h	1560;"	d
+SOAP_IO_DEFAULT	gsoap/stdsoap2.h	1604;"	d
+SOAP_IO_DEFAULT	gsoap/stdsoap2.h	1606;"	d
+SOAP_IO_FLUSH	gsoap/stdsoap2.h	1557;"	d
+SOAP_IO_KEEPALIVE	gsoap/stdsoap2.h	1564;"	d
+SOAP_IO_LENGTH	gsoap/stdsoap2.h	1563;"	d
+SOAP_IO_STORE	gsoap/stdsoap2.h	1559;"	d
+SOAP_IO_UDP	gsoap/stdsoap2.h	1562;"	d
+SOAP_LABLEN	gsoap/stdsoap2.h	1109;"	d
+SOAP_LENGTH	gsoap/stdsoap2.h	1497;"	d
+SOAP_LEVEL	gsoap/stdsoap2.h	1502;"	d
+SOAP_LOCALE	gsoap/stdsoap2.h	624;"	d
+SOAP_LOCALE	gsoap/stdsoap2.h	627;"	d
+SOAP_LONG_FORMAT	gsoap/stdsoap2.h	1018;"	d
+SOAP_LONG_FORMAT	gsoap/stdsoap2.h	1029;"	d
+SOAP_LONG_FORMAT	gsoap/stdsoap2.h	272;"	d
+SOAP_LONG_FORMAT	gsoap/stdsoap2.h	381;"	d
+SOAP_LONG_FORMAT	gsoap/stdsoap2.h	439;"	d
+SOAP_LONG_FORMAT	gsoap/stdsoap2.h	964;"	d
+SOAP_LONG_FORMAT	gsoap/stdsoap2.h	994;"	d
+SOAP_MALLOC	gsoap/stdsoap2.h	1674;"	d
+SOAP_MALLOC	gsoap/stdsoap2.h	1682;"	d
+SOAP_MAXARRAYSIZE	gsoap/stdsoap2.h	1205;"	d
+SOAP_MAXDIMESIZE	gsoap/stdsoap2.h	1213;"	d
+SOAP_MAXDIMS	gsoap/stdsoap2.h	1158;"	d
+SOAP_MAXDIMS	gsoap/stdsoap2.h	1160;"	d
+SOAP_MAXDIMS	gsoap/stdsoap2.h	250;"	d
+SOAP_MAXEINTR	gsoap/stdsoap2.h	1191;"	d
+SOAP_MAXINFLATESIZE	gsoap/stdsoap2.h	1222;"	d
+SOAP_MAXKEEPALIVE	gsoap/stdsoap2.h	1196;"	d
+SOAP_MAXLENGTH	gsoap/stdsoap2.h	1246;"	d
+SOAP_MAXLEVEL	gsoap/stdsoap2.h	1241;"	d
+SOAP_MAXLOGS	gsoap/stdsoap2.h	1172;"	d
+SOAP_MAXOCCURS	gsoap/stdsoap2.h	1251;"	d
+SOAP_MAXPTRS	gsoap/stdsoap2.h	1165;"	d
+SOAP_MAXPTRS	gsoap/stdsoap2.h	1167;"	d
+SOAP_MEM_DEBUG	gsoap/stdsoap2.h	1667;"	d
+SOAP_MESSAGE	gsoap/stdsoap2.h	1737;"	d
+SOAP_MIME_7BIT	gsoap/stdsoap2.h	/^  SOAP_MIME_7BIT,$/;"	e	enum:soap_mime_encoding
+SOAP_MIME_8BIT	gsoap/stdsoap2.h	/^  SOAP_MIME_8BIT,$/;"	e	enum:soap_mime_encoding
+SOAP_MIME_BASE64	gsoap/stdsoap2.h	/^  SOAP_MIME_BASE64,$/;"	e	enum:soap_mime_encoding
+SOAP_MIME_BINARY	gsoap/stdsoap2.h	/^  SOAP_MIME_BINARY,$/;"	e	enum:soap_mime_encoding
+SOAP_MIME_END	gsoap/stdsoap2.h	1490;"	d
+SOAP_MIME_ERROR	gsoap/stdsoap2.h	1488;"	d
+SOAP_MIME_HREF	gsoap/stdsoap2.h	1489;"	d
+SOAP_MIME_IETF_TOKEN	gsoap/stdsoap2.h	/^  SOAP_MIME_IETF_TOKEN,$/;"	e	enum:soap_mime_encoding
+SOAP_MIME_NONE	gsoap/stdsoap2.h	/^{ SOAP_MIME_NONE,$/;"	e	enum:soap_mime_encoding
+SOAP_MIME_POSTCHECK	gsoap/stdsoap2.h	1598;"	d
+SOAP_MIME_QUOTED_PRINTABLE	gsoap/stdsoap2.h	/^  SOAP_MIME_QUOTED_PRINTABLE,$/;"	e	enum:soap_mime_encoding
+SOAP_MIME_X_TOKEN	gsoap/stdsoap2.h	/^  SOAP_MIME_X_TOKEN$/;"	e	enum:soap_mime_encoding
+SOAP_MINDEFLATERATIO	gsoap/stdsoap2.h	1236;"	d
+SOAP_MISSING_ID	gsoap/stdsoap2.h	1477;"	d
+SOAP_MOE	gsoap/stdsoap2.h	1473;"	d
+SOAP_MULTIREFTAG	gsoap/stdsoap2.h	1180;"	d
+SOAP_MUSTUNDERSTAND	gsoap/stdsoap2.h	1460;"	d
+SOAP_NAMESPACE	gsoap/stdsoap2.h	1461;"	d
+SOAP_NAMESPACE_OF_ns1	gsoap/getdata.h	119;"	d
+SOAP_NAMESPACE_OF_ns1	gsoap/soapStub.h	14;"	d
+SOAP_NEW	gsoap/stdsoap2.h	1702;"	d
+SOAP_NEW	gsoap/stdsoap2.h	1713;"	d
+SOAP_NEW_ARRAY	gsoap/stdsoap2.h	1705;"	d
+SOAP_NEW_ARRAY	gsoap/stdsoap2.h	1716;"	d
+SOAP_NEW_COPY	gsoap/stdsoap2.h	1724;"	d
+SOAP_NMAC	gsoap/stdsoap2.h	127;"	d
+SOAP_NONE	gsoap/stdsoap2.h	1630;"	d
+SOAP_NOTHROW	gsoap/stdsoap2.h	1691;"	d
+SOAP_NOTHROW	gsoap/stdsoap2.h	1693;"	d
+SOAP_NOTHROW	gsoap/stdsoap2.h	1695;"	d
+SOAP_NO_BODY	gsoap/stdsoap2.h	1642;"	d
+SOAP_NO_DATA	gsoap/stdsoap2.h	1466;"	d
+SOAP_NO_LINK_TO_DELETE	gsoap/stdsoap2.h	2857;"	d
+SOAP_NO_METHOD	gsoap/stdsoap2.h	1465;"	d
+SOAP_NO_TAG	gsoap/stdsoap2.h	1458;"	d
+SOAP_NTLM_ERROR	gsoap/stdsoap2.h	1501;"	d
+SOAP_NULL	gsoap/stdsoap2.h	1475;"	d
+SOAP_OCCURS	gsoap/stdsoap2.h	1496;"	d
+SOAP_OK	gsoap/stdsoap2.h	1452;"	d
+SOAP_PATTERN	gsoap/stdsoap2.h	1498;"	d
+SOAP_PLACEMENT_NEW	gsoap/stdsoap2.h	1708;"	d
+SOAP_PLACEMENT_NEW	gsoap/stdsoap2.h	1719;"	d
+SOAP_PLUGIN_ERROR	gsoap/stdsoap2.h	1492;"	d
+SOAP_POST	gsoap/stdsoap2.h	1529;"	d
+SOAP_POST_FILE	gsoap/stdsoap2.h	1530;"	d
+SOAP_PROHIBITED	gsoap/stdsoap2.h	1495;"	d
+SOAP_PTRBLK	gsoap/stdsoap2.h	1112;"	d
+SOAP_PTRHASH	gsoap/stdsoap2.h	1116;"	d
+SOAP_PTRHASH	gsoap/stdsoap2.h	1118;"	d
+SOAP_PTRHASH	gsoap/stdsoap2.h	245;"	d
+SOAP_PURE_VIRTUAL	gsoap/soapJqServiceHttpBindingProxy.h	/^        virtual JqServiceHttpBindingProxy *copy() SOAP_PURE_VIRTUAL;$/;"	m	class:JqServiceHttpBindingProxy
+SOAP_PURE_VIRTUAL	gsoap/soapJqServiceHttpBindingService.h	/^        virtual JqServiceHttpBindingService *copy() SOAP_PURE_VIRTUAL;$/;"	m	class:JqServiceHttpBindingService
+SOAP_PURE_VIRTUAL	gsoap/soapJqServiceHttpBindingService.h	/^        virtual int getData(ns1__getData *ns1__getData_, ns1__getDataResponse &ns1__getDataResponse_) SOAP_PURE_VIRTUAL;$/;"	m	class:JqServiceHttpBindingService
+SOAP_PURE_VIRTUAL	gsoap/stdsoap2.h	608;"	d
+SOAP_PURE_VIRTUAL	gsoap/stdsoap2.h	610;"	d
+SOAP_PUT	gsoap/stdsoap2.h	1532;"	d
+SOAP_PUT_METHOD	gsoap/stdsoap2.h	1468;"	d
+SOAP_REQUIRED	gsoap/stdsoap2.h	1494;"	d
+SOAP_RESERVED	gsoap/stdsoap2.h	1588;"	d
+SOAP_SEC_BEGIN	gsoap/stdsoap2.h	1650;"	d
+SOAP_SEC_DECRYPT	gsoap/stdsoap2.h	1652;"	d
+SOAP_SEC_SIGN	gsoap/stdsoap2.h	1651;"	d
+SOAP_SEC_WSUID	gsoap/stdsoap2.h	1600;"	d
+SOAP_SHUT_RDWR	gsoap/stdsoap2.h	935;"	d
+SOAP_SHUT_WR	gsoap/stdsoap2.h	934;"	d
+SOAP_SNPRINTF	gsoap/stdsoap2.h	1398;"	d
+SOAP_SNPRINTF	gsoap/stdsoap2.h	1401;"	d
+SOAP_SNPRINTF	gsoap/stdsoap2.h	1405;"	d
+SOAP_SNPRINTF_SAFE	gsoap/stdsoap2.h	1399;"	d
+SOAP_SNPRINTF_SAFE	gsoap/stdsoap2.h	1402;"	d
+SOAP_SNPRINTF_SAFE	gsoap/stdsoap2.h	1406;"	d
+SOAP_SOCKET	gsoap/stdsoap2.h	651;"	d
+SOAP_SOCKET	gsoap/stdsoap2.h	923;"	d
+SOAP_SOCKET	gsoap/stdsoap2.h	926;"	d
+SOAP_SOCKLEN_T	gsoap/stdsoap2.h	900;"	d
+SOAP_SOCKLEN_T	gsoap/stdsoap2.h	902;"	d
+SOAP_SOCKLEN_T	gsoap/stdsoap2.h	905;"	d
+SOAP_SOCKLEN_T	gsoap/stdsoap2.h	907;"	d
+SOAP_SOCKLEN_T	gsoap/stdsoap2.h	909;"	d
+SOAP_SOCKLEN_T	gsoap/stdsoap2.h	911;"	d
+SOAP_SOURCE_STAMP	gsoap/stdsoap2.h	131;"	d
+SOAP_SSL_ALLOW_EXPIRED_CERTIFICATE	gsoap/stdsoap2.h	1615;"	d
+SOAP_SSL_CLIENT	gsoap/stdsoap2.h	1624;"	d
+SOAP_SSL_DEFAULT	gsoap/stdsoap2.h	1626;"	d
+SOAP_SSL_ERROR	gsoap/stdsoap2.h	1482;"	d
+SOAP_SSL_NO_AUTHENTICATION	gsoap/stdsoap2.h	1611;"	d
+SOAP_SSL_NO_DEFAULT_CA_PATH	gsoap/stdsoap2.h	1616;"	d
+SOAP_SSL_REQUIRE_CLIENT_AUTHENTICATION	gsoap/stdsoap2.h	1613;"	d
+SOAP_SSL_REQUIRE_SERVER_AUTHENTICATION	gsoap/stdsoap2.h	1612;"	d
+SOAP_SSL_RSA	gsoap/stdsoap2.h	1617;"	d
+SOAP_SSL_SKIP_HOST_CHECK	gsoap/stdsoap2.h	1614;"	d
+SOAP_SSLv3	gsoap/stdsoap2.h	1620;"	d
+SOAP_SSLv3_TLSv1	gsoap/stdsoap2.h	1619;"	d
+SOAP_STD_API	gsoap/stdsoap2.h	73;"	d
+SOAP_STOP	gsoap/stdsoap2.h	1522;"	d
+SOAP_STRCMP	gsoap/stdsoap2.h	880;"	d
+SOAP_STRCMP	gsoap/stdsoap2.h	882;"	d
+SOAP_STRINGIFY	gsoap/stdsoap2.h	138;"	d
+SOAP_SVR_FAULT	gsoap/stdsoap2.h	1454;"	d
+SOAP_SYNTAX_ERROR	gsoap/stdsoap2.h	1457;"	d
+SOAP_TAGLEN	gsoap/stdsoap2.h	1137;"	d
+SOAP_TAGLEN	gsoap/stdsoap2.h	1139;"	d
+SOAP_TAGLEN	gsoap/stdsoap2.h	248;"	d
+SOAP_TAG_MISMATCH	gsoap/stdsoap2.h	1455;"	d
+SOAP_TCP_ERROR	gsoap/stdsoap2.h	1480;"	d
+SOAP_TLSv1	gsoap/stdsoap2.h	1618;"	d
+SOAP_TLSv1_0	gsoap/stdsoap2.h	1621;"	d
+SOAP_TLSv1_1	gsoap/stdsoap2.h	1622;"	d
+SOAP_TLSv1_2	gsoap/stdsoap2.h	1623;"	d
+SOAP_TMPLEN	gsoap/stdsoap2.h	1151;"	d
+SOAP_TMPLEN	gsoap/stdsoap2.h	1153;"	d
+SOAP_TYPE	gsoap/stdsoap2.h	1456;"	d
+SOAP_TYPE_PointerToSOAP_ENV__Code	gsoap/soapStub.h	423;"	d
+SOAP_TYPE_PointerToSOAP_ENV__Code_DEFINED	gsoap/soapH.h	651;"	d
+SOAP_TYPE_PointerToSOAP_ENV__Detail	gsoap/soapStub.h	418;"	d
+SOAP_TYPE_PointerToSOAP_ENV__Detail_DEFINED	gsoap/soapH.h	638;"	d
+SOAP_TYPE_PointerToSOAP_ENV__Reason	gsoap/soapStub.h	413;"	d
+SOAP_TYPE_PointerToSOAP_ENV__Reason_DEFINED	gsoap/soapH.h	625;"	d
+SOAP_TYPE_PointerTons1__getData	gsoap/soapStub.h	428;"	d
+SOAP_TYPE_PointerTons1__getData_DEFINED	gsoap/soapH.h	662;"	d
+SOAP_TYPE_PointerTons1__stringArray	gsoap/soapStub.h	433;"	d
+SOAP_TYPE_PointerTons1__stringArray_DEFINED	gsoap/soapH.h	671;"	d
+SOAP_TYPE_PointerTostring	gsoap/soapStub.h	438;"	d
+SOAP_TYPE_PointerTostring_DEFINED	gsoap/soapH.h	680;"	d
+SOAP_TYPE_SOAP_ENV__Code	gsoap/soapStub.h	213;"	d
+SOAP_TYPE_SOAP_ENV__Code	gsoap/soapStub.h	403;"	d
+SOAP_TYPE_SOAP_ENV__Code_DEFINED	gsoap/soapH.h	458;"	d
+SOAP_TYPE_SOAP_ENV__Detail	gsoap/soapStub.h	240;"	d
+SOAP_TYPE_SOAP_ENV__Detail	gsoap/soapStub.h	398;"	d
+SOAP_TYPE_SOAP_ENV__Detail_DEFINED	gsoap/soapH.h	393;"	d
+SOAP_TYPE_SOAP_ENV__Fault	gsoap/soapStub.h	291;"	d
+SOAP_TYPE_SOAP_ENV__Fault	gsoap/soapStub.h	388;"	d
+SOAP_TYPE_SOAP_ENV__Fault_DEFINED	gsoap/soapH.h	263;"	d
+SOAP_TYPE_SOAP_ENV__Header	gsoap/soapStub.h	194;"	d
+SOAP_TYPE_SOAP_ENV__Header	gsoap/soapStub.h	408;"	d
+SOAP_TYPE_SOAP_ENV__Header_DEFINED	gsoap/soapH.h	517;"	d
+SOAP_TYPE_SOAP_ENV__Reason	gsoap/soapStub.h	268;"	d
+SOAP_TYPE_SOAP_ENV__Reason	gsoap/soapStub.h	393;"	d
+SOAP_TYPE_SOAP_ENV__Reason_DEFINED	gsoap/soapH.h	336;"	d
+SOAP_TYPE__QName	gsoap/soapStub.h	344;"	d
+SOAP_TYPE__QName	gsoap/soapStub.h	448;"	d
+SOAP_TYPE__QName_DEFINED	gsoap/soapH.h	693;"	d
+SOAP_TYPE__XML	gsoap/soapStub.h	350;"	d
+SOAP_TYPE__XML	gsoap/soapStub.h	443;"	d
+SOAP_TYPE__XML_DEFINED	gsoap/soapH.h	689;"	d
+SOAP_TYPE___ns1__getData	gsoap/soapStub.h	172;"	d
+SOAP_TYPE___ns1__getData_DEFINED	gsoap/soapH.h	570;"	d
+SOAP_TYPE_byte	gsoap/soapStub.h	363;"	d
+SOAP_TYPE_byte_DEFINED	gsoap/soapH.h	49;"	d
+SOAP_TYPE_int	gsoap/soapStub.h	368;"	d
+SOAP_TYPE_int_DEFINED	gsoap/soapH.h	75;"	d
+SOAP_TYPE_ns1__getData	gsoap/soapStub.h	378;"	d
+SOAP_TYPE_ns1__getData	gsoap/soapStub.h	86;"	d
+SOAP_TYPE_ns1__getDataResponse	gsoap/soapStub.h	132;"	d
+SOAP_TYPE_ns1__getDataResponse	gsoap/soapStub.h	373;"	d
+SOAP_TYPE_ns1__getDataResponse_DEFINED	gsoap/soapH.h	101;"	d
+SOAP_TYPE_ns1__getData_DEFINED	gsoap/soapH.h	151;"	d
+SOAP_TYPE_ns1__stringArray	gsoap/soapStub.h	383;"	d
+SOAP_TYPE_ns1__stringArray	gsoap/soapStub.h	44;"	d
+SOAP_TYPE_ns1__stringArray_DEFINED	gsoap/soapH.h	205;"	d
+SOAP_TYPE_string	gsoap/soapStub.h	453;"	d
+SOAP_TYPE_string_DEFINED	gsoap/soapH.h	720;"	d
+SOAP_UDP_ERROR	gsoap/stdsoap2.h	1479;"	d
+SOAP_ULONG_FORMAT	gsoap/stdsoap2.h	1024;"	d
+SOAP_ULONG_FORMAT	gsoap/stdsoap2.h	1033;"	d
+SOAP_ULONG_FORMAT	gsoap/stdsoap2.h	273;"	d
+SOAP_ULONG_FORMAT	gsoap/stdsoap2.h	382;"	d
+SOAP_ULONG_FORMAT	gsoap/stdsoap2.h	440;"	d
+SOAP_ULONG_FORMAT	gsoap/stdsoap2.h	967;"	d
+SOAP_ULONG_FORMAT	gsoap/stdsoap2.h	997;"	d
+SOAP_USER_ERROR	gsoap/stdsoap2.h	1462;"	d
+SOAP_UTF_ERROR	gsoap/stdsoap2.h	1500;"	d
+SOAP_VERSIONMISMATCH	gsoap/stdsoap2.h	1491;"	d
+SOAP_WINSOCKINT	gsoap/stdsoap2.h	782;"	d
+SOAP_WINSOCKINT	gsoap/stdsoap2.h	784;"	d
+SOAP_XML_CANONICAL	gsoap/stdsoap2.h	1579;"	d
+SOAP_XML_DEFAULTNS	gsoap/stdsoap2.h	1578;"	d
+SOAP_XML_DOM	gsoap/stdsoap2.h	1595;"	d
+SOAP_XML_GRAPH	gsoap/stdsoap2.h	1596;"	d
+SOAP_XML_IGNORENS	gsoap/stdsoap2.h	1577;"	d
+SOAP_XML_INDENT	gsoap/stdsoap2.h	1576;"	d
+SOAP_XML_NIL	gsoap/stdsoap2.h	1581;"	d
+SOAP_XML_NOTYPE	gsoap/stdsoap2.h	1582;"	d
+SOAP_XML_STRICT	gsoap/stdsoap2.h	1575;"	d
+SOAP_XML_TREE	gsoap/stdsoap2.h	1580;"	d
+SOAP_XSTRINGIFY	gsoap/stdsoap2.h	137;"	d
+SOAP_ZLIB_DEFLATE	gsoap/stdsoap2.h	1548;"	d
+SOAP_ZLIB_ERROR	gsoap/stdsoap2.h	1483;"	d
+SOAP_ZLIB_GZIP	gsoap/stdsoap2.h	1550;"	d
+SOAP_ZLIB_INFLATE	gsoap/stdsoap2.h	1549;"	d
+SOAP_ZLIB_NONE	gsoap/stdsoap2.h	1547;"	d
+STDSOAP_H	gsoap/stdsoap2.h	135;"	d
+SUN_OS	gsoap/stdsoap2.h	220;"	d
+SYMBIAN	gsoap/stdsoap2.h	190;"	d
+SomeSampleServices	getdata.py	/^class SomeSampleServices(ServiceBase):$/;"	c
+TRU64	gsoap/stdsoap2.h	208;"	d
+ULONG64	gsoap/stdsoap2.h	1001;"	d
+ULONG64	gsoap/stdsoap2.h	1005;"	d
+ULONG64	gsoap/stdsoap2.h	1010;"	d
+ULONG64	gsoap/stdsoap2.h	1013;"	d
+ULONG64	gsoap/stdsoap2.h	643;"	d
+ULONG64	gsoap/stdsoap2.h	959;"	d
+ULONG64	gsoap/stdsoap2.h	962;"	d
+ULONG64	gsoap/stdsoap2.h	979;"	d
+ULONG64	gsoap/stdsoap2.h	983;"	d
+ULONG64	gsoap/stdsoap2.h	987;"	d
+ULONG64	gsoap/stdsoap2.h	992;"	d
+UNDER_CE	gsoap/stdsoap2.h	165;"	d
+VXWORKS	gsoap/stdsoap2.h	146;"	d
+WIN32	gsoap/stdsoap2.h	152;"	d
+WIN32	gsoap/stdsoap2.h	159;"	d
+WIN32	gsoap/stdsoap2.h	171;"	d
+WIN32	gsoap/stdsoap2.h	178;"	d
+WIN32	gsoap/stdsoap2.h	191;"	d
+WITH_CDATA	gsoap/stdsoap2.h	586;"	d
+WITH_COOKIES	gsoap/stdsoap2.h	713;"	d
+WITH_FAST	gsoap/stdsoap2.h	582;"	d
+WITH_GNUTLS	gsoap/stdsoap2.h	233;"	d
+WITH_GNUTLS	gsoap/stdsoap2.h	841;"	d
+WITH_GZIP	gsoap/stdsoap2.h	239;"	d
+WITH_IPV6	gsoap/stdsoap2.h	789;"	d
+WITH_LEAN	gsoap/stdsoap2.h	461;"	d
+WITH_LEAN	gsoap/stdsoap2.h	471;"	d
+WITH_LEAN	gsoap/stdsoap2.h	575;"	d
+WITH_NOEMPTYSTRUCT	gsoap/stdsoap2.h	599;"	d
+WITH_NOIO	gsoap/stdsoap2.h	442;"	d
+WITH_NOIO	gsoap/stdsoap2.h	639;"	d
+WITH_NOIO	gsoap/stdsoap2.h	712;"	d
+WITH_NONAMESPACES	gsoap/stdsoap2.h	472;"	d
+WITH_OPENSSL	gsoap/stdsoap2.h	228;"	d
+WITH_ZLIB	gsoap/stdsoap2.h	238;"	d
+WITH_ZLIB	gsoap/stdsoap2.h	875;"	d
+_POSIX_THREADS	gsoap/stdsoap2.h	478;"	d
+_QName	gsoap/soapStub.h	/^typedef char *_QName;$/;"	t
+_REENTRANT	gsoap/stdsoap2.h	66;"	d
+_THREAD_SAFE	gsoap/stdsoap2.h	61;"	d
+_XML	gsoap/soapStub.h	/^typedef char *_XML;$/;"	t
+__STDC_FORMAT_MACROS	gsoap/stdsoap2.h	953;"	d
+__USE_STD_IOSTREAM	gsoap/stdsoap2.h	436;"	d
+__any	gsoap/soapStub.h	/^        char *__any;$/;"	m	struct:SOAP_ENV__Detail
+__init__	oracle/mydb.py	/^	def __init__(self):$/;"	m	class:DB
+__ns1__getData	gsoap/soapStub.h	/^        __ns1__getData()$/;"	f	struct:__ns1__getData
+__ns1__getData	gsoap/soapStub.h	/^struct __ns1__getData {$/;"	s
+__sizestring	gsoap/getdata.h	/^   $int                                  __sizestring                   0;$/;"	m	class:ns1__stringArray
+__sizestring	gsoap/soapStub.h	/^        int __sizestring;$/;"	m	class:ns1__stringArray
+__type	gsoap/soapStub.h	/^        int __type;$/;"	m	struct:SOAP_ENV__Detail
+accept	gsoap/soapJqServiceHttpBindingService.cpp	/^SOAP_SOCKET JqServiceHttpBindingService::accept()$/;"	f	class:JqServiceHttpBindingService
+accept_flags	gsoap/stdsoap2.h	/^  int accept_flags;             \/* user-definable accept() SOL_SOCKET sockopt flags *\/$/;"	m	struct:soap
+accept_timeout	gsoap/stdsoap2.h	/^  int accept_timeout;           \/* user-definable, when > 0, gives socket accept() timeout in seconds, < 0 in usec *\/$/;"	m	struct:soap
+acred	gsoap/stdsoap2.h	/^  gnutls_anon_client_credentials_t acred;       \/* anon pointer *\/$/;"	m	struct:soap
+action	gsoap/stdsoap2.h	/^  char *action;$/;"	m	struct:soap
+actor	gsoap/stdsoap2.h	/^  const char *actor;            \/* SOAP-ENV:actor or role attribute value *\/$/;"	m	struct:soap
+add	gsoap/stdsoap2.h	/^  soap_dom_element& add(soap_dom_attribute *att)                        { return *soap_add_att(this, att); }$/;"	f	struct:soap_dom_element
+add	gsoap/stdsoap2.h	/^  soap_dom_element& add(soap_dom_attribute& att)                        { return *soap_add_att(this, &att); }$/;"	f	struct:soap_dom_element
+add	gsoap/stdsoap2.h	/^  soap_dom_element& add(soap_dom_element *elt)                          { return *soap_add_elt(this, elt); }$/;"	f	struct:soap_dom_element
+add	gsoap/stdsoap2.h	/^  soap_dom_element& add(soap_dom_element& elt)                          { return *soap_add_elt(this, &elt); }$/;"	f	struct:soap_dom_element
+addr	gsoap/stdsoap2.h	/^  { struct sockaddr addr;$/;"	m	union:soap::__anon2	typeref:struct:soap::__anon2::sockaddr
+adds	gsoap/stdsoap2.h	/^  soap_dom_element& adds(soap_dom_attribute *atts)                      { return *soap_add_atts(this, atts); }$/;"	f	struct:soap_dom_element
+adds	gsoap/stdsoap2.h	/^  soap_dom_element& adds(soap_dom_attribute& atts)                      { return *soap_add_atts(this, &atts); }$/;"	f	struct:soap_dom_element
+adds	gsoap/stdsoap2.h	/^  soap_dom_element& adds(soap_dom_element *elts)                        { return *soap_add_elts(this, elts); }$/;"	f	struct:soap_dom_element
+adds	gsoap/stdsoap2.h	/^  soap_dom_element& adds(soap_dom_element& elts)                        { return *soap_add_elts(this, &elts); }$/;"	f	struct:soap_dom_element
+ahead	gsoap/stdsoap2.h	/^  soap_wchar ahead;     \/* parser lookahead *\/$/;"	m	struct:soap
+alist	gsoap/stdsoap2.h	/^  void *alist;                  \/* memory allocation (malloc) list *\/$/;"	m	struct:soap
+alloced	gsoap/stdsoap2.h	/^  int alloced;$/;"	m	struct:soap
+array	gsoap/stdsoap2.h	/^  const void *array; \/* array pointer *\/$/;"	m	struct:soap_plist
+arrayOffset	gsoap/stdsoap2.h	/^  char arrayOffset[SOAP_TAGLEN];$/;"	m	struct:soap
+arraySize	gsoap/stdsoap2.h	/^  char arraySize[SOAP_TAGLEN];$/;"	m	struct:soap
+arrayType	gsoap/stdsoap2.h	/^  char arrayType[SOAP_TAGLEN];$/;"	m	struct:soap
+att	gsoap/stdsoap2.h	/^  soap_dom_attribute& att(const char *ns, const char *tag)              { return *soap_att(this, ns, tag); }$/;"	f	struct:soap_dom_element
+att	gsoap/stdsoap2.h	/^  soap_dom_attribute& att(const char *ns, const char *tag)      { return *soap_att_add(this, ns, tag); }$/;"	f	struct:soap_dom_attribute
+att	gsoap/stdsoap2.h	/^  soap_dom_attribute& att(const char *ns, const wchar_t *tag)           { return *soap_att_w(this, ns, tag); }$/;"	f	struct:soap_dom_element
+att	gsoap/stdsoap2.h	/^  soap_dom_attribute& att(const char *ns, const wchar_t *tag)   { return *soap_att_add_w(this, ns, tag); }$/;"	f	struct:soap_dom_attribute
+att	gsoap/stdsoap2.h	/^  soap_dom_attribute& att(const char *tag)                              { return *soap_att(this, NULL, tag); }$/;"	f	struct:soap_dom_element
+att	gsoap/stdsoap2.h	/^  soap_dom_attribute& att(const char *tag)                      { return *soap_att_add(this, NULL, tag); }$/;"	f	struct:soap_dom_attribute
+att	gsoap/stdsoap2.h	/^  soap_dom_attribute& att(const wchar_t *tag)                           { return *soap_att_w(this, NULL, tag); }$/;"	f	struct:soap_dom_element
+att	gsoap/stdsoap2.h	/^  soap_dom_attribute& att(const wchar_t *tag)                   { return *soap_att_add_w(this, NULL, tag); }$/;"	f	struct:soap_dom_attribute
+att_begin	gsoap/stdsoap2.h	/^  soap_dom_attribute_iterator att_begin()                               { return soap_dom_attribute_iterator(this->atts); }$/;"	f	struct:soap_dom_element
+att_begin	gsoap/stdsoap2.h	/^  soap_dom_attribute_iterator att_begin()                       { return soap_dom_attribute_iterator(this); }$/;"	f	struct:soap_dom_attribute
+att_end	gsoap/stdsoap2.h	/^  soap_dom_attribute_iterator att_end()                                 { return soap_dom_attribute_iterator(NULL); }$/;"	f	struct:soap_dom_element
+att_end	gsoap/stdsoap2.h	/^  soap_dom_attribute_iterator att_end()                         { return soap_dom_attribute_iterator(NULL); }$/;"	f	struct:soap_dom_attribute
+att_find	gsoap/stdsoap2.h	/^  soap_dom_attribute_iterator att_find(const char *patt)                { return att_find(NULL, patt); }$/;"	f	struct:soap_dom_element
+att_find	gsoap/stdsoap2.h	/^  soap_dom_attribute_iterator att_find(const char *patt)        { return att_find(NULL, patt); }$/;"	f	struct:soap_dom_attribute
+att_find	gsoap/stdsoap2.h	/^  soap_dom_attribute_iterator att_find(const wchar_t *patt)             { return att_find(NULL, patt); }$/;"	f	struct:soap_dom_element
+att_find	gsoap/stdsoap2.h	/^  soap_dom_attribute_iterator att_find(const wchar_t *patt)     { return att_find(NULL, patt); }$/;"	f	struct:soap_dom_attribute
+att_get	gsoap/stdsoap2.h	/^  soap_dom_attribute *att_get(const char *ns, const char *tag) const    { return soap_att_get(this, ns, tag); }$/;"	f	struct:soap_dom_element
+att_get	gsoap/stdsoap2.h	/^  soap_dom_attribute *att_get(const char *ns, const wchar_t *tag) const { return soap_att_get_w(this, ns, tag); }$/;"	f	struct:soap_dom_element
+att_get	gsoap/stdsoap2.h	/^  soap_dom_attribute *att_get(const char *tag) const                    { return soap_att_get(this, NULL, tag); }$/;"	f	struct:soap_dom_element
+att_get	gsoap/stdsoap2.h	/^  soap_dom_attribute *att_get(const wchar_t *tag) const                 { return soap_att_get_w(this, NULL, tag); }$/;"	f	struct:soap_dom_element
+att_size	gsoap/stdsoap2.h	/^  size_t att_size()                                                     { return soap_att_size(this, NULL, NULL); }$/;"	f	struct:soap_dom_element
+att_size	gsoap/stdsoap2.h	/^  size_t att_size(const char *ns, const char *patt)                     { return soap_att_size(this, ns, patt); }$/;"	f	struct:soap_dom_element
+att_size	gsoap/stdsoap2.h	/^  size_t att_size(const char *ns, const std::string& patt)              { return soap_att_size(this, ns, patt.c_str()); }$/;"	f	struct:soap_dom_element
+att_size	gsoap/stdsoap2.h	/^  size_t att_size(const char *patt)                                     { return att_size(NULL, patt); }$/;"	f	struct:soap_dom_element
+att_size	gsoap/stdsoap2.h	/^  size_t att_size(const std::string& patt)                              { return att_size(NULL, patt); }$/;"	f	struct:soap_dom_element
+attributes	gsoap/stdsoap2.h	/^  struct soap_attribute *attributes;    \/* attribute list *\/$/;"	m	struct:soap	typeref:struct:soap::soap_attribute
+atts	gsoap/stdsoap2.h	/^  struct soap_dom_attribute *atts;$/;"	m	struct:soap_dom_element	typeref:struct:soap_dom_element::soap_dom_attribute
+authrealm	gsoap/stdsoap2.h	/^  const char *authrealm;        \/* HTTP authentication realm (NTLM domain) *\/$/;"	m	struct:soap
+begin	gsoap/stdsoap2.h	/^  soap_multipart_iterator begin()$/;"	f	struct:soap_dime
+begin	gsoap/stdsoap2.h	/^  soap_multipart_iterator begin()$/;"	f	struct:soap_mime
+bind	gsoap/soapJqServiceHttpBindingService.cpp	/^SOAP_SOCKET JqServiceHttpBindingService::bind(const char *host, int port, int backlog)$/;"	f	class:JqServiceHttpBindingService
+bind_flags	gsoap/stdsoap2.h	/^  int bind_flags;               \/* user-definable bind() SOL_SOCKET sockopt flags, e.g. set to SO_REUSEADDR to enable reuse *\/$/;"	m	struct:soap
+bio	gsoap/stdsoap2.h	/^  BIO *bio;$/;"	m	struct:soap
+bio	gsoap/stdsoap2.h	/^  void *bio;                    \/* N\/A *\/$/;"	m	struct:soap
+bio	gsoap/stdsoap2.h	/^  void *bio;$/;"	m	struct:soap
+blist	gsoap/stdsoap2.h	/^  struct soap_blist *blist;     \/* block allocation stack *\/$/;"	m	struct:soap	typeref:struct:soap::soap_blist
+body	gsoap/stdsoap2.h	/^  short body;           \/* HTTP or XML element has a body (1) or not (0) *\/$/;"	m	struct:soap
+boundary	gsoap/stdsoap2.h	/^{ char *boundary;                       \/* MIME boundary *\/$/;"	m	struct:soap_mime
+buf	gsoap/stdsoap2.h	/^  char buf[SOAP_BUFLEN];\/* send and receive buffer *\/$/;"	m	struct:soap
+bufidx	gsoap/stdsoap2.h	/^  size_t bufidx;        \/* index in soap.buf[] *\/$/;"	m	struct:soap
+buflen	gsoap/stdsoap2.h	/^  size_t buflen;        \/* length of soap.buf[] content *\/$/;"	m	struct:soap
+buflen	gsoap/stdsoap2.h	/^  size_t buflen;$/;"	m	struct:soap_dime
+c14nexclude	gsoap/stdsoap2.h	/^  const char *c14nexclude;      \/* space-separated string of prefixes for c14n exclusion *\/$/;"	m	struct:soap
+c14ninclude	gsoap/stdsoap2.h	/^  const char *c14ninclude;      \/* space-separated string of prefixes for c14n inclusion *\/$/;"	m	struct:soap
+c_locale	gsoap/stdsoap2.h	/^  _locale_t c_locale;           \/* set to C locale by default *\/$/;"	m	struct:soap
+c_locale	gsoap/stdsoap2.h	/^  locale_t c_locale;            \/* set to C locale by default *\/$/;"	m	struct:soap
+c_locale	gsoap/stdsoap2.h	/^  void *c_locale;$/;"	m	struct:soap
+cache	gsoap/stdsoap2.h	/^  gnutls_priority_t cache;                      \/* priority cache pointer *\/$/;"	m	struct:soap
+cafile	gsoap/stdsoap2.h	/^  const char *cafile;$/;"	m	struct:soap
+capath	gsoap/stdsoap2.h	/^  const char *capath;$/;"	m	struct:soap
+cdata	gsoap/stdsoap2.h	/^  short cdata;          \/* CDATA parser state *\/$/;"	m	struct:soap
+chunkbuflen	gsoap/stdsoap2.h	/^  size_t chunkbuflen;$/;"	m	struct:soap
+chunksize	gsoap/stdsoap2.h	/^  size_t chunksize;$/;"	m	struct:soap
+chunksize	gsoap/stdsoap2.h	/^  size_t chunksize;$/;"	m	struct:soap_dime
+client	client_getdata.py	/^client = Client("http:\/\/%s:%s\/?wsdl" % ('127.0.0.1', '8000')) $/;"	v
+clist	gsoap/stdsoap2.h	/^  struct soap_clist *clist;     \/* class instance allocation list *\/$/;"	m	struct:soap	typeref:struct:soap::soap_clist
+code	gsoap/stdsoap2.h	/^  const char *code;$/;"	m	struct:soap_dom_element
+code	gsoap/stdsoap2.h	/^{ LONG64 code;$/;"	m	struct:soap_code_map
+connDB	oracle/mydb.py	/^	def connDB(self):$/;"	m	class:DB
+connect_flags	gsoap/stdsoap2.h	/^  int connect_flags;            \/* user-definable connect() SOL_SOCKET sockopt flags, e.g. set to SO_DEBUG to debug socket *\/$/;"	m	struct:soap
+connect_timeout	gsoap/stdsoap2.h	/^  int connect_timeout;          \/* user-definable, when > 0, gives socket connect() timeout in seconds, < 0 in usec *\/$/;"	m	struct:soap
+content	gsoap/getdata.h	/^    char*                                content                        0;	\/\/\/< Optional element.$/;"	m	class:ns1__getData
+content	gsoap/soapStub.h	/^        char *content;$/;"	m	class:ns1__getData
+content	gsoap/stdsoap2.h	/^  struct soap_multipart *content;$/;"	m	class:soap_multipart_iterator	typeref:struct:soap_multipart_iterator::soap_multipart
+cookie_domain	gsoap/stdsoap2.h	/^  const char *cookie_domain;$/;"	m	struct:soap
+cookie_max	gsoap/stdsoap2.h	/^  int cookie_max;$/;"	m	struct:soap
+cookie_path	gsoap/stdsoap2.h	/^  const char *cookie_path;$/;"	m	struct:soap
+cookies	gsoap/stdsoap2.h	/^  struct soap_cookie *cookies;$/;"	m	struct:soap	typeref:struct:soap::soap_cookie
+copy	gsoap/soapJqServiceHttpBindingProxy.cpp	/^JqServiceHttpBindingProxy *JqServiceHttpBindingProxy::copy()$/;"	f	class:JqServiceHttpBindingProxy
+copy	gsoap/soapJqServiceHttpBindingService.cpp	/^JqServiceHttpBindingService *JqServiceHttpBindingService::copy()$/;"	f	class:JqServiceHttpBindingService
+copy	gsoap/stdsoap2.h	/^  void *copy;$/;"	m	struct:soap_ilist
+count	gsoap/stdsoap2.h	/^  size_t count;         \/* message length counter *\/$/;"	m	struct:soap
+count	gsoap/stdsoap2.h	/^{ size_t count;$/;"	m	struct:soap_dime
+crlfile	gsoap/stdsoap2.h	/^  const char *crlfile;$/;"	m	struct:soap
+ctx	gsoap/stdsoap2.h	/^  SSL_CTX *ctx;$/;"	m	struct:soap
+ctx	gsoap/stdsoap2.h	/^  gsk_handle ctx;               \/* environment *\/$/;"	m	struct:soap
+ctx	gsoap/stdsoap2.h	/^  void *ctx;$/;"	m	struct:soap
+cur_file_dir	getdata.py	/^def cur_file_dir():$/;"	f
+cur_path	getdata.py	/^cur_path = cur_file_dir()$/;"	v
+d_stream	gsoap/stdsoap2.h	/^  void *d_stream;               \/* dummy members, to preserve struct size *\/$/;"	m	struct:soap
+d_stream	gsoap/stdsoap2.h	/^  z_stream *d_stream;           \/* decompression stream *\/$/;"	m	struct:soap
+data	gsoap/stdsoap2.h	/^  void *data;$/;"	m	struct:soap_plugin
+data	gsoap/stdsoap2.h	/^  void *data[4];                \/* extension data = {smdevp, mecevp, ...} *\/$/;"	m	struct:soap
+deep	gsoap/stdsoap2.h	/^  bool deep;$/;"	m	class:soap_dom_element_iterator
+depth	gsoap/stdsoap2.h	/^  size_t depth() const                                                  { return soap_elt_depth(this); }$/;"	f	struct:soap_dom_element
+description	gsoap/stdsoap2.h	/^  const char *description;              \/* MIME Content-Description (optional) *\/$/;"	m	struct:soap_multipart
+destroy	gsoap/soapJqServiceHttpBindingProxy.cpp	/^void JqServiceHttpBindingProxy::destroy()$/;"	f	class:JqServiceHttpBindingProxy
+destroy	gsoap/soapJqServiceHttpBindingService.cpp	/^void JqServiceHttpBindingService::destroy()$/;"	f	class:JqServiceHttpBindingService
+detail	gsoap/soapStub.h	/^        struct SOAP_ENV__Detail *detail;$/;"	m	struct:SOAP_ENV__Fault	typeref:struct:SOAP_ENV__Fault::SOAP_ENV__Detail
+dh_params	gsoap/stdsoap2.h	/^  gnutls_dh_params_t dh_params;$/;"	m	struct:soap
+dh_params	gsoap/stdsoap2.h	/^  void *dh_params;$/;"	m	struct:soap
+dhfile	gsoap/stdsoap2.h	/^  const char *dhfile;           \/* N\/A *\/$/;"	m	struct:soap
+dhfile	gsoap/stdsoap2.h	/^  const char *dhfile;$/;"	m	struct:soap
+dime	gsoap/stdsoap2.h	/^  struct soap_dime dime;$/;"	m	struct:soap	typeref:struct:soap::soap_dime
+dime_id_format	gsoap/stdsoap2.h	/^  const char *dime_id_format;   \/* user-definable format string for integer DIME id (<SOAP_TAGLEN chars) *\/$/;"	m	struct:soap
+dispatch	gsoap/soapJqServiceHttpBindingService.cpp	/^int JqServiceHttpBindingService::dispatch()$/;"	f	class:JqServiceHttpBindingService
+dom	gsoap/stdsoap2.h	/^  struct soap_dom_element *dom;$/;"	m	struct:soap	typeref:struct:soap::soap_dom_element
+domain	gsoap/stdsoap2.h	/^  char *domain;$/;"	m	struct:soap_cookie
+double_format	gsoap/stdsoap2.h	/^  const char *double_format;    \/* user-definable format string for doubles (<1024 chars) *\/$/;"	m	struct:soap
+dup	gsoap/stdsoap2.h	/^  void *dup;$/;"	m	struct:soap_plist
+dv	gsoap/stdsoap2.h	/^union soap_double_nan {struct {unsigned int n1, n2;} iv; double dv; float fv;};$/;"	m	union:soap_double_nan
+elt	gsoap/stdsoap2.h	/^  soap_dom_element& elt()                                               { return *soap_elt(this, NULL, NULL); }$/;"	f	struct:soap_dom_element
+elt	gsoap/stdsoap2.h	/^  soap_dom_element& elt(const char *ns, const char *tag)                { return *soap_elt(this, ns, tag); }$/;"	f	struct:soap_dom_element
+elt	gsoap/stdsoap2.h	/^  soap_dom_element& elt(const char *ns, const wchar_t *tag)             { return *soap_elt_w(this, ns, tag); }$/;"	f	struct:soap_dom_element
+elt	gsoap/stdsoap2.h	/^  soap_dom_element& elt(const char *tag)                                { return *soap_elt(this, NULL, tag); }$/;"	f	struct:soap_dom_element
+elt	gsoap/stdsoap2.h	/^  soap_dom_element& elt(const wchar_t *tag)                             { return *soap_elt_w(this, NULL, tag); }$/;"	f	struct:soap_dom_element
+elt_begin	gsoap/stdsoap2.h	/^  soap_dom_element_iterator elt_begin()                                 { return soap_dom_element_iterator(this->elts); }$/;"	f	struct:soap_dom_element
+elt_end	gsoap/stdsoap2.h	/^  soap_dom_element_iterator elt_end()                                   { return soap_dom_element_iterator(NULL); }$/;"	f	struct:soap_dom_element
+elt_find	gsoap/stdsoap2.h	/^  soap_dom_element_iterator elt_find(const char *patt, int type = 0)    { return elt_find(NULL, patt, type); }$/;"	f	struct:soap_dom_element
+elt_find	gsoap/stdsoap2.h	/^  soap_dom_element_iterator elt_find(const wchar_t *patt, int type = 0) { return elt_find(NULL, patt, type); }$/;"	f	struct:soap_dom_element
+elt_get	gsoap/stdsoap2.h	/^  soap_dom_element *elt_get() const                                     { return soap_elt_get(this, NULL, NULL); }$/;"	f	struct:soap_dom_element
+elt_get	gsoap/stdsoap2.h	/^  soap_dom_element *elt_get(const char *ns, const char *tag) const      { return soap_elt_get(this, ns, tag); }$/;"	f	struct:soap_dom_element
+elt_get	gsoap/stdsoap2.h	/^  soap_dom_element *elt_get(const char *ns, const wchar_t *tag) const   { return soap_elt_get_w(this, ns, tag); }$/;"	f	struct:soap_dom_element
+elt_get	gsoap/stdsoap2.h	/^  soap_dom_element *elt_get(const char *tag) const                      { return soap_elt_get(this, NULL, tag); }$/;"	f	struct:soap_dom_element
+elt_get	gsoap/stdsoap2.h	/^  soap_dom_element *elt_get(const wchar_t *tag) const                   { return soap_elt_get_w(this, NULL, tag); }$/;"	f	struct:soap_dom_element
+elt_size	gsoap/stdsoap2.h	/^  size_t elt_size()                                                     { return soap_elt_size(this, NULL, NULL); }$/;"	f	struct:soap_dom_element
+elt_size	gsoap/stdsoap2.h	/^  size_t elt_size(const char *ns, const char *patt, int type = 0)       { return soap_elt_size_type(this, ns, patt, type); }$/;"	f	struct:soap_dom_element
+elt_size	gsoap/stdsoap2.h	/^  size_t elt_size(const char *patt, int type = 0)                       { return elt_size(NULL, patt, type); }$/;"	f	struct:soap_dom_element
+elts	gsoap/stdsoap2.h	/^  struct soap_dom_element *elts;$/;"	m	struct:soap_dom_element	typeref:struct:soap_dom_element::soap_dom_element
+encoding	gsoap/stdsoap2.h	/^  enum soap_mime_encoding encoding;     \/* MIME Content-Transfer-Encoding *\/$/;"	m	struct:soap_multipart	typeref:enum:soap_multipart::soap_mime_encoding
+encoding	gsoap/stdsoap2.h	/^  short encoding;       \/* when set, output encodingStyle *\/$/;"	m	struct:soap
+encodingStyle	gsoap/stdsoap2.h	/^  const char *encodingStyle;    \/* default = "" which means that SOAP encoding is used *\/$/;"	m	struct:soap
+end	gsoap/stdsoap2.h	/^  soap_dom_element_iterator end()                                       { return soap_dom_element_iterator(NULL); }$/;"	f	struct:soap_dom_element
+end	gsoap/stdsoap2.h	/^  soap_multipart_iterator end()$/;"	f	struct:soap_dime
+end	gsoap/stdsoap2.h	/^  soap_multipart_iterator end()$/;"	f	struct:soap_mime
+end	gsoap/stdsoap2.h	/^  static void end(struct soap *soap, struct soap_blist *b)$/;"	f	struct:soap_block
+endpoint	gsoap/stdsoap2.h	/^  char endpoint[SOAP_TAGLEN];$/;"	m	struct:soap
+env	gsoap/stdsoap2.h	/^  short env;            \/* server-side: got cookie from client and should not be (re)send *\/$/;"	m	struct:soap_cookie
+errmode	gsoap/stdsoap2.h	/^  int errmode;$/;"	m	struct:soap
+errnum	gsoap/stdsoap2.h	/^  int errnum;$/;"	m	struct:soap
+error	gsoap/stdsoap2.h	/^  int error;$/;"	m	struct:soap
+event	gsoap/stdsoap2.h	/^  short event;          \/* engine events and states for use by plugins *\/$/;"	m	struct:soap
+evlev	gsoap/stdsoap2.h	/^  unsigned int evlev;   \/* event level *\/$/;"	m	struct:soap
+expire	gsoap/stdsoap2.h	/^  time_t expire;        \/* client-side: local time to expire *\/$/;"	m	struct:soap_cookie
+f	getdata.py	/^def f(x):$/;"	f
+f	oracle/mydb.py	/^def f(x):$/;"	f
+faccept	gsoap/stdsoap2.h	/^  SOAP_SOCKET (*faccept)(struct soap*, SOAP_SOCKET, struct sockaddr*, int *n);$/;"	m	struct:soap
+fault	gsoap/soapStub.h	/^        void *fault;$/;"	m	struct:SOAP_ENV__Detail
+fault	gsoap/stdsoap2.h	/^  struct SOAP_ENV__Fault *fault;$/;"	m	struct:soap	typeref:struct:soap::SOAP_ENV__Fault
+faultactor	gsoap/soapStub.h	/^        char *faultactor;$/;"	m	struct:SOAP_ENV__Fault
+faultcode	gsoap/soapStub.h	/^        char *faultcode;$/;"	m	struct:SOAP_ENV__Fault
+faultstring	gsoap/soapStub.h	/^        char *faultstring;$/;"	m	struct:SOAP_ENV__Fault
+fclose	gsoap/stdsoap2.h	/^  int (*fclose)(struct soap*);$/;"	m	struct:soap
+fclosesocket	gsoap/stdsoap2.h	/^  int (*fclosesocket)(struct soap*, SOAP_SOCKET);$/;"	m	struct:soap
+fconnect	gsoap/stdsoap2.h	/^  int (*fconnect)(struct soap*, const char*, const char*, int);$/;"	m	struct:soap
+fcopy	gsoap/stdsoap2.h	/^  int (*fcopy)(struct soap *soap, struct soap_plugin *dst, struct soap_plugin *src);$/;"	m	struct:soap_plugin
+fdebug	gsoap/stdsoap2.h	/^  FILE *fdebug[SOAP_MAXLOGS];$/;"	m	struct:soap
+fdel	gsoap/stdsoap2.h	/^  int (*fdel)(struct soap*);    \/* HTTP DELETE hook (not set by default) *\/$/;"	m	struct:soap
+fdelete	gsoap/stdsoap2.h	/^  int (*fdelete)(struct soap_clist*);$/;"	m	struct:soap_clist
+fdelete	gsoap/stdsoap2.h	/^  void (*fdelete)(struct soap *soap, struct soap_plugin *p); \/* should delete fields of plugin only and not free(p) *\/$/;"	m	struct:soap_plugin
+fdimeread	gsoap/stdsoap2.h	/^  size_t (*fdimeread)(struct soap*, void*, char*, size_t);$/;"	m	struct:soap
+fdimereadclose	gsoap/stdsoap2.h	/^  void (*fdimereadclose)(struct soap*, void*);$/;"	m	struct:soap
+fdimereadopen	gsoap/stdsoap2.h	/^  void *(*fdimereadopen)(struct soap*, void*, const char*, const char*, const char*);$/;"	m	struct:soap
+fdimewrite	gsoap/stdsoap2.h	/^  int (*fdimewrite)(struct soap*, void*, const char*, size_t);$/;"	m	struct:soap
+fdimewriteclose	gsoap/stdsoap2.h	/^  void (*fdimewriteclose)(struct soap*, void*);$/;"	m	struct:soap
+fdimewriteopen	gsoap/stdsoap2.h	/^  void *(*fdimewriteopen)(struct soap*, const char*, const char*, const char*);$/;"	m	struct:soap
+fdisconnect	gsoap/stdsoap2.h	/^  int (*fdisconnect)(struct soap*);$/;"	m	struct:soap
+feltbegin	gsoap/stdsoap2.h	/^  int (*feltbegin)(struct soap*, const char*);$/;"	m	struct:soap
+feltbegout	gsoap/stdsoap2.h	/^  int (*feltbegout)(struct soap*, const char*);$/;"	m	struct:soap
+feltendin	gsoap/stdsoap2.h	/^  int (*feltendin)(struct soap*, const char*, const char*);$/;"	m	struct:soap
+feltendout	gsoap/stdsoap2.h	/^  int (*feltendout)(struct soap*, const char*);$/;"	m	struct:soap
+ffilterrecv	gsoap/stdsoap2.h	/^  int (*ffilterrecv)(struct soap*, char*, size_t*, size_t);$/;"	m	struct:soap
+ffiltersend	gsoap/stdsoap2.h	/^  int (*ffiltersend)(struct soap*, const char**, size_t*);$/;"	m	struct:soap
+fform	gsoap/stdsoap2.h	/^  int (*fform)(struct soap*);   \/* HTTP\/HTML form handler for plugins *\/$/;"	m	struct:soap
+fget	gsoap/stdsoap2.h	/^  int (*fget)(struct soap*);    \/* HTTP GET hook (not set by default) *\/$/;"	m	struct:soap
+fhead	gsoap/stdsoap2.h	/^  int (*fhead)(struct soap*);   \/* HTTP HEAD hook (not set by default) *\/$/;"	m	struct:soap
+fheader	gsoap/stdsoap2.h	/^  int (*fheader)(struct soap*);$/;"	m	struct:soap
+fignore	gsoap/stdsoap2.h	/^  int (*fignore)(struct soap*, const char*);$/;"	m	struct:soap
+file	gsoap/stdsoap2.h	/^  const char *file;$/;"	m	struct:soap_mlist
+find	gsoap/stdsoap2.h	/^  soap_dom_element_iterator find(const char *patt, int type = 0)        { return find(NULL, patt, type); }$/;"	f	struct:soap_dom_element
+find	gsoap/stdsoap2.h	/^  soap_dom_element_iterator find(const wchar_t *patt, int type = 0)     { return find(NULL, patt, type); }$/;"	f	struct:soap_dom_element
+finsert	gsoap/stdsoap2.h	/^  void (*finsert)(struct soap*, int, int, void*, size_t, const void*, void**);$/;"	m	struct:soap_flist
+first	gsoap/stdsoap2.h	/^  struct soap_multipart *first, *last;  \/* temporary in\/out queue *\/$/;"	m	struct:soap_dime	typeref:struct:soap_dime::soap_multipart
+first	gsoap/stdsoap2.h	/^  struct soap_multipart *first, *last;  \/* temporary in\/out queue *\/$/;"	m	struct:soap_mime	typeref:struct:soap_mime::soap_multipart
+flag	gsoap/stdsoap2.h	/^  short flag;   \/* soap_set_attr: 1 = normal, 2 = utf content *\/$/;"	m	struct:soap_attribute
+flags	gsoap/stdsoap2.h	/^  char flags;$/;"	m	struct:soap_dime
+flist	gsoap/stdsoap2.h	/^  struct soap_flist *flist;$/;"	m	struct:soap_ilist	typeref:struct:soap_ilist::soap_flist
+float_format	gsoap/stdsoap2.h	/^  const char *float_format;     \/* user-definable format string for floats (<1024 chars) *\/$/;"	m	struct:soap
+fmalloc	gsoap/stdsoap2.h	/^  void *(*fmalloc)(struct soap*, size_t);$/;"	m	struct:soap
+fmimeread	gsoap/stdsoap2.h	/^  size_t (*fmimeread)(struct soap*, void*, char*, size_t);$/;"	m	struct:soap
+fmimereadclose	gsoap/stdsoap2.h	/^  void (*fmimereadclose)(struct soap*, void*);$/;"	m	struct:soap
+fmimereadopen	gsoap/stdsoap2.h	/^  void *(*fmimereadopen)(struct soap*, void*, const char*, const char*, const char*);$/;"	m	struct:soap
+fmimewrite	gsoap/stdsoap2.h	/^  int (*fmimewrite)(struct soap*, void*, const char*, size_t);$/;"	m	struct:soap
+fmimewriteclose	gsoap/stdsoap2.h	/^  void (*fmimewriteclose)(struct soap*, void*);$/;"	m	struct:soap
+fmimewriteopen	gsoap/stdsoap2.h	/^  void *(*fmimewriteopen)(struct soap*, void*, const char*, const char*, const char*, enum soap_mime_encoding);$/;"	m	struct:soap
+fopen	gsoap/stdsoap2.h	/^  SOAP_SOCKET (*fopen)(struct soap*, const char*, const char*, int);$/;"	m	struct:soap
+fopt	gsoap/stdsoap2.h	/^  int (*fopt)(struct soap*);    \/* HTTP OPTIONS hook (not set by default) *\/$/;"	m	struct:soap
+fparse	gsoap/stdsoap2.h	/^  int (*fparse)(struct soap*);$/;"	m	struct:soap
+fparsehdr	gsoap/stdsoap2.h	/^  int (*fparsehdr)(struct soap*, const char*, const char*);$/;"	m	struct:soap
+fplugin	gsoap/stdsoap2.h	/^  void *(*fplugin)(struct soap*, const char*);$/;"	m	struct:soap
+fpoll	gsoap/stdsoap2.h	/^  int (*fpoll)(struct soap*);$/;"	m	struct:soap
+fpost	gsoap/stdsoap2.h	/^  int (*fpost)(struct soap*, const char*, const char*, int, const char*, const char*, size_t);$/;"	m	struct:soap
+fposthdr	gsoap/stdsoap2.h	/^  int (*fposthdr)(struct soap*, const char*, const char*);$/;"	m	struct:soap
+fpreparefinalrecv	gsoap/stdsoap2.h	/^  int (*fpreparefinalrecv)(struct soap*);$/;"	m	struct:soap
+fpreparefinalsend	gsoap/stdsoap2.h	/^  int (*fpreparefinalsend)(struct soap*);$/;"	m	struct:soap
+fprepareinitrecv	gsoap/stdsoap2.h	/^  int (*fprepareinitrecv)(struct soap*);$/;"	m	struct:soap
+fprepareinitsend	gsoap/stdsoap2.h	/^  int (*fprepareinitsend)(struct soap*);$/;"	m	struct:soap
+fpreparerecv	gsoap/stdsoap2.h	/^  int (*fpreparerecv)(struct soap*, const char*, size_t);$/;"	m	struct:soap
+fpreparesend	gsoap/stdsoap2.h	/^  int (*fpreparesend)(struct soap*, const char*, size_t);$/;"	m	struct:soap
+fput	gsoap/stdsoap2.h	/^  int (*fput)(struct soap*);    \/* HTTP PUT hook (handled as POST by default) *\/$/;"	m	struct:soap
+frecv	gsoap/stdsoap2.h	/^  size_t (*frecv)(struct soap*, char*, size_t);$/;"	m	struct:soap
+fresolve	gsoap/stdsoap2.h	/^  int (*fresolve)(struct soap*, const char*, struct in_addr* inaddr);$/;"	m	struct:soap
+fresponse	gsoap/stdsoap2.h	/^  int (*fresponse)(struct soap*, int, size_t);$/;"	m	struct:soap
+fsend	gsoap/stdsoap2.h	/^  int (*fsend)(struct soap*, const char*, size_t);$/;"	m	struct:soap
+fserveloop	gsoap/stdsoap2.h	/^  int (*fserveloop)(struct soap*);$/;"	m	struct:soap
+fseterror	gsoap/stdsoap2.h	/^  void (*fseterror)(struct soap*, const char **c, const char **s);$/;"	m	struct:soap
+fshutdownsocket	gsoap/stdsoap2.h	/^  int (*fshutdownsocket)(struct soap*, SOAP_SOCKET, int);$/;"	m	struct:soap
+fsslauth	gsoap/stdsoap2.h	/^  int (*fsslauth)(struct soap*);$/;"	m	struct:soap
+fsslauth	gsoap/stdsoap2.h	/^  void *fsslauth;               \/* dummy members, to preserve struct size *\/$/;"	m	struct:soap
+fsslverify	gsoap/stdsoap2.h	/^  int (*fsslverify)(int, X509_STORE_CTX*);$/;"	m	struct:soap
+fsslverify	gsoap/stdsoap2.h	/^  void *fsslverify;             \/* N\/A *\/$/;"	m	struct:soap
+fsslverify	gsoap/stdsoap2.h	/^  void *fsslverify;$/;"	m	struct:soap
+fsvalidate	gsoap/stdsoap2.h	/^  int (*fsvalidate)(struct soap*, const char*, const char*);$/;"	m	struct:soap
+fv	gsoap/stdsoap2.h	/^union soap_double_nan {struct {unsigned int n1, n2;} iv; double dv; float fv;};$/;"	m	union:soap_double_nan
+fwvalidate	gsoap/stdsoap2.h	/^  int (*fwvalidate)(struct soap*, const char*, const wchar_t*);$/;"	m	struct:soap
+getData	getdata.py	/^	def getData(self, sys_type, identy, content):$/;"	m	class:SomeSampleServices
+getData	gsoap/soapJqServiceHttpBindingProxy.cpp	/^int JqServiceHttpBindingProxy::getData(const char *endpoint, const char *soap_action, ns1__getData *ns1__getData_, ns1__getDataResponse &ns1__getDataResponse_)$/;"	f	class:JqServiceHttpBindingProxy
+getData	gsoap/soapJqServiceHttpBindingProxy.h	/^        virtual int getData(ns1__getData *ns1__getData_, ns1__getDataResponse &ns1__getDataResponse_)$/;"	f	class:JqServiceHttpBindingProxy
+getDataResult	gsoap/getdata.h	/^    ns1__stringArray*                    getDataResult                  0;	\/\/\/< Optional element.$/;"	m	class:ns1__getDataResponse
+getDataResult	gsoap/soapStub.h	/^        ns1__stringArray *getDataResult;$/;"	m	class:ns1__getDataResponse
+getRecord	getdata.py	/^def getRecord():$/;"	f
+getRecord	oracle/mydb.py	/^	def getRecord(self, sql):$/;"	m	class:DB
+get_double	gsoap/stdsoap2.h	/^  double get_double() const                                             { return soap_elt_get_double(this); }$/;"	f	struct:soap_dom_element
+get_double	gsoap/stdsoap2.h	/^  double get_double() const                                     { return soap_att_get_double(this); }$/;"	f	struct:soap_dom_attribute
+get_int	gsoap/stdsoap2.h	/^  LONG64 get_int() const                                                { return soap_elt_get_LONG64(this); }$/;"	f	struct:soap_dom_element
+get_int	gsoap/stdsoap2.h	/^  LONG64 get_int() const                                        { return soap_att_get_LONG64(this); }$/;"	f	struct:soap_dom_attribute
+get_next	gsoap/stdsoap2.h	/^  soap_dom_element *get_next() const                                    { return soap_elt_get_next(this); }$/;"	f	struct:soap_dom_element
+get_node	gsoap/stdsoap2.h	/^  const void *get_node(int type) const                                  { return soap_elt_get_node(this, type); }$/;"	f	struct:soap_dom_element
+get_nth	gsoap/stdsoap2.h	/^  soap_dom_element *get_nth(size_t n)                                   { return soap_elt_get_nth(this, n); }$/;"	f	struct:soap_dom_element
+get_text	gsoap/stdsoap2.h	/^  const char *get_text() const                                          { return this->text; }$/;"	f	struct:soap_dom_element
+get_text	gsoap/stdsoap2.h	/^  const char *get_text() const                                  { return this->text; }$/;"	f	struct:soap_dom_attribute
+get_type	gsoap/stdsoap2.h	/^  int get_type(const void **node) const                                 { return soap_elt_get_type(this, node); }$/;"	f	struct:soap_dom_element
+head	gsoap/stdsoap2.h	/^  struct soap_bhead *head;$/;"	m	struct:soap_blist	typeref:struct:soap_blist::soap_bhead
+header	gsoap/stdsoap2.h	/^  struct SOAP_ENV__Header *header;$/;"	m	struct:soap	typeref:struct:soap::SOAP_ENV__Header
+host	gsoap/stdsoap2.h	/^  char host[SOAP_TAGLEN];$/;"	m	struct:soap
+href	gsoap/stdsoap2.h	/^  char href[SOAP_TAGLEN];$/;"	m	struct:soap
+http_content	gsoap/stdsoap2.h	/^  const char *http_content;     \/* optional custom response content type (with SOAP_FILE) *\/$/;"	m	struct:soap
+http_version	gsoap/stdsoap2.h	/^  const char *http_version;     \/* HTTP version used "1.0" or "1.1" *\/$/;"	m	struct:soap
+id	gsoap/stdsoap2.h	/^  char *id;$/;"	m	struct:soap_xlist
+id	gsoap/stdsoap2.h	/^  char id[1]; \/* the actual id string value flows into the allocated region below this struct *\/$/;"	m	struct:soap_ilist
+id	gsoap/stdsoap2.h	/^  char id[1]; \/* the actual string value flows into the allocated region id[0...] below this struct *\/$/;"	m	struct:soap_nlist
+id	gsoap/stdsoap2.h	/^  char id[SOAP_TAGLEN];$/;"	m	struct:soap
+id	gsoap/stdsoap2.h	/^  const char *id;                       \/* DIME\/MIME content ID or form data name *\/$/;"	m	struct:soap_multipart
+id	gsoap/stdsoap2.h	/^  const char *id;$/;"	m	struct:soap_dime
+id	gsoap/stdsoap2.h	/^  const char *id;$/;"	m	struct:soap_plugin
+id	gsoap/stdsoap2.h	/^  int id;$/;"	m	struct:soap_plist
+id	gsoap/stdsoap2.h	/^{ const char *id;$/;"	m	struct:Namespace
+identy	gsoap/getdata.h	/^    char*                                identy                         0;	\/\/\/< Optional element.$/;"	m	class:ns1__getData
+identy	gsoap/soapStub.h	/^        char *identy;$/;"	m	class:ns1__getData
+idnum	gsoap/stdsoap2.h	/^  int idnum;$/;"	m	struct:soap
+iht	gsoap/stdsoap2.h	/^  struct soap_ilist *iht[SOAP_IDHASH];$/;"	m	struct:soap	typeref:struct:soap::soap_ilist
+imode	gsoap/stdsoap2.h	/^  soap_mode imode;$/;"	m	struct:soap
+in	gsoap/stdsoap2.h	/^    struct sockaddr_in in;$/;"	m	union:soap::__anon2	typeref:struct:soap::__anon2::sockaddr_in
+in	gsoap/stdsoap2.h	/^  const char *in;$/;"	m	struct:Namespace
+index	gsoap/stdsoap2.h	/^  short index; \/* corresponding entry in ns mapping table *\/$/;"	m	struct:soap_nlist
+index	gsoap/stdsoap2.h	/^  size_t index() const                                                  { return soap_elt_index(this); }$/;"	f	struct:soap_dom_element
+index	gsoap/stdsoap2.h	/^  size_t index;$/;"	m	struct:soap_flist
+int32_t	gsoap/stdsoap2.h	640;"	d
+int32_t	gsoap/stdsoap2.h	667;"	d
+int64_t	gsoap/stdsoap2.h	641;"	d
+ip	gsoap/stdsoap2.h	/^  unsigned long ip;             \/* IP number *\/$/;"	m	struct:soap
+ipv4_multicast_if	gsoap/stdsoap2.h	/^  char* ipv4_multicast_if; \/* IP_MULTICAST_IF IPv4 setsockopt interface_addr *\/$/;"	m	struct:soap
+ipv4_multicast_ttl	gsoap/stdsoap2.h	/^  unsigned char ipv4_multicast_ttl; \/* IP_MULTICAST_TTL value 0..255 *\/$/;"	m	struct:soap
+ipv6_multicast_if	gsoap/stdsoap2.h	/^  unsigned int ipv6_multicast_if; \/* in_addr_t in6addr->sin6_scope_id IPv6 value *\/$/;"	m	struct:soap
+is	gsoap/stdsoap2.h	/^  const char *is;       \/* C only: a const char* to read from (soap->is will advance) *\/$/;"	m	struct:soap
+is	gsoap/stdsoap2.h	/^  std::istream *is;     \/* C++ only: istream to receive *\/$/;"	m	struct:soap
+is_false	gsoap/stdsoap2.h	/^  bool is_false() const                                                 { return soap_elt_is_false(this) != 0; }$/;"	f	struct:soap_dom_element
+is_false	gsoap/stdsoap2.h	/^  bool is_false() const                                         { return soap_att_is_false(this) != 0; }$/;"	f	struct:soap_dom_attribute
+is_true	gsoap/stdsoap2.h	/^  bool is_true() const                                                  { return soap_elt_is_true(this) != 0; }$/;"	f	struct:soap_dom_element
+is_true	gsoap/stdsoap2.h	/^  bool is_true() const                                          { return soap_att_is_true(this) != 0; }$/;"	f	struct:soap_dom_attribute
+item	gsoap/stdsoap2.h	/^  size_t item;$/;"	m	struct:soap_blist
+iter	gsoap/stdsoap2.h	/^  struct soap_dom_attribute *iter;$/;"	m	class:soap_dom_attribute_iterator	typeref:struct:soap_dom_attribute_iterator::soap_dom_attribute
+iter	gsoap/stdsoap2.h	/^  struct soap_dom_element *iter;$/;"	m	class:soap_dom_element_iterator	typeref:struct:soap_dom_element_iterator::soap_dom_element
+iterator	gsoap/stdsoap2.h	/^  typedef soap_dom_attribute_iterator iterator;$/;"	t	struct:soap_dom_attribute
+iterator	gsoap/stdsoap2.h	/^  typedef soap_dom_element_iterator iterator;$/;"	t	struct:soap_dom_element
+iterator	gsoap/stdsoap2.h	/^  typedef soap_multipart_iterator iterator;$/;"	t	struct:soap_multipart
+iv	gsoap/stdsoap2.h	/^union soap_double_nan {struct {unsigned int n1, n2;} iv; double dv; float fv;};$/;"	m	union:soap_double_nan	typeref:struct:soap_double_nan::__anon1
+keep_alive	gsoap/stdsoap2.h	/^  short keep_alive;             \/* connection should be kept open *\/$/;"	m	struct:soap
+keyfile	gsoap/stdsoap2.h	/^  const char *keyfile;$/;"	m	struct:soap
+keyid	gsoap/stdsoap2.h	/^  const char *keyid;$/;"	m	struct:soap
+labbuf	gsoap/stdsoap2.h	/^  char *labbuf;         \/* look-aside buffer *\/$/;"	m	struct:soap
+labidx	gsoap/stdsoap2.h	/^  size_t labidx;        \/* look-aside buffer index to available part *\/$/;"	m	struct:soap
+lablen	gsoap/stdsoap2.h	/^  size_t lablen;        \/* look-aside buffer allocated length *\/$/;"	m	struct:soap
+lang	gsoap/stdsoap2.h	/^  const char *lang;             \/* user-definable xml:lang attribute value of SOAP-ENV:Text *\/$/;"	m	struct:soap
+last	gsoap/stdsoap2.h	/^  struct soap_multipart *first, *last;  \/* temporary in\/out queue *\/$/;"	m	struct:soap_dime	typeref:struct:soap_dime::
+last	gsoap/stdsoap2.h	/^  struct soap_multipart *first, *last;  \/* temporary in\/out queue *\/$/;"	m	struct:soap_mime	typeref:struct:soap_mime::
+lead	gsoap/stdsoap2.h	/^  const char *lead;$/;"	m	struct:soap_dom_element
+len	gsoap/stdsoap2.h	/^  size_t len() const                                                    { return soap_elt_len(this); }$/;"	f	struct:soap_dom_element
+length	gsoap/stdsoap2.h	/^  size_t length;        \/* message length as set by HTTP header *\/$/;"	m	struct:soap
+level	gsoap/stdsoap2.h	/^  unsigned int level;   \/* XML nesting level *\/$/;"	m	struct:soap
+level	gsoap/stdsoap2.h	/^  unsigned int level; \/* nesting depth level *\/$/;"	m	struct:soap_nlist
+level	gsoap/stdsoap2.h	/^  unsigned int level;$/;"	m	struct:soap_flist
+line	gsoap/stdsoap2.h	/^  int line;$/;"	m	struct:soap_mlist
+linger_time	gsoap/stdsoap2.h	/^  unsigned short linger_time;   \/* user-definable linger time for SO_LINGER option *\/$/;"	m	struct:soap
+link	gsoap/stdsoap2.h	/^  void *link;$/;"	m	struct:soap_ilist
+list	gsoap/stdsoap2.h	/^  struct soap_multipart *list;          \/* list of DIME attachments received *\/$/;"	m	struct:soap_dime	typeref:struct:soap_dime::soap_multipart
+list	gsoap/stdsoap2.h	/^  struct soap_multipart *list;          \/* list of MIME attachments received *\/$/;"	m	struct:soap_mime	typeref:struct:soap_mime::soap_multipart
+live	gsoap/stdsoap2.h	/^  short live;$/;"	m	struct:soap_mlist
+local_namespaces	gsoap/stdsoap2.h	/^  struct Namespace *local_namespaces;   \/* Local namespace mapping table *\/$/;"	m	struct:soap	typeref:struct:soap::Namespace
+location	gsoap/stdsoap2.h	/^  const char *location;                 \/* MIME Content-Location (optional) *\/$/;"	m	struct:soap_multipart
+logfile	gsoap/stdsoap2.h	/^  const char *logfile[SOAP_MAXLOGS];$/;"	m	struct:soap
+long_double_format	gsoap/stdsoap2.h	/^  const char *long_double_format;       \/* user-definable format string for long doubles (<1024 chars) *\/$/;"	m	struct:soap
+main	gsoap/client.cpp	/^int main()$/;"	f
+mark1	gsoap/stdsoap2.h	/^  char mark1; \/* 0=single-ref, 1=embedded-multi-ref (SOAP1.1), 2=multi-ref, 3=attachment *\/$/;"	m	struct:soap_plist
+mark2	gsoap/stdsoap2.h	/^  char mark2;$/;"	m	struct:soap_plist
+master	gsoap/stdsoap2.h	/^  SOAP_SOCKET master;   \/* socket bound to TCP\/IP port *\/$/;"	m	struct:soap
+match	gsoap/stdsoap2.h	/^  bool match(const char *ns, const char *patt) const                    { return soap_elt_match(this, ns, patt) != 0; }$/;"	f	struct:soap_dom_element
+match	gsoap/stdsoap2.h	/^  bool match(const char *ns, const char *patt) const            { return soap_att_match(this, ns, patt) != 0; }$/;"	f	struct:soap_dom_attribute
+match	gsoap/stdsoap2.h	/^  bool match(const char *ns, const wchar_t *patt) const                 { return soap_elt_match_w(this, ns, patt) != 0; }$/;"	f	struct:soap_dom_element
+match	gsoap/stdsoap2.h	/^  bool match(const char *ns, const wchar_t *patt) const         { return soap_att_match_w(this, ns, patt) != 0; }$/;"	f	struct:soap_dom_attribute
+match	gsoap/stdsoap2.h	/^  bool match(const char *patt) const                                    { return soap_elt_match(this, NULL, patt) != 0; }$/;"	f	struct:soap_dom_element
+match	gsoap/stdsoap2.h	/^  bool match(const char *patt) const                            { return soap_att_match(this, NULL, patt) != 0; }$/;"	f	struct:soap_dom_attribute
+match	gsoap/stdsoap2.h	/^  bool match(const wchar_t *patt) const                                 { return soap_elt_match_w(this, NULL, patt) != 0; }$/;"	f	struct:soap_dom_element
+match	gsoap/stdsoap2.h	/^  bool match(const wchar_t *patt) const                         { return soap_att_match_w(this, NULL, patt) != 0; }$/;"	f	struct:soap_dom_attribute
+max_keep_alive	gsoap/stdsoap2.h	/^  unsigned int max_keep_alive;  \/* maximum keep-alive session (default=100) *\/$/;"	m	struct:soap
+maxage	gsoap/stdsoap2.h	/^  long maxage;          \/* server-side: seconds to expire *\/$/;"	m	struct:soap_cookie
+maxlength	gsoap/stdsoap2.h	/^  long maxlength;               \/* user-definable max string length, initialized to SOAP_MAXLENGTH, maxlength<=0 is unbounded *\/$/;"	m	struct:soap
+maxlevel	gsoap/stdsoap2.h	/^  unsigned int maxlevel;        \/* user-definable max XML nesting depth levels, initialized to SOAP_MAXLEVEL *\/$/;"	m	struct:soap
+maxoccurs	gsoap/stdsoap2.h	/^  size_t maxoccurs;             \/* user-definable max array\/container size, initialized to SOAP_MAXOCCURS *\/$/;"	m	struct:soap
+mht	gsoap/stdsoap2.h	/^  struct soap_mlist *mht[SOAP_PTRHASH];$/;"	m	struct:soap	typeref:struct:soap::soap_mlist
+mime	gsoap/stdsoap2.h	/^  struct soap_mime mime;$/;"	m	struct:soap	typeref:struct:soap::soap_mime
+mode	gsoap/stdsoap2.h	/^  soap_mode mode;$/;"	m	struct:soap
+modified	gsoap/stdsoap2.h	/^  short modified;       \/* server-side: client cookie was modified and should be send *\/$/;"	m	struct:soap_cookie
+msgbuf	gsoap/stdsoap2.h	/^  char msgbuf[SOAP_TMPLEN]; \/* in\/out buffer for HTTP\/MIME headers and short messages, must be >=1024 bytes *\/$/;"	m	struct:soap
+mustUnderstand	gsoap/stdsoap2.h	/^  short mustUnderstand; \/* a mustUnderstand element was parsed or is output *\/$/;"	m	struct:soap
+n1	gsoap/stdsoap2.h	/^union soap_double_nan {struct {unsigned int n1, n2;} iv; double dv; float fv;};$/;"	m	struct:soap_double_nan::__anon1
+n2	gsoap/stdsoap2.h	/^union soap_double_nan {struct {unsigned int n1, n2;} iv; double dv; float fv;};$/;"	m	struct:soap_double_nan::__anon1
+name	gsoap/stdsoap2.h	/^  char *name;$/;"	m	struct:soap_cookie
+name	gsoap/stdsoap2.h	/^  char name[1]; \/* the actual name string flows into the allocated region below this struct *\/$/;"	m	struct:soap_attribute
+name	gsoap/stdsoap2.h	/^  const char *name;$/;"	m	class:soap_dom_attribute_iterator
+name	gsoap/stdsoap2.h	/^  const char *name;$/;"	m	class:soap_dom_element_iterator
+name	gsoap/stdsoap2.h	/^  const char *name;$/;"	m	struct:soap_dom_attribute
+name	gsoap/stdsoap2.h	/^  const char *name;$/;"	m	struct:soap_dom_element
+namespaces	gsoap/stdsoap2.h	/^  const struct Namespace *namespaces;   \/* Pointer to global namespace mapping table *\/$/;"	m	struct:soap	typeref:struct:soap::Namespace
+next	gsoap/stdsoap2.h	/^{ struct soap_attribute *next;$/;"	m	struct:soap_attribute	typeref:struct:soap_attribute::soap_attribute
+next	gsoap/stdsoap2.h	/^{ struct soap_bhead *next;$/;"	m	struct:soap_bhead	typeref:struct:soap_bhead::soap_bhead
+next	gsoap/stdsoap2.h	/^{ struct soap_blist *next;$/;"	m	struct:soap_blist	typeref:struct:soap_blist::soap_blist
+next	gsoap/stdsoap2.h	/^{ struct soap_clist *next;$/;"	m	struct:soap_clist	typeref:struct:soap_clist::soap_clist
+next	gsoap/stdsoap2.h	/^{ struct soap_cookie *next;$/;"	m	struct:soap_cookie	typeref:struct:soap_cookie::soap_cookie
+next	gsoap/stdsoap2.h	/^{ struct soap_dom_attribute *next;$/;"	m	struct:soap_dom_attribute	typeref:struct:soap_dom_attribute::soap_dom_attribute
+next	gsoap/stdsoap2.h	/^{ struct soap_dom_element *next;$/;"	m	struct:soap_dom_element	typeref:struct:soap_dom_element::soap_dom_element
+next	gsoap/stdsoap2.h	/^{ struct soap_flist *next;$/;"	m	struct:soap_flist	typeref:struct:soap_flist::soap_flist
+next	gsoap/stdsoap2.h	/^{ struct soap_ilist *next;$/;"	m	struct:soap_ilist	typeref:struct:soap_ilist::soap_ilist
+next	gsoap/stdsoap2.h	/^{ struct soap_mlist *next;$/;"	m	struct:soap_mlist	typeref:struct:soap_mlist::soap_mlist
+next	gsoap/stdsoap2.h	/^{ struct soap_multipart *next;$/;"	m	struct:soap_multipart	typeref:struct:soap_multipart::soap_multipart
+next	gsoap/stdsoap2.h	/^{ struct soap_nlist *next;$/;"	m	struct:soap_nlist	typeref:struct:soap_nlist::soap_nlist
+next	gsoap/stdsoap2.h	/^{ struct soap_pblk *next;$/;"	m	struct:soap_pblk	typeref:struct:soap_pblk::soap_pblk
+next	gsoap/stdsoap2.h	/^{ struct soap_plist *next;$/;"	m	struct:soap_plist	typeref:struct:soap_plist::soap_plist
+next	gsoap/stdsoap2.h	/^{ struct soap_plugin *next;$/;"	m	struct:soap_plugin	typeref:struct:soap_plugin::soap_plugin
+next	gsoap/stdsoap2.h	/^{ struct soap_xlist *next;$/;"	m	struct:soap_xlist	typeref:struct:soap_xlist::soap_xlist
+nlist	gsoap/stdsoap2.h	/^  struct soap_nlist *nlist;     \/* namespace stack *\/$/;"	m	struct:soap	typeref:struct:soap::soap_nlist
+node	gsoap/stdsoap2.h	/^  const void *node;$/;"	m	struct:soap_dom_element
+ns	gsoap/stdsoap2.h	/^  const char *ns() const                                                { return this->nstr; }$/;"	f	struct:soap_dom_element
+ns	gsoap/stdsoap2.h	/^  const char *ns() const                                        { return this->nstr; }$/;"	f	struct:soap_dom_attribute
+ns	gsoap/stdsoap2.h	/^  const char *ns; \/* only set when parsed ns URI is not in the ns mapping table *\/$/;"	m	struct:soap_nlist
+ns	gsoap/stdsoap2.h	/^  const char *ns;$/;"	m	struct:Namespace
+ns	gsoap/stdsoap2.h	/^  const char *ns;$/;"	m	struct:soap_attribute
+ns	gsoap/stdsoap2.h	/^  short ns;             \/* zero to output all xmlns *\/$/;"	m	struct:soap
+ns1__getData	gsoap/getdata.h	/^class ns1__getData$/;"	c
+ns1__getData	gsoap/soapStub.h	/^        ns1__getData()$/;"	f	class:ns1__getData
+ns1__getData	gsoap/soapStub.h	/^class SOAP_CMAC ns1__getData {$/;"	c
+ns1__getDataResponse	gsoap/getdata.h	/^class ns1__getDataResponse$/;"	c
+ns1__getDataResponse	gsoap/soapStub.h	/^        ns1__getDataResponse()$/;"	f	class:ns1__getDataResponse
+ns1__getDataResponse	gsoap/soapStub.h	/^class SOAP_CMAC ns1__getDataResponse {$/;"	c
+ns1__getData_	gsoap/soapStub.h	/^        ns1__getData *ns1__getData_;$/;"	m	struct:__ns1__getData
+ns1__stringArray	gsoap/getdata.h	/^class ns1__stringArray$/;"	c
+ns1__stringArray	gsoap/soapStub.h	/^        ns1__stringArray()$/;"	f	class:ns1__stringArray
+ns1__stringArray	gsoap/soapStub.h	/^class SOAP_CMAC ns1__stringArray {$/;"	c
+nstr	gsoap/stdsoap2.h	/^  const char *nstr;$/;"	m	class:soap_dom_attribute_iterator
+nstr	gsoap/stdsoap2.h	/^  const char *nstr;$/;"	m	class:soap_dom_element_iterator
+nstr	gsoap/stdsoap2.h	/^  const char *nstr;$/;"	m	struct:soap_dom_attribute
+nstr	gsoap/stdsoap2.h	/^  const char *nstr;$/;"	m	struct:soap_dom_element
+nth	gsoap/stdsoap2.h	/^  size_t nth() const                                                    { return soap_elt_nth(this); }$/;"	f	struct:soap_dom_element
+ntlm_auth	gsoap/stdsoap2.h	/^  short ntlm_auth;              \/* HTTP NTLM authentication type *\/$/;"	m	struct:soap
+ntlm_challenge	gsoap/stdsoap2.h	/^  const char *ntlm_challenge;   \/* HTTP NTLM challenge key string *\/$/;"	m	struct:soap
+ntlm_stage	gsoap/stdsoap2.h	/^  short ntlm_stage;             \/* HTTP NTLM stage 0..3 *\/$/;"	m	struct:soap
+null	gsoap/stdsoap2.h	/^  short null;           \/* parsed XML is xsi:nil *\/$/;"	m	struct:soap
+omode	gsoap/stdsoap2.h	/^  soap_mode omode;$/;"	m	struct:soap
+operator !=	gsoap/stdsoap2.h	/^  bool operator!=(const soap_multipart_iterator& iter) const$/;"	f	class:soap_multipart_iterator
+operator *	gsoap/stdsoap2.h	/^  struct soap_multipart &operator*() const$/;"	f	class:soap_multipart_iterator
+operator ++	gsoap/stdsoap2.h	/^  soap_multipart_iterator &operator++()$/;"	f	class:soap_multipart_iterator
+operator =	gsoap/soapJqServiceHttpBindingProxy.cpp	/^JqServiceHttpBindingProxy& JqServiceHttpBindingProxy::operator=(const JqServiceHttpBindingProxy& rhs)$/;"	f	class:JqServiceHttpBindingProxy
+operator =	gsoap/soapJqServiceHttpBindingService.cpp	/^JqServiceHttpBindingService& JqServiceHttpBindingService::operator=(const JqServiceHttpBindingService& rhs)$/;"	f	class:JqServiceHttpBindingService
+operator =	gsoap/stdsoap2.h	/^  soap_dom_attribute& operator=(LONG64 n)                       { return *soap_att_int(this, n); }$/;"	f	struct:soap_dom_attribute
+operator =	gsoap/stdsoap2.h	/^  soap_dom_attribute& operator=(bool b)                         { return *soap_att_bool(this, b); }$/;"	f	struct:soap_dom_attribute
+operator =	gsoap/stdsoap2.h	/^  soap_dom_attribute& operator=(const char *text)               { return *soap_att_text(this, text); }$/;"	f	struct:soap_dom_attribute
+operator =	gsoap/stdsoap2.h	/^  soap_dom_attribute& operator=(const soap_dom_attribute& att)  { return *soap_att_copy(this, &att); }$/;"	f	struct:soap_dom_attribute
+operator =	gsoap/stdsoap2.h	/^  soap_dom_attribute& operator=(const std::string& text)        { return *soap_att_text(this, text.c_str()); }$/;"	f	struct:soap_dom_attribute
+operator =	gsoap/stdsoap2.h	/^  soap_dom_attribute& operator=(const std::wstring& text)       { return *soap_att_text_w(this, text.c_str()); }$/;"	f	struct:soap_dom_attribute
+operator =	gsoap/stdsoap2.h	/^  soap_dom_attribute& operator=(const wchar_t *text)            { return *soap_att_text_w(this, text); }$/;"	f	struct:soap_dom_attribute
+operator =	gsoap/stdsoap2.h	/^  soap_dom_attribute& operator=(double x)                       { return *soap_att_double(this, x); }$/;"	f	struct:soap_dom_attribute
+operator =	gsoap/stdsoap2.h	/^  soap_dom_attribute& operator=(float x)                        { return *soap_att_double(this, x); }$/;"	f	struct:soap_dom_attribute
+operator =	gsoap/stdsoap2.h	/^  soap_dom_attribute& operator=(int n)                          { return *soap_att_int(this, n); }$/;"	f	struct:soap_dom_attribute
+operator =	gsoap/stdsoap2.h	/^  soap_dom_element& operator=(LONG64 n)                                 { return *soap_elt_int(this, n); }$/;"	f	struct:soap_dom_element
+operator =	gsoap/stdsoap2.h	/^  soap_dom_element& operator=(bool b)                                   { return *soap_elt_bool(this, b); }$/;"	f	struct:soap_dom_element
+operator =	gsoap/stdsoap2.h	/^  soap_dom_element& operator=(const char *text)                         { return *soap_elt_text(this, text); }$/;"	f	struct:soap_dom_element
+operator =	gsoap/stdsoap2.h	/^  soap_dom_element& operator=(const soap_dom_element& elt)              { return *soap_elt_copy(this, &elt); }$/;"	f	struct:soap_dom_element
+operator =	gsoap/stdsoap2.h	/^  soap_dom_element& operator=(const std::string& text)                  { return *soap_elt_text(this, text.c_str()); }$/;"	f	struct:soap_dom_element
+operator =	gsoap/stdsoap2.h	/^  soap_dom_element& operator=(const std::wstring& text)                 { return *soap_elt_text_w(this, text.c_str()); }$/;"	f	struct:soap_dom_element
+operator =	gsoap/stdsoap2.h	/^  soap_dom_element& operator=(const wchar_t *text)                      { return *soap_elt_text_w(this, text); }$/;"	f	struct:soap_dom_element
+operator =	gsoap/stdsoap2.h	/^  soap_dom_element& operator=(double x)                                 { return *soap_elt_double(this, x); }$/;"	f	struct:soap_dom_element
+operator =	gsoap/stdsoap2.h	/^  soap_dom_element& operator=(float x)                                  { return *soap_elt_double(this, x); }$/;"	f	struct:soap_dom_element
+operator =	gsoap/stdsoap2.h	/^  soap_dom_element& operator=(int n)                                    { return *soap_elt_int(this, n); }$/;"	f	struct:soap_dom_element
+operator =	gsoap/stdsoap2.h	/^  template<class T> soap_dom_element& operator=(T *node)                { return this->set(node, node->soap_type()); }$/;"	f	struct:soap_dom_element
+operator =	gsoap/stdsoap2.h	/^  template<class T> soap_dom_element& operator=(const T *node)          { return this->set(node, node->soap_type()); }$/;"	f	struct:soap_dom_element
+operator =	gsoap/stdsoap2.h	/^  template<class T> soap_dom_element& operator=(const T& node)          { return this->set(&node, node.soap_type()); }$/;"	f	struct:soap_dom_element
+operator ==	gsoap/stdsoap2.h	/^  bool operator==(const soap_multipart_iterator& iter) const$/;"	f	class:soap_multipart_iterator
+operator LONG64	gsoap/stdsoap2.h	/^  operator LONG64() const                                               { return soap_elt_get_LONG64(this); }$/;"	f	struct:soap_dom_element
+operator LONG64	gsoap/stdsoap2.h	/^  operator LONG64() const                                       { return soap_att_get_LONG64(this); }$/;"	f	struct:soap_dom_attribute
+operator []	gsoap/stdsoap2.h	/^  soap_dom_element& operator[](const char *tag)                         { return *soap_elt(this, NULL, tag); }$/;"	f	struct:soap_dom_element
+operator []	gsoap/stdsoap2.h	/^  soap_dom_element& operator[](const wchar_t *tag)                      { return *soap_elt_w(this, NULL, tag); }$/;"	f	struct:soap_dom_element
+operator []	gsoap/stdsoap2.h	/^  soap_dom_element& operator[](size_t n)                                { return *soap_nth(this, n); }$/;"	f	struct:soap_dom_element
+operator bool	gsoap/stdsoap2.h	/^  operator bool() const                                                 { return soap_elt_is_true(this) != 0; }$/;"	f	struct:soap_dom_element
+operator bool	gsoap/stdsoap2.h	/^  operator bool() const                                         { return soap_att_is_true(this) != 0; }$/;"	f	struct:soap_dom_attribute
+operator const char*	gsoap/stdsoap2.h	/^  operator const char*() const                                          { return this->text; }$/;"	f	struct:soap_dom_element
+operator const char*	gsoap/stdsoap2.h	/^  operator const char*() const                                  { return this->text; }$/;"	f	struct:soap_dom_attribute
+operator double	gsoap/stdsoap2.h	/^  operator double() const                                               { return soap_elt_get_double(this); }$/;"	f	struct:soap_dom_element
+operator double	gsoap/stdsoap2.h	/^  operator double() const                                       { return soap_att_get_double(this); }$/;"	f	struct:soap_dom_attribute
+operator int	gsoap/stdsoap2.h	/^  operator int() const                                                  { return soap_elt_get_int(this); }$/;"	f	struct:soap_dom_element
+operator int	gsoap/stdsoap2.h	/^  operator int() const                                          { return soap_att_get_int(this); }$/;"	f	struct:soap_dom_attribute
+options	gsoap/stdsoap2.h	/^  char **options;$/;"	m	struct:soap_xlist
+options	gsoap/stdsoap2.h	/^  const char *options;                  \/* DIME options *\/$/;"	m	struct:soap_multipart
+options	gsoap/stdsoap2.h	/^  const char *options;$/;"	m	struct:soap_dime
+os	gsoap/stdsoap2.h	/^  const char **os;      \/* C only: pointer to a const char*, will be set to point to the string output *\/$/;"	m	struct:soap
+os	gsoap/stdsoap2.h	/^  std::ostream *os;     \/* C++ only: ostream to send *\/$/;"	m	struct:soap
+other	gsoap/stdsoap2.h	/^  short other;$/;"	m	struct:soap
+out	gsoap/stdsoap2.h	/^  char *out;$/;"	m	struct:Namespace
+parent	gsoap/stdsoap2.h	/^  soap_dom_element *parent()                                            { return this->prnt; }$/;"	f	struct:soap_dom_element
+part	gsoap/stdsoap2.h	/^  short part;           \/* SOAP part state (header or body) *\/$/;"	m	struct:soap
+passwd	gsoap/stdsoap2.h	/^  const char *passwd;           \/* HTTP Basic authorization passwd *\/$/;"	m	struct:soap
+password	gsoap/stdsoap2.h	/^  const char *password;$/;"	m	struct:soap
+path	gsoap/stdsoap2.h	/^  char *path;$/;"	m	struct:soap_cookie
+path	gsoap/stdsoap2.h	/^  char path[SOAP_TAGLEN];$/;"	m	struct:soap
+pblk	gsoap/stdsoap2.h	/^  struct soap_pblk *pblk;       \/* plist block allocation *\/$/;"	m	struct:soap	typeref:struct:soap::soap_pblk
+peeked	gsoap/stdsoap2.h	/^  short peeked;$/;"	m	struct:soap
+peer	gsoap/stdsoap2.h	/^  } peer; \/* set by soap_connect\/soap_accept and by UDP recv *\/$/;"	m	struct:soap	typeref:union:soap::__anon2
+peerlen	gsoap/stdsoap2.h	/^  size_t peerlen;$/;"	m	struct:soap
+pht	gsoap/stdsoap2.h	/^  struct soap_plist *pht[SOAP_PTRHASH];$/;"	m	struct:soap	typeref:struct:soap::soap_plist
+pidx	gsoap/stdsoap2.h	/^  short pidx;                   \/* plist block allocation *\/$/;"	m	struct:soap
+plist	gsoap/stdsoap2.h	/^  struct soap_plist plist[SOAP_PTRBLK];$/;"	m	struct:soap_pblk	typeref:struct:soap_pblk::soap_plist
+plugins	gsoap/stdsoap2.h	/^  struct soap_plugin *plugins;  \/* linked list of plug-in data *\/$/;"	m	struct:soap	typeref:struct:soap::soap_plugin
+pop	gsoap/stdsoap2.h	/^  static void pop(struct soap *soap, struct soap_blist *b)$/;"	f	struct:soap_block
+port	gsoap/stdsoap2.h	/^  int port;                     \/* port number *\/$/;"	m	struct:soap
+position	gsoap/stdsoap2.h	/^  int position;$/;"	m	struct:soap
+positions	gsoap/stdsoap2.h	/^  int positions[SOAP_MAXDIMS];$/;"	m	struct:soap
+prnt	gsoap/stdsoap2.h	/^  struct soap_dom_element *prnt;$/;"	m	struct:soap_dom_element	typeref:struct:soap_dom_element::soap_dom_element
+prolog	gsoap/stdsoap2.h	/^  const char *prolog;           \/* XML declaration prolog *\/$/;"	m	struct:soap
+proxy_from	gsoap/stdsoap2.h	/^  const char *proxy_from;       \/* X-Forwarding-For header returned by proxy *\/$/;"	m	struct:soap
+proxy_host	gsoap/stdsoap2.h	/^  const char *proxy_host;       \/* Proxy Server host name *\/$/;"	m	struct:soap
+proxy_http_version	gsoap/stdsoap2.h	/^  const char *proxy_http_version;\/* HTTP version of proxy "1.0" or "1.1" *\/$/;"	m	struct:soap
+proxy_passwd	gsoap/stdsoap2.h	/^  const char *proxy_passwd;     \/* Proxy Authorization password *\/$/;"	m	struct:soap
+proxy_port	gsoap/stdsoap2.h	/^  int proxy_port;               \/* Proxy Server port (default = 8080) *\/$/;"	m	struct:soap
+proxy_userid	gsoap/stdsoap2.h	/^  const char *proxy_userid;     \/* Proxy Authorization user name *\/$/;"	m	struct:soap
+ptr	gsoap/stdsoap2.h	/^  char *ptr;                            \/* points to raw data content *\/$/;"	m	struct:soap_multipart
+ptr	gsoap/stdsoap2.h	/^  char *ptr;$/;"	m	struct:soap_dime
+ptr	gsoap/stdsoap2.h	/^  const void *ptr;$/;"	m	struct:soap_mlist
+ptr	gsoap/stdsoap2.h	/^  const void *ptr;$/;"	m	struct:soap_plist
+ptr	gsoap/stdsoap2.h	/^  unsigned char **ptr;$/;"	m	struct:soap_xlist
+ptr	gsoap/stdsoap2.h	/^  void *ptr;$/;"	m	struct:soap_clist
+ptr	gsoap/stdsoap2.h	/^  void *ptr;$/;"	m	struct:soap_flist
+ptr	gsoap/stdsoap2.h	/^  void *ptr;$/;"	m	struct:soap_ilist
+push	gsoap/stdsoap2.h	/^{ static T *push(struct soap *soap, struct soap_blist *b)$/;"	f	struct:soap_block
+randfile	gsoap/stdsoap2.h	/^  const char *randfile;         \/* N\/A *\/$/;"	m	struct:soap
+randfile	gsoap/stdsoap2.h	/^  const char *randfile;$/;"	m	struct:soap
+readConfig	oracle/mydb.py	/^	def readConfig(self, filename):$/;"	m	class:DB
+recv_timeout	gsoap/stdsoap2.h	/^  int recv_timeout;             \/* user-definable, when > 0, gives socket recv timeout in seconds, < 0 in usec *\/$/;"	m	struct:soap
+recverror	gsoap/stdsoap2.h	/^  int recverror; \/* last soap_recv_raw error code for filterrecv *\/$/;"	m	struct:soap
+recvfd	gsoap/stdsoap2.h	/^  FILE *recvfd;         \/* WinCE FILE* to receive *\/$/;"	m	struct:soap
+recvfd	gsoap/stdsoap2.h	/^  int recvfd;           \/* int file descriptor for receiving *\/$/;"	m	struct:soap
+recvsk	gsoap/stdsoap2.h	/^  SOAP_SOCKET recvsk;   \/* socket to receive (overrides ::socket) *\/$/;"	m	struct:soap
+reset	gsoap/soapJqServiceHttpBindingProxy.cpp	/^void JqServiceHttpBindingProxy::reset()$/;"	f	class:JqServiceHttpBindingProxy
+reset	gsoap/soapJqServiceHttpBindingService.cpp	/^void JqServiceHttpBindingService::reset()$/;"	f	class:JqServiceHttpBindingService
+ret	client_getdata.py	/^ret = client.service.getData("0010", "id", "helloworld")$/;"	v
+root	gsoap/stdsoap2.h	/^  short root;$/;"	m	struct:soap
+rpmreqid	gsoap/stdsoap2.h	/^  void *rpmreqid;$/;"	m	struct:soap
+rsa_params	gsoap/stdsoap2.h	/^  gnutls_rsa_params_t rsa_params;$/;"	m	struct:soap
+rsa_params	gsoap/stdsoap2.h	/^  void *rsa_params;$/;"	m	struct:soap
+run	gsoap/soapJqServiceHttpBindingService.cpp	/^int JqServiceHttpBindingService::run(int port)$/;"	f	class:JqServiceHttpBindingService
+save	gsoap/stdsoap2.h	/^  static void save(struct soap *soap, struct soap_blist *b, T *p)$/;"	f	struct:soap_block
+secure	gsoap/stdsoap2.h	/^  short secure;$/;"	m	struct:soap_cookie
+send_timeout	gsoap/stdsoap2.h	/^  int send_timeout;             \/* user-definable, when > 0, gives socket send timeout in seconds, < 0 in usec *\/$/;"	m	struct:soap
+sendfd	gsoap/stdsoap2.h	/^  FILE *sendfd;         \/* WinCE FILE* to send *\/$/;"	m	struct:soap
+sendfd	gsoap/stdsoap2.h	/^  int sendfd;           \/* int file descriptor for sending *\/$/;"	m	struct:soap
+sendsk	gsoap/stdsoap2.h	/^  SOAP_SOCKET sendsk;   \/* socket to send (overrides ::socket) *\/$/;"	m	struct:soap
+serve	gsoap/soapJqServiceHttpBindingService.cpp	/^int JqServiceHttpBindingService::serve()$/;"	f	class:JqServiceHttpBindingService
+serve___ns1__getData	gsoap/soapJqServiceHttpBindingService.cpp	/^static int serve___ns1__getData(JqServiceHttpBindingService *soap)$/;"	f	file:
+server	getdata.py	/^	server = make_server('127.0.0.1', 8000, wsgi_app)$/;"	v	class:SomeSampleServices
+server	gsoap/client.cpp	/^const char server[]= "http:\/\/127.0.0.1:8000";$/;"	v
+session	gsoap/stdsoap2.h	/^  SSL_SESSION *session;$/;"	m	struct:soap
+session	gsoap/stdsoap2.h	/^  gnutls_session_t session;                     \/* session pointer *\/$/;"	m	struct:soap
+session	gsoap/stdsoap2.h	/^  short session;        \/* server-side *\/$/;"	m	struct:soap_cookie
+session	gsoap/stdsoap2.h	/^  void *session;                \/* N\/A *\/$/;"	m	struct:soap
+session	gsoap/stdsoap2.h	/^  void *session;$/;"	m	struct:soap
+session_host	gsoap/stdsoap2.h	/^  char session_host[SOAP_TAGLEN];$/;"	m	struct:soap
+session_port	gsoap/stdsoap2.h	/^  int session_port;$/;"	m	struct:soap
+set	gsoap/stdsoap2.h	/^  soap_dom_attribute& set(LONG64 n)                             { return *soap_att_int(this, n); }$/;"	f	struct:soap_dom_attribute
+set	gsoap/stdsoap2.h	/^  soap_dom_attribute& set(bool b)                               { return *soap_att_bool(this, b); }$/;"	f	struct:soap_dom_attribute
+set	gsoap/stdsoap2.h	/^  soap_dom_attribute& set(const char *ns, const char *tag)      { return *soap_att_set(this, ns, tag); }$/;"	f	struct:soap_dom_attribute
+set	gsoap/stdsoap2.h	/^  soap_dom_attribute& set(const char *ns, const wchar_t *tag)   { return *soap_att_set_w(this, ns, tag); }$/;"	f	struct:soap_dom_attribute
+set	gsoap/stdsoap2.h	/^  soap_dom_attribute& set(const char *text)                     { return *soap_att_text(this, text); }$/;"	f	struct:soap_dom_attribute
+set	gsoap/stdsoap2.h	/^  soap_dom_attribute& set(const std::string& text)              { return *soap_att_text(this, text.c_str()); }$/;"	f	struct:soap_dom_attribute
+set	gsoap/stdsoap2.h	/^  soap_dom_attribute& set(const std::wstring& text)             { return *soap_att_text_w(this, text.c_str()); }$/;"	f	struct:soap_dom_attribute
+set	gsoap/stdsoap2.h	/^  soap_dom_attribute& set(const wchar_t *text)                  { return *soap_att_text_w(this, text); }$/;"	f	struct:soap_dom_attribute
+set	gsoap/stdsoap2.h	/^  soap_dom_attribute& set(double x)                             { return *soap_att_double(this, x); }$/;"	f	struct:soap_dom_attribute
+set	gsoap/stdsoap2.h	/^  soap_dom_attribute& set(float x)                              { return *soap_att_double(this, x); }$/;"	f	struct:soap_dom_attribute
+set	gsoap/stdsoap2.h	/^  soap_dom_attribute& set(int n)                                { return *soap_att_int(this, n); }$/;"	f	struct:soap_dom_attribute
+set	gsoap/stdsoap2.h	/^  soap_dom_element& set(LONG64 n)                                       { return *soap_elt_int(this, n); }$/;"	f	struct:soap_dom_element
+set	gsoap/stdsoap2.h	/^  soap_dom_element& set(bool b)                                         { return *soap_elt_bool(this, b); }$/;"	f	struct:soap_dom_element
+set	gsoap/stdsoap2.h	/^  soap_dom_element& set(const char *ns, const char *tag)                { return *soap_elt_set(this, ns, tag); }$/;"	f	struct:soap_dom_element
+set	gsoap/stdsoap2.h	/^  soap_dom_element& set(const char *ns, const wchar_t *tag)             { return *soap_elt_set_w(this, ns, tag); }$/;"	f	struct:soap_dom_element
+set	gsoap/stdsoap2.h	/^  soap_dom_element& set(const char *text)                               { return *soap_elt_text(this, text); }$/;"	f	struct:soap_dom_element
+set	gsoap/stdsoap2.h	/^  soap_dom_element& set(const std::string& text)                        { return *soap_elt_text(this, text.c_str()); }$/;"	f	struct:soap_dom_element
+set	gsoap/stdsoap2.h	/^  soap_dom_element& set(const std::wstring& text)                       { return *soap_elt_text_w(this, text.c_str()); }$/;"	f	struct:soap_dom_element
+set	gsoap/stdsoap2.h	/^  soap_dom_element& set(const void *node, int type)                     { return *soap_elt_node(this, node, type); }$/;"	f	struct:soap_dom_element
+set	gsoap/stdsoap2.h	/^  soap_dom_element& set(const wchar_t *text)                            { return *soap_elt_text_w(this, text); }$/;"	f	struct:soap_dom_element
+set	gsoap/stdsoap2.h	/^  soap_dom_element& set(double x)                                       { return *soap_elt_double(this, x); }$/;"	f	struct:soap_dom_element
+set	gsoap/stdsoap2.h	/^  soap_dom_element& set(float x)                                       { return *soap_elt_double(this, x); }$/;"	f	struct:soap_dom_element
+set	gsoap/stdsoap2.h	/^  soap_dom_element& set(int n)                                          { return *soap_elt_int(this, n); }$/;"	f	struct:soap_dom_element
+shaky	gsoap/stdsoap2.h	/^  short shaky;                  \/* objects in reallocatable containers are on shaky grounds *\/$/;"	m	struct:soap
+shaky	gsoap/stdsoap2.h	/^  short shaky;$/;"	m	struct:soap_ilist
+size	gsoap/stdsoap2.h	/^  int *size;$/;"	m	struct:soap_xlist
+size	gsoap/stdsoap2.h	/^  int size; \/* array size *\/$/;"	m	struct:soap_clist
+size	gsoap/stdsoap2.h	/^  int size; \/* array size *\/$/;"	m	struct:soap_plist
+size	gsoap/stdsoap2.h	/^  size_t size;                          \/* size of data content *\/$/;"	m	struct:soap_multipart
+size	gsoap/stdsoap2.h	/^  size_t size;$/;"	m	struct:soap_attribute
+size	gsoap/stdsoap2.h	/^  size_t size;$/;"	m	struct:soap_bhead
+size	gsoap/stdsoap2.h	/^  size_t size;$/;"	m	struct:soap_blist
+size	gsoap/stdsoap2.h	/^  size_t size;$/;"	m	struct:soap_dime
+size	gsoap/stdsoap2.h	/^  size_t size;$/;"	m	struct:soap_ilist
+smart	gsoap/stdsoap2.h	/^  void *smart;$/;"	m	struct:soap_ilist
+soap	gsoap/getdata.h	/^    struct soap                         *soap                          ;$/;"	m	class:ns1__getData	typeref:struct:ns1__getData::soap
+soap	gsoap/getdata.h	/^    struct soap                         *soap                          ;$/;"	m	class:ns1__getDataResponse	typeref:struct:ns1__getDataResponse::soap
+soap	gsoap/getdata.h	/^    struct soap                         *soap                          ;$/;"	m	class:ns1__stringArray	typeref:struct:ns1__stringArray::soap
+soap	gsoap/soapStub.h	/^        struct soap *soap;$/;"	m	class:ns1__getData	typeref:struct:ns1__getData::soap
+soap	gsoap/soapStub.h	/^        struct soap *soap;$/;"	m	class:ns1__getDataResponse	typeref:struct:ns1__getDataResponse::soap
+soap	gsoap/soapStub.h	/^        struct soap *soap;$/;"	m	class:ns1__stringArray	typeref:struct:ns1__stringArray::soap
+soap	gsoap/stdsoap2.h	/^  struct soap *soap;$/;"	m	struct:soap_dom_attribute	typeref:struct:soap_dom_attribute::soap
+soap	gsoap/stdsoap2.h	/^  struct soap *soap;$/;"	m	struct:soap_dom_element	typeref:struct:soap_dom_element::soap
+soap	gsoap/stdsoap2.h	/^struct SOAP_CMAC soap$/;"	s
+soap	gsoap/stdsoap2.h	/^struct SOAP_CMAC soap;$/;"	v	typeref:struct:SOAP_CMAC
+soapH_H	gsoap/soapH.h	15;"	d
+soapJqServiceHttpBindingProxy_H	gsoap/soapJqServiceHttpBindingProxy.h	15;"	d
+soapJqServiceHttpBindingService_H	gsoap/soapJqServiceHttpBindingService.h	15;"	d
+soapStub_H	gsoap/soapStub.h	17;"	d
+soap_alloc	gsoap/soapStub.h	/^        virtual ns1__getData *soap_alloc(void) const { return SOAP_NEW(ns1__getData); }$/;"	f	class:ns1__getData
+soap_alloc	gsoap/soapStub.h	/^        virtual ns1__getDataResponse *soap_alloc(void) const { return SOAP_NEW(ns1__getDataResponse); }$/;"	f	class:ns1__getDataResponse
+soap_alloc	gsoap/soapStub.h	/^        virtual ns1__stringArray *soap_alloc(void) const { return SOAP_NEW(ns1__stringArray); }$/;"	f	class:ns1__stringArray
+soap_app	getdata.py	/^	soap_app = Application([SomeSampleServices],  $/;"	v	class:SomeSampleServices
+soap_array_reference	gsoap/stdsoap2.h	2904;"	d
+soap_attribute	gsoap/stdsoap2.h	/^struct soap_attribute$/;"	s
+soap_begin_shaky	gsoap/stdsoap2.h	2913;"	d
+soap_bhead	gsoap/stdsoap2.h	/^struct soap_bhead$/;"	s
+soap_blist	gsoap/stdsoap2.h	/^struct soap_blist$/;"	s
+soap_block	gsoap/stdsoap2.h	/^struct soap_block$/;"	s
+soap_check_faultdetail	gsoap/soapC.cpp	/^SOAP_FMAC3 const char * SOAP_FMAC4 soap_check_faultdetail(struct soap *soap)$/;"	f
+soap_check_faultsubcode	gsoap/soapC.cpp	/^SOAP_FMAC3 const char * SOAP_FMAC4 soap_check_faultsubcode(struct soap *soap)$/;"	f
+soap_check_state	gsoap/stdsoap2.h	1634;"	d
+soap_clist	gsoap/stdsoap2.h	/^struct soap_clist$/;"	s
+soap_close_socket	gsoap/soapJqServiceHttpBindingProxy.cpp	/^int JqServiceHttpBindingProxy::soap_close_socket()$/;"	f	class:JqServiceHttpBindingProxy
+soap_close_socket	gsoap/soapJqServiceHttpBindingService.cpp	/^int JqServiceHttpBindingService::soap_close_socket()$/;"	f	class:JqServiceHttpBindingService
+soap_closesocket	gsoap/stdsoap2.h	924;"	d
+soap_closesocket	gsoap/stdsoap2.h	927;"	d
+soap_clr_imode	gsoap/stdsoap2.h	2850;"	d
+soap_clr_mode	gsoap/stdsoap2.h	2854;"	d
+soap_clr_omode	gsoap/stdsoap2.h	2852;"	d
+soap_code_map	gsoap/stdsoap2.h	/^struct soap_code_map$/;"	s
+soap_cookie	gsoap/stdsoap2.h	/^struct soap_cookie$/;"	s
+soap_default	gsoap/soapC.cpp	/^void ns1__getData::soap_default(struct soap *soap)$/;"	f	class:ns1__getData
+soap_default	gsoap/soapC.cpp	/^void ns1__getDataResponse::soap_default(struct soap *soap)$/;"	f	class:ns1__getDataResponse
+soap_default	gsoap/soapC.cpp	/^void ns1__stringArray::soap_default(struct soap *soap)$/;"	f	class:ns1__stringArray
+soap_default_SOAP_ENV__Code	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_default_SOAP_ENV__Code(struct soap *soap, struct SOAP_ENV__Code *a)$/;"	f
+soap_default_SOAP_ENV__Detail	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_default_SOAP_ENV__Detail(struct soap *soap, struct SOAP_ENV__Detail *a)$/;"	f
+soap_default_SOAP_ENV__Fault	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_default_SOAP_ENV__Fault(struct soap *soap, struct SOAP_ENV__Fault *a)$/;"	f
+soap_default_SOAP_ENV__Header	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_default_SOAP_ENV__Header(struct soap *soap, struct SOAP_ENV__Header *a)$/;"	f
+soap_default_SOAP_ENV__Reason	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_default_SOAP_ENV__Reason(struct soap *soap, struct SOAP_ENV__Reason *a)$/;"	f
+soap_default__QName	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_default__QName(struct soap *soap, char **a)$/;"	f
+soap_default___ns1__getData	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_default___ns1__getData(struct soap *soap, struct __ns1__getData *a)$/;"	f
+soap_default_byte	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_default_byte(struct soap *soap, char *a)$/;"	f
+soap_default_int	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_default_int(struct soap *soap, int *a)$/;"	f
+soap_default_string	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_default_string(struct soap *soap, char **a)$/;"	f
+soap_destroy	gsoap/stdsoap2.h	2855;"	d
+soap_dime	gsoap/stdsoap2.h	/^struct soap_dime$/;"	s
+soap_dom_attribute	gsoap/stdsoap2.h	/^struct SOAP_CMAC soap_dom_attribute$/;"	s
+soap_dom_attribute	gsoap/stdsoap2.h	/^struct SOAP_CMAC soap_dom_attribute;$/;"	v	typeref:struct:SOAP_CMAC
+soap_dom_attribute_iterator	gsoap/stdsoap2.h	/^class SOAP_CMAC soap_dom_attribute_iterator$/;"	c
+soap_dom_element	gsoap/stdsoap2.h	/^struct SOAP_CMAC soap_dom_element$/;"	s
+soap_dom_element	gsoap/stdsoap2.h	/^struct SOAP_CMAC soap_dom_element;$/;"	v	typeref:struct:SOAP_CMAC
+soap_dom_element_iterator	gsoap/stdsoap2.h	/^class SOAP_CMAC soap_dom_element_iterator$/;"	c
+soap_double_nan	gsoap/stdsoap2.h	/^union soap_double_nan {struct {unsigned int n1, n2;} iv; double dv; float fv;};$/;"	u
+soap_embed	gsoap/stdsoap2.h	2905;"	d
+soap_embedded	gsoap/stdsoap2.h	2899;"	d
+soap_embedded_id	gsoap/stdsoap2.h	2906;"	d
+soap_end_shaky	gsoap/stdsoap2.h	2914;"	d
+soap_endpoint	gsoap/soapJqServiceHttpBindingProxy.h	/^        const char *soap_endpoint;$/;"	m	class:JqServiceHttpBindingProxy
+soap_errno	gsoap/stdsoap2.h	1081;"	d
+soap_errno	gsoap/stdsoap2.h	1085;"	d
+soap_errno	gsoap/stdsoap2.h	1091;"	d
+soap_errno	gsoap/stdsoap2.h	1095;"	d
+soap_fault	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_fault(struct soap *soap)$/;"	f
+soap_fault	gsoap/soapJqServiceHttpBindingProxy.cpp	/^::SOAP_ENV__Fault *JqServiceHttpBindingProxy::soap_fault()$/;"	f	class:JqServiceHttpBindingProxy
+soap_fault_detail	gsoap/soapJqServiceHttpBindingProxy.cpp	/^const char *JqServiceHttpBindingProxy::soap_fault_detail()$/;"	f	class:JqServiceHttpBindingProxy
+soap_fault_string	gsoap/soapJqServiceHttpBindingProxy.cpp	/^const char *JqServiceHttpBindingProxy::soap_fault_string()$/;"	f	class:JqServiceHttpBindingProxy
+soap_faultcode	gsoap/soapC.cpp	/^SOAP_FMAC3 const char ** SOAP_FMAC4 soap_faultcode(struct soap *soap)$/;"	f
+soap_faultdetail	gsoap/soapC.cpp	/^SOAP_FMAC3 const char ** SOAP_FMAC4 soap_faultdetail(struct soap *soap)$/;"	f
+soap_faultstring	gsoap/soapC.cpp	/^SOAP_FMAC3 const char ** SOAP_FMAC4 soap_faultstring(struct soap *soap)$/;"	f
+soap_faultsubcode	gsoap/soapC.cpp	/^SOAP_FMAC3 const char ** SOAP_FMAC4 soap_faultsubcode(struct soap *soap)$/;"	f
+soap_fbase	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_fbase(int t, int b)$/;"	f
+soap_fdelete	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_fdelete(struct soap_clist *p)$/;"	f
+soap_finsert	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_finsert(struct soap *soap, int t, int tt, void *p, size_t index, const void *q, void **x)$/;"	f
+soap_flist	gsoap/stdsoap2.h	/^struct soap_flist$/;"	s
+soap_force_close_socket	gsoap/soapJqServiceHttpBindingProxy.cpp	/^int JqServiceHttpBindingProxy::soap_force_close_socket()$/;"	f	class:JqServiceHttpBindingProxy
+soap_force_close_socket	gsoap/soapJqServiceHttpBindingService.cpp	/^int JqServiceHttpBindingService::soap_force_close_socket()$/;"	f	class:JqServiceHttpBindingService
+soap_get	gsoap/soapC.cpp	/^void *ns1__getData::soap_get(struct soap *soap, const char *tag, const char *type)$/;"	f	class:ns1__getData
+soap_get	gsoap/soapC.cpp	/^void *ns1__getDataResponse::soap_get(struct soap *soap, const char *tag, const char *type)$/;"	f	class:ns1__getDataResponse
+soap_get	gsoap/soapC.cpp	/^void *ns1__stringArray::soap_get(struct soap *soap, const char *tag, const char *type)$/;"	f	class:ns1__stringArray
+soap_get0	gsoap/stdsoap2.h	2824;"	d
+soap_get1	gsoap/stdsoap2.h	2825;"	d
+soap_get_PointerToSOAP_ENV__Code	gsoap/soapC.cpp	/^SOAP_FMAC3 struct SOAP_ENV__Code ** SOAP_FMAC4 soap_get_PointerToSOAP_ENV__Code(struct soap *soap, struct SOAP_ENV__Code **p, const char *tag, const char *type)$/;"	f
+soap_get_PointerToSOAP_ENV__Detail	gsoap/soapC.cpp	/^SOAP_FMAC3 struct SOAP_ENV__Detail ** SOAP_FMAC4 soap_get_PointerToSOAP_ENV__Detail(struct soap *soap, struct SOAP_ENV__Detail **p, const char *tag, const char *type)$/;"	f
+soap_get_PointerToSOAP_ENV__Reason	gsoap/soapC.cpp	/^SOAP_FMAC3 struct SOAP_ENV__Reason ** SOAP_FMAC4 soap_get_PointerToSOAP_ENV__Reason(struct soap *soap, struct SOAP_ENV__Reason **p, const char *tag, const char *type)$/;"	f
+soap_get_PointerTons1__getData	gsoap/soapC.cpp	/^SOAP_FMAC3 ns1__getData ** SOAP_FMAC4 soap_get_PointerTons1__getData(struct soap *soap, ns1__getData **p, const char *tag, const char *type)$/;"	f
+soap_get_PointerTons1__stringArray	gsoap/soapC.cpp	/^SOAP_FMAC3 ns1__stringArray ** SOAP_FMAC4 soap_get_PointerTons1__stringArray(struct soap *soap, ns1__stringArray **p, const char *tag, const char *type)$/;"	f
+soap_get_PointerTostring	gsoap/soapC.cpp	/^SOAP_FMAC3 char *** SOAP_FMAC4 soap_get_PointerTostring(struct soap *soap, char ***p, const char *tag, const char *type)$/;"	f
+soap_get_SOAP_ENV__Code	gsoap/soapC.cpp	/^SOAP_FMAC3 struct SOAP_ENV__Code * SOAP_FMAC4 soap_get_SOAP_ENV__Code(struct soap *soap, struct SOAP_ENV__Code *p, const char *tag, const char *type)$/;"	f
+soap_get_SOAP_ENV__Detail	gsoap/soapC.cpp	/^SOAP_FMAC3 struct SOAP_ENV__Detail * SOAP_FMAC4 soap_get_SOAP_ENV__Detail(struct soap *soap, struct SOAP_ENV__Detail *p, const char *tag, const char *type)$/;"	f
+soap_get_SOAP_ENV__Fault	gsoap/soapC.cpp	/^SOAP_FMAC3 struct SOAP_ENV__Fault * SOAP_FMAC4 soap_get_SOAP_ENV__Fault(struct soap *soap, struct SOAP_ENV__Fault *p, const char *tag, const char *type)$/;"	f
+soap_get_SOAP_ENV__Header	gsoap/soapC.cpp	/^SOAP_FMAC3 struct SOAP_ENV__Header * SOAP_FMAC4 soap_get_SOAP_ENV__Header(struct soap *soap, struct SOAP_ENV__Header *p, const char *tag, const char *type)$/;"	f
+soap_get_SOAP_ENV__Reason	gsoap/soapC.cpp	/^SOAP_FMAC3 struct SOAP_ENV__Reason * SOAP_FMAC4 soap_get_SOAP_ENV__Reason(struct soap *soap, struct SOAP_ENV__Reason *p, const char *tag, const char *type)$/;"	f
+soap_get__QName	gsoap/soapC.cpp	/^SOAP_FMAC3 char ** SOAP_FMAC4 soap_get__QName(struct soap *soap, char **p, const char *tag, const char *type)$/;"	f
+soap_get___ns1__getData	gsoap/soapC.cpp	/^SOAP_FMAC3 struct __ns1__getData * SOAP_FMAC4 soap_get___ns1__getData(struct soap *soap, struct __ns1__getData *p, const char *tag, const char *type)$/;"	f
+soap_get_byte	gsoap/soapC.cpp	/^SOAP_FMAC3 char * SOAP_FMAC4 soap_get_byte(struct soap *soap, char *p, const char *tag, const char *type)$/;"	f
+soap_get_int	gsoap/soapC.cpp	/^SOAP_FMAC3 int * SOAP_FMAC4 soap_get_int(struct soap *soap, int *p, const char *tag, const char *type)$/;"	f
+soap_get_ns1__getData	gsoap/soapC.cpp	/^SOAP_FMAC3 ns1__getData * SOAP_FMAC4 soap_get_ns1__getData(struct soap *soap, ns1__getData *p, const char *tag, const char *type)$/;"	f
+soap_get_ns1__getDataResponse	gsoap/soapC.cpp	/^SOAP_FMAC3 ns1__getDataResponse * SOAP_FMAC4 soap_get_ns1__getDataResponse(struct soap *soap, ns1__getDataResponse *p, const char *tag, const char *type)$/;"	f
+soap_get_ns1__stringArray	gsoap/soapC.cpp	/^SOAP_FMAC3 ns1__stringArray * SOAP_FMAC4 soap_get_ns1__stringArray(struct soap *soap, ns1__stringArray *p, const char *tag, const char *type)$/;"	f
+soap_get_string	gsoap/soapC.cpp	/^SOAP_FMAC3 char ** SOAP_FMAC4 soap_get_string(struct soap *soap, char **p, const char *tag, const char *type)$/;"	f
+soap_getelement	gsoap/soapC.cpp	/^SOAP_FMAC3 void * SOAP_FMAC4 soap_getelement(struct soap *soap, int *type)$/;"	f
+soap_getfault	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_getfault(struct soap *soap)$/;"	f
+soap_getheader	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_getheader(struct soap *soap)$/;"	f
+soap_getindependent	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_getindependent(struct soap *soap)$/;"	f
+soap_getindependent	gsoap/stdsoap2.h	2910;"	d
+soap_header	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_header(struct soap *soap)$/;"	f
+soap_header	gsoap/soapJqServiceHttpBindingProxy.cpp	/^::SOAP_ENV__Header *JqServiceHttpBindingProxy::soap_header()$/;"	f	class:JqServiceHttpBindingProxy
+soap_header	gsoap/soapJqServiceHttpBindingService.cpp	/^::SOAP_ENV__Header *JqServiceHttpBindingService::soap_header()$/;"	f	class:JqServiceHttpBindingService
+soap_http_error_check	gsoap/stdsoap2.h	1514;"	d
+soap_id_forward	gsoap/stdsoap2.h	2901;"	d
+soap_id_lookup	gsoap/stdsoap2.h	2900;"	d
+soap_id_nullify	gsoap/stdsoap2.h	2902;"	d
+soap_ignore_element	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_ignore_element(struct soap *soap)$/;"	f
+soap_ilist	gsoap/stdsoap2.h	/^struct soap_ilist$/;"	s
+soap_imode	gsoap/stdsoap2.h	2847;"	d
+soap_in	gsoap/soapC.cpp	/^void *ns1__getData::soap_in(struct soap *soap, const char *tag, const char *type)$/;"	f	class:ns1__getData
+soap_in	gsoap/soapC.cpp	/^void *ns1__getDataResponse::soap_in(struct soap *soap, const char *tag, const char *type)$/;"	f	class:ns1__getDataResponse
+soap_in	gsoap/soapC.cpp	/^void *ns1__stringArray::soap_in(struct soap *soap, const char *tag, const char *type)$/;"	f	class:ns1__stringArray
+soap_in_PointerToSOAP_ENV__Code	gsoap/soapC.cpp	/^SOAP_FMAC3 struct SOAP_ENV__Code ** SOAP_FMAC4 soap_in_PointerToSOAP_ENV__Code(struct soap *soap, const char *tag, struct SOAP_ENV__Code **a, const char *type)$/;"	f
+soap_in_PointerToSOAP_ENV__Detail	gsoap/soapC.cpp	/^SOAP_FMAC3 struct SOAP_ENV__Detail ** SOAP_FMAC4 soap_in_PointerToSOAP_ENV__Detail(struct soap *soap, const char *tag, struct SOAP_ENV__Detail **a, const char *type)$/;"	f
+soap_in_PointerToSOAP_ENV__Reason	gsoap/soapC.cpp	/^SOAP_FMAC3 struct SOAP_ENV__Reason ** SOAP_FMAC4 soap_in_PointerToSOAP_ENV__Reason(struct soap *soap, const char *tag, struct SOAP_ENV__Reason **a, const char *type)$/;"	f
+soap_in_PointerTons1__getData	gsoap/soapC.cpp	/^SOAP_FMAC3 ns1__getData ** SOAP_FMAC4 soap_in_PointerTons1__getData(struct soap *soap, const char *tag, ns1__getData **a, const char *type)$/;"	f
+soap_in_PointerTons1__stringArray	gsoap/soapC.cpp	/^SOAP_FMAC3 ns1__stringArray ** SOAP_FMAC4 soap_in_PointerTons1__stringArray(struct soap *soap, const char *tag, ns1__stringArray **a, const char *type)$/;"	f
+soap_in_PointerTostring	gsoap/soapC.cpp	/^SOAP_FMAC3 char *** SOAP_FMAC4 soap_in_PointerTostring(struct soap *soap, const char *tag, char ***a, const char *type)$/;"	f
+soap_in_SOAP_ENV__Code	gsoap/soapC.cpp	/^SOAP_FMAC3 struct SOAP_ENV__Code * SOAP_FMAC4 soap_in_SOAP_ENV__Code(struct soap *soap, const char *tag, struct SOAP_ENV__Code *a, const char *type)$/;"	f
+soap_in_SOAP_ENV__Detail	gsoap/soapC.cpp	/^SOAP_FMAC3 struct SOAP_ENV__Detail * SOAP_FMAC4 soap_in_SOAP_ENV__Detail(struct soap *soap, const char *tag, struct SOAP_ENV__Detail *a, const char *type)$/;"	f
+soap_in_SOAP_ENV__Fault	gsoap/soapC.cpp	/^SOAP_FMAC3 struct SOAP_ENV__Fault * SOAP_FMAC4 soap_in_SOAP_ENV__Fault(struct soap *soap, const char *tag, struct SOAP_ENV__Fault *a, const char *type)$/;"	f
+soap_in_SOAP_ENV__Header	gsoap/soapC.cpp	/^SOAP_FMAC3 struct SOAP_ENV__Header * SOAP_FMAC4 soap_in_SOAP_ENV__Header(struct soap *soap, const char *tag, struct SOAP_ENV__Header *a, const char *type)$/;"	f
+soap_in_SOAP_ENV__Reason	gsoap/soapC.cpp	/^SOAP_FMAC3 struct SOAP_ENV__Reason * SOAP_FMAC4 soap_in_SOAP_ENV__Reason(struct soap *soap, const char *tag, struct SOAP_ENV__Reason *a, const char *type)$/;"	f
+soap_in__QName	gsoap/soapC.cpp	/^SOAP_FMAC3 char * * SOAP_FMAC4 soap_in__QName(struct soap *soap, const char *tag, char **a, const char *type)$/;"	f
+soap_in___ns1__getData	gsoap/soapC.cpp	/^SOAP_FMAC3 struct __ns1__getData * SOAP_FMAC4 soap_in___ns1__getData(struct soap *soap, const char *tag, struct __ns1__getData *a, const char *type)$/;"	f
+soap_in_byte	gsoap/soapC.cpp	/^SOAP_FMAC3 char * SOAP_FMAC4 soap_in_byte(struct soap *soap, const char *tag, char *a, const char *type)$/;"	f
+soap_in_int	gsoap/soapC.cpp	/^SOAP_FMAC3 int * SOAP_FMAC4 soap_in_int(struct soap *soap, const char *tag, int *a, const char *type)$/;"	f
+soap_in_ns1__getData	gsoap/soapC.cpp	/^SOAP_FMAC3 ns1__getData * SOAP_FMAC4 soap_in_ns1__getData(struct soap *soap, const char *tag, ns1__getData *a, const char *type)$/;"	f
+soap_in_ns1__getDataResponse	gsoap/soapC.cpp	/^SOAP_FMAC3 ns1__getDataResponse * SOAP_FMAC4 soap_in_ns1__getDataResponse(struct soap *soap, const char *tag, ns1__getDataResponse *a, const char *type)$/;"	f
+soap_in_ns1__stringArray	gsoap/soapC.cpp	/^SOAP_FMAC3 ns1__stringArray * SOAP_FMAC4 soap_in_ns1__stringArray(struct soap *soap, const char *tag, ns1__stringArray *a, const char *type)$/;"	f
+soap_in_string	gsoap/soapC.cpp	/^SOAP_FMAC3 char * * SOAP_FMAC4 soap_in_string(struct soap *soap, const char *tag, char **a, const char *type)$/;"	f
+soap_init	gsoap/stdsoap2.h	2835;"	d
+soap_init1	gsoap/stdsoap2.h	2836;"	d
+soap_init2	gsoap/stdsoap2.h	2837;"	d
+soap_instantiate	gsoap/soapC.cpp	/^SOAP_FMAC3 void * SOAP_FMAC4 soap_instantiate(struct soap *soap, int t, const char *type, const char *arrayType, size_t *n)$/;"	f
+soap_instantiate_SOAP_ENV__Code	gsoap/soapC.cpp	/^SOAP_FMAC1 struct SOAP_ENV__Code * SOAP_FMAC2 soap_instantiate_SOAP_ENV__Code(struct soap *soap, int n, const char *type, const char *arrayType, size_t *size)$/;"	f
+soap_instantiate_SOAP_ENV__Detail	gsoap/soapC.cpp	/^SOAP_FMAC1 struct SOAP_ENV__Detail * SOAP_FMAC2 soap_instantiate_SOAP_ENV__Detail(struct soap *soap, int n, const char *type, const char *arrayType, size_t *size)$/;"	f
+soap_instantiate_SOAP_ENV__Fault	gsoap/soapC.cpp	/^SOAP_FMAC1 struct SOAP_ENV__Fault * SOAP_FMAC2 soap_instantiate_SOAP_ENV__Fault(struct soap *soap, int n, const char *type, const char *arrayType, size_t *size)$/;"	f
+soap_instantiate_SOAP_ENV__Header	gsoap/soapC.cpp	/^SOAP_FMAC1 struct SOAP_ENV__Header * SOAP_FMAC2 soap_instantiate_SOAP_ENV__Header(struct soap *soap, int n, const char *type, const char *arrayType, size_t *size)$/;"	f
+soap_instantiate_SOAP_ENV__Reason	gsoap/soapC.cpp	/^SOAP_FMAC1 struct SOAP_ENV__Reason * SOAP_FMAC2 soap_instantiate_SOAP_ENV__Reason(struct soap *soap, int n, const char *type, const char *arrayType, size_t *size)$/;"	f
+soap_instantiate___ns1__getData	gsoap/soapC.cpp	/^SOAP_FMAC1 struct __ns1__getData * SOAP_FMAC2 soap_instantiate___ns1__getData(struct soap *soap, int n, const char *type, const char *arrayType, size_t *size)$/;"	f
+soap_instantiate_ns1__getData	gsoap/soapC.cpp	/^SOAP_FMAC1 ns1__getData * SOAP_FMAC2 soap_instantiate_ns1__getData(struct soap *soap, int n, const char *type, const char *arrayType, size_t *size)$/;"	f
+soap_instantiate_ns1__getDataResponse	gsoap/soapC.cpp	/^SOAP_FMAC1 ns1__getDataResponse * SOAP_FMAC2 soap_instantiate_ns1__getDataResponse(struct soap *soap, int n, const char *type, const char *arrayType, size_t *size)$/;"	f
+soap_instantiate_ns1__stringArray	gsoap/soapC.cpp	/^SOAP_FMAC1 ns1__stringArray * SOAP_FMAC2 soap_instantiate_ns1__stringArray(struct soap *soap, int n, const char *type, const char *arrayType, size_t *size)$/;"	f
+soap_int32	gsoap/stdsoap2.h	1037;"	d
+soap_int32	gsoap/stdsoap2.h	1039;"	d
+soap_int32	gsoap/stdsoap2.h	1041;"	d
+soap_int32	gsoap/stdsoap2.h	1044;"	d
+soap_int32	gsoap/stdsoap2.h	1046;"	d
+soap_int32	gsoap/stdsoap2.h	1049;"	d
+soap_is_embedded	gsoap/stdsoap2.h	2907;"	d
+soap_is_single	gsoap/stdsoap2.h	2908;"	d
+soap_isinf	gsoap/stdsoap2.h	1280;"	d
+soap_isinf	gsoap/stdsoap2.h	1377;"	d
+soap_isinf	gsoap/stdsoap2.h	1379;"	d
+soap_isnan	gsoap/stdsoap2.h	1264;"	d
+soap_isnan	gsoap/stdsoap2.h	1276;"	d
+soap_isnan	gsoap/stdsoap2.h	1369;"	d
+soap_isnan	gsoap/stdsoap2.h	1371;"	d
+soap_isninfd	gsoap/stdsoap2.h	1385;"	d
+soap_isninff	gsoap/stdsoap2.h	1386;"	d
+soap_ispinfd	gsoap/stdsoap2.h	1383;"	d
+soap_ispinff	gsoap/stdsoap2.h	1384;"	d
+soap_lookup_type	gsoap/stdsoap2.h	2909;"	d
+soap_markelement	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_markelement(struct soap *soap, const void *ptr, int type)$/;"	f
+soap_markelement	gsoap/stdsoap2.h	2912;"	d
+soap_memcpy	gsoap/stdsoap2.h	1434;"	d
+soap_memcpy	gsoap/stdsoap2.h	1436;"	d
+soap_memmove	gsoap/stdsoap2.h	1441;"	d
+soap_memmove	gsoap/stdsoap2.h	1443;"	d
+soap_mime	gsoap/stdsoap2.h	/^struct soap_mime$/;"	s
+soap_mime_encoding	gsoap/stdsoap2.h	/^enum soap_mime_encoding$/;"	g
+soap_mlist	gsoap/stdsoap2.h	/^struct soap_mlist$/;"	s
+soap_mode	gsoap/stdsoap2.h	/^typedef soap_int32 soap_mode;$/;"	t
+soap_mode	gsoap/stdsoap2.h	2846;"	d
+soap_multipart	gsoap/stdsoap2.h	/^struct soap_multipart$/;"	s
+soap_multipart_iterator	gsoap/stdsoap2.h	/^  soap_multipart_iterator() : content(NULL)$/;"	f	class:soap_multipart_iterator
+soap_multipart_iterator	gsoap/stdsoap2.h	/^  soap_multipart_iterator(struct soap_multipart *p) : content(p)$/;"	f	class:soap_multipart_iterator
+soap_multipart_iterator	gsoap/stdsoap2.h	/^class soap_multipart_iterator$/;"	c
+soap_new	gsoap/stdsoap2.h	2839;"	d
+soap_new1	gsoap/stdsoap2.h	2840;"	d
+soap_new2	gsoap/stdsoap2.h	2841;"	d
+soap_new_SOAP_ENV__Code	gsoap/soapH.h	/^inline struct SOAP_ENV__Code * soap_new_SOAP_ENV__Code(struct soap *soap, int n = -1)$/;"	f
+soap_new_SOAP_ENV__Detail	gsoap/soapH.h	/^inline struct SOAP_ENV__Detail * soap_new_SOAP_ENV__Detail(struct soap *soap, int n = -1)$/;"	f
+soap_new_SOAP_ENV__Fault	gsoap/soapH.h	/^inline struct SOAP_ENV__Fault * soap_new_SOAP_ENV__Fault(struct soap *soap, int n = -1)$/;"	f
+soap_new_SOAP_ENV__Header	gsoap/soapH.h	/^inline struct SOAP_ENV__Header * soap_new_SOAP_ENV__Header(struct soap *soap, int n = -1)$/;"	f
+soap_new_SOAP_ENV__Reason	gsoap/soapH.h	/^inline struct SOAP_ENV__Reason * soap_new_SOAP_ENV__Reason(struct soap *soap, int n = -1)$/;"	f
+soap_new___ns1__getData	gsoap/soapH.h	/^inline struct __ns1__getData * soap_new___ns1__getData(struct soap *soap, int n = -1)$/;"	f
+soap_new_ns1__getData	gsoap/soapH.h	/^inline ns1__getData * soap_new_ns1__getData(struct soap *soap, int n = -1)$/;"	f
+soap_new_ns1__getDataResponse	gsoap/soapH.h	/^inline ns1__getDataResponse * soap_new_ns1__getDataResponse(struct soap *soap, int n = -1)$/;"	f
+soap_new_ns1__stringArray	gsoap/soapH.h	/^inline ns1__stringArray * soap_new_ns1__stringArray(struct soap *soap, int n = -1)$/;"	f
+soap_new_req_SOAP_ENV__Code	gsoap/soapH.h	/^inline struct SOAP_ENV__Code * soap_new_req_SOAP_ENV__Code($/;"	f
+soap_new_req_SOAP_ENV__Detail	gsoap/soapH.h	/^inline struct SOAP_ENV__Detail * soap_new_req_SOAP_ENV__Detail($/;"	f
+soap_new_req_SOAP_ENV__Fault	gsoap/soapH.h	/^inline struct SOAP_ENV__Fault * soap_new_req_SOAP_ENV__Fault($/;"	f
+soap_new_req_SOAP_ENV__Header	gsoap/soapH.h	/^inline struct SOAP_ENV__Header * soap_new_req_SOAP_ENV__Header($/;"	f
+soap_new_req_SOAP_ENV__Reason	gsoap/soapH.h	/^inline struct SOAP_ENV__Reason * soap_new_req_SOAP_ENV__Reason($/;"	f
+soap_new_req___ns1__getData	gsoap/soapH.h	/^inline struct __ns1__getData * soap_new_req___ns1__getData($/;"	f
+soap_new_req_ns1__getData	gsoap/soapH.h	/^inline ns1__getData * soap_new_req_ns1__getData($/;"	f
+soap_new_req_ns1__getDataResponse	gsoap/soapH.h	/^inline ns1__getDataResponse * soap_new_req_ns1__getDataResponse($/;"	f
+soap_new_req_ns1__stringArray	gsoap/soapH.h	/^inline ns1__stringArray * soap_new_req_ns1__stringArray($/;"	f
+soap_new_set_SOAP_ENV__Code	gsoap/soapH.h	/^inline struct SOAP_ENV__Code * soap_new_set_SOAP_ENV__Code($/;"	f
+soap_new_set_SOAP_ENV__Detail	gsoap/soapH.h	/^inline struct SOAP_ENV__Detail * soap_new_set_SOAP_ENV__Detail($/;"	f
+soap_new_set_SOAP_ENV__Fault	gsoap/soapH.h	/^inline struct SOAP_ENV__Fault * soap_new_set_SOAP_ENV__Fault($/;"	f
+soap_new_set_SOAP_ENV__Header	gsoap/soapH.h	/^inline struct SOAP_ENV__Header * soap_new_set_SOAP_ENV__Header($/;"	f
+soap_new_set_SOAP_ENV__Reason	gsoap/soapH.h	/^inline struct SOAP_ENV__Reason * soap_new_set_SOAP_ENV__Reason($/;"	f
+soap_new_set___ns1__getData	gsoap/soapH.h	/^inline struct __ns1__getData * soap_new_set___ns1__getData($/;"	f
+soap_new_set_ns1__getData	gsoap/soapH.h	/^inline ns1__getData * soap_new_set_ns1__getData($/;"	f
+soap_new_set_ns1__getDataResponse	gsoap/soapH.h	/^inline ns1__getDataResponse * soap_new_set_ns1__getDataResponse($/;"	f
+soap_new_set_ns1__stringArray	gsoap/soapH.h	/^inline ns1__stringArray * soap_new_set_ns1__stringArray($/;"	f
+soap_nlist	gsoap/stdsoap2.h	/^struct soap_nlist$/;"	s
+soap_noheader	gsoap/soapJqServiceHttpBindingProxy.cpp	/^void JqServiceHttpBindingProxy::soap_noheader()$/;"	f	class:JqServiceHttpBindingProxy
+soap_noheader	gsoap/soapJqServiceHttpBindingService.cpp	/^void JqServiceHttpBindingService::soap_noheader()$/;"	f	class:JqServiceHttpBindingService
+soap_omode	gsoap/stdsoap2.h	2848;"	d
+soap_out	gsoap/soapC.cpp	/^int ns1__getData::soap_out(struct soap *soap, const char *tag, int id, const char *type) const$/;"	f	class:ns1__getData
+soap_out	gsoap/soapC.cpp	/^int ns1__getDataResponse::soap_out(struct soap *soap, const char *tag, int id, const char *type) const$/;"	f	class:ns1__getDataResponse
+soap_out	gsoap/soapC.cpp	/^int ns1__stringArray::soap_out(struct soap *soap, const char *tag, int id, const char *type) const$/;"	f	class:ns1__stringArray
+soap_out_PointerToSOAP_ENV__Code	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_PointerToSOAP_ENV__Code(struct soap *soap, const char *tag, int id, struct SOAP_ENV__Code *const*a, const char *type)$/;"	f
+soap_out_PointerToSOAP_ENV__Detail	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_PointerToSOAP_ENV__Detail(struct soap *soap, const char *tag, int id, struct SOAP_ENV__Detail *const*a, const char *type)$/;"	f
+soap_out_PointerToSOAP_ENV__Reason	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_PointerToSOAP_ENV__Reason(struct soap *soap, const char *tag, int id, struct SOAP_ENV__Reason *const*a, const char *type)$/;"	f
+soap_out_PointerTons1__getData	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_PointerTons1__getData(struct soap *soap, const char *tag, int id, ns1__getData *const*a, const char *type)$/;"	f
+soap_out_PointerTons1__stringArray	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_PointerTons1__stringArray(struct soap *soap, const char *tag, int id, ns1__stringArray *const*a, const char *type)$/;"	f
+soap_out_PointerTostring	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_PointerTostring(struct soap *soap, const char *tag, int id, char **const*a, const char *type)$/;"	f
+soap_out_SOAP_ENV__Code	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_SOAP_ENV__Code(struct soap *soap, const char *tag, int id, const struct SOAP_ENV__Code *a, const char *type)$/;"	f
+soap_out_SOAP_ENV__Detail	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_SOAP_ENV__Detail(struct soap *soap, const char *tag, int id, const struct SOAP_ENV__Detail *a, const char *type)$/;"	f
+soap_out_SOAP_ENV__Fault	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_SOAP_ENV__Fault(struct soap *soap, const char *tag, int id, const struct SOAP_ENV__Fault *a, const char *type)$/;"	f
+soap_out_SOAP_ENV__Header	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_SOAP_ENV__Header(struct soap *soap, const char *tag, int id, const struct SOAP_ENV__Header *a, const char *type)$/;"	f
+soap_out_SOAP_ENV__Reason	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_SOAP_ENV__Reason(struct soap *soap, const char *tag, int id, const struct SOAP_ENV__Reason *a, const char *type)$/;"	f
+soap_out__QName	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out__QName(struct soap *soap, const char *tag, int id, char *const*a, const char *type)$/;"	f
+soap_out___ns1__getData	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out___ns1__getData(struct soap *soap, const char *tag, int id, const struct __ns1__getData *a, const char *type)$/;"	f
+soap_out_byte	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_byte(struct soap *soap, const char *tag, int id, const char *a, const char *type)$/;"	f
+soap_out_int	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_int(struct soap *soap, const char *tag, int id, const int *a, const char *type)$/;"	f
+soap_out_ns1__getData	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_ns1__getData(struct soap *soap, const char *tag, int id, const ns1__getData *a, const char *type)$/;"	f
+soap_out_ns1__getDataResponse	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_ns1__getDataResponse(struct soap *soap, const char *tag, int id, const ns1__getDataResponse *a, const char *type)$/;"	f
+soap_out_ns1__stringArray	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_ns1__stringArray(struct soap *soap, const char *tag, int id, const ns1__stringArray *a, const char *type)$/;"	f
+soap_out_string	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_out_string(struct soap *soap, const char *tag, int id, char *const*a, const char *type)$/;"	f
+soap_pblk	gsoap/stdsoap2.h	/^struct soap_pblk$/;"	s
+soap_plist	gsoap/stdsoap2.h	/^struct soap_plist$/;"	s
+soap_plugin	gsoap/stdsoap2.h	/^struct soap_plugin$/;"	s
+soap_print_fault	gsoap/soapJqServiceHttpBindingProxy.cpp	/^void JqServiceHttpBindingProxy::soap_print_fault(FILE *fd)$/;"	f	class:JqServiceHttpBindingProxy
+soap_print_fault	gsoap/soapJqServiceHttpBindingService.cpp	/^void JqServiceHttpBindingService::soap_print_fault(FILE *fd)$/;"	f	class:JqServiceHttpBindingService
+soap_put	gsoap/soapC.cpp	/^int ns1__getData::soap_put(struct soap *soap, const char *tag, const  char *type) const$/;"	f	class:ns1__getData
+soap_put	gsoap/soapC.cpp	/^int ns1__getDataResponse::soap_put(struct soap *soap, const char *tag, const  char *type) const$/;"	f	class:ns1__getDataResponse
+soap_put	gsoap/soapC.cpp	/^int ns1__stringArray::soap_put(struct soap *soap, const char *tag, const  char *type) const$/;"	f	class:ns1__stringArray
+soap_put_PointerToSOAP_ENV__Code	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_put_PointerToSOAP_ENV__Code(struct soap *soap, struct SOAP_ENV__Code *const*a, const char *tag, const char *type)$/;"	f
+soap_put_PointerToSOAP_ENV__Detail	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_put_PointerToSOAP_ENV__Detail(struct soap *soap, struct SOAP_ENV__Detail *const*a, const char *tag, const char *type)$/;"	f
+soap_put_PointerToSOAP_ENV__Reason	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_put_PointerToSOAP_ENV__Reason(struct soap *soap, struct SOAP_ENV__Reason *const*a, const char *tag, const char *type)$/;"	f
+soap_put_PointerTons1__getData	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_put_PointerTons1__getData(struct soap *soap, ns1__getData *const*a, const char *tag, const char *type)$/;"	f
+soap_put_PointerTons1__stringArray	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_put_PointerTons1__stringArray(struct soap *soap, ns1__stringArray *const*a, const char *tag, const char *type)$/;"	f
+soap_put_PointerTostring	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_put_PointerTostring(struct soap *soap, char **const*a, const char *tag, const char *type)$/;"	f
+soap_put_SOAP_ENV__Code	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_put_SOAP_ENV__Code(struct soap *soap, const struct SOAP_ENV__Code *a, const char *tag, const char *type)$/;"	f
+soap_put_SOAP_ENV__Detail	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_put_SOAP_ENV__Detail(struct soap *soap, const struct SOAP_ENV__Detail *a, const char *tag, const char *type)$/;"	f
+soap_put_SOAP_ENV__Fault	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_put_SOAP_ENV__Fault(struct soap *soap, const struct SOAP_ENV__Fault *a, const char *tag, const char *type)$/;"	f
+soap_put_SOAP_ENV__Header	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_put_SOAP_ENV__Header(struct soap *soap, const struct SOAP_ENV__Header *a, const char *tag, const char *type)$/;"	f
+soap_put_SOAP_ENV__Reason	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_put_SOAP_ENV__Reason(struct soap *soap, const struct SOAP_ENV__Reason *a, const char *tag, const char *type)$/;"	f
+soap_put__QName	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_put__QName(struct soap *soap, char *const*a, const char *tag, const char *type)$/;"	f
+soap_put___ns1__getData	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_put___ns1__getData(struct soap *soap, const struct __ns1__getData *a, const char *tag, const char *type)$/;"	f
+soap_put_byte	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_put_byte(struct soap *soap, const char *a, const char *tag, const char *type)$/;"	f
+soap_put_int	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_put_int(struct soap *soap, const int *a, const char *tag, const char *type)$/;"	f
+soap_put_string	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_put_string(struct soap *soap, char *const*a, const char *tag, const char *type)$/;"	f
+soap_putelement	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_putelement(struct soap *soap, const void *ptr, const char *tag, int id, int type)$/;"	f
+soap_putfault	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_putfault(struct soap *soap)$/;"	f
+soap_putheader	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_putheader(struct soap *soap)$/;"	f
+soap_putindependent	gsoap/soapC.cpp	/^SOAP_FMAC3 int SOAP_FMAC4 soap_putindependent(struct soap *soap)$/;"	f
+soap_putindependent	gsoap/stdsoap2.h	2911;"	d
+soap_random	gsoap/stdsoap2.h	2890;"	d
+soap_random	gsoap/stdsoap2.h	2893;"	d
+soap_random	gsoap/stdsoap2.h	2895;"	d
+soap_read_SOAP_ENV__Code	gsoap/soapH.h	/^inline int soap_read_SOAP_ENV__Code(struct soap *soap, struct SOAP_ENV__Code *p)$/;"	f
+soap_read_SOAP_ENV__Detail	gsoap/soapH.h	/^inline int soap_read_SOAP_ENV__Detail(struct soap *soap, struct SOAP_ENV__Detail *p)$/;"	f
+soap_read_SOAP_ENV__Fault	gsoap/soapH.h	/^inline int soap_read_SOAP_ENV__Fault(struct soap *soap, struct SOAP_ENV__Fault *p)$/;"	f
+soap_read_SOAP_ENV__Header	gsoap/soapH.h	/^inline int soap_read_SOAP_ENV__Header(struct soap *soap, struct SOAP_ENV__Header *p)$/;"	f
+soap_read_SOAP_ENV__Reason	gsoap/soapH.h	/^inline int soap_read_SOAP_ENV__Reason(struct soap *soap, struct SOAP_ENV__Reason *p)$/;"	f
+soap_read__QName	gsoap/soapH.h	/^inline int soap_read__QName(struct soap *soap, char **p)$/;"	f
+soap_read___ns1__getData	gsoap/soapH.h	/^inline int soap_read___ns1__getData(struct soap *soap, struct __ns1__getData *p)$/;"	f
+soap_read_byte	gsoap/soapH.h	/^inline int soap_read_byte(struct soap *soap, char *p)$/;"	f
+soap_read_int	gsoap/soapH.h	/^inline int soap_read_int(struct soap *soap, int *p)$/;"	f
+soap_read_ns1__getData	gsoap/soapH.h	/^inline int soap_read_ns1__getData(struct soap *soap, ns1__getData *p)$/;"	f
+soap_read_ns1__getDataResponse	gsoap/soapH.h	/^inline int soap_read_ns1__getDataResponse(struct soap *soap, ns1__getDataResponse *p)$/;"	f
+soap_read_ns1__stringArray	gsoap/soapH.h	/^inline int soap_read_ns1__stringArray(struct soap *soap, ns1__stringArray *p)$/;"	f
+soap_read_string	gsoap/soapH.h	/^inline int soap_read_string(struct soap *soap, char **p)$/;"	f
+soap_receiverfault	gsoap/soapJqServiceHttpBindingService.cpp	/^int JqServiceHttpBindingService::soap_receiverfault(const char *string, const char *detailXML)$/;"	f	class:JqServiceHttpBindingService
+soap_receiverfault	gsoap/soapJqServiceHttpBindingService.cpp	/^int JqServiceHttpBindingService::soap_receiverfault(const char *subcodeQName, const char *string, const char *detailXML)$/;"	f	class:JqServiceHttpBindingService
+soap_reference	gsoap/stdsoap2.h	2903;"	d
+soap_register_plugin	gsoap/stdsoap2.h	2845;"	d
+soap_reset_errno	gsoap/stdsoap2.h	1083;"	d
+soap_reset_errno	gsoap/stdsoap2.h	1087;"	d
+soap_reset_errno	gsoap/stdsoap2.h	1093;"	d
+soap_reset_errno	gsoap/stdsoap2.h	1097;"	d
+soap_revget1	gsoap/stdsoap2.h	2843;"	d
+soap_senderfault	gsoap/soapJqServiceHttpBindingService.cpp	/^int JqServiceHttpBindingService::soap_senderfault(const char *string, const char *detailXML)$/;"	f	class:JqServiceHttpBindingService
+soap_senderfault	gsoap/soapJqServiceHttpBindingService.cpp	/^int JqServiceHttpBindingService::soap_senderfault(const char *subcodeQName, const char *string, const char *detailXML)$/;"	f	class:JqServiceHttpBindingService
+soap_serialize	gsoap/soapC.cpp	/^void ns1__getData::soap_serialize(struct soap *soap) const$/;"	f	class:ns1__getData
+soap_serialize	gsoap/soapC.cpp	/^void ns1__getDataResponse::soap_serialize(struct soap *soap) const$/;"	f	class:ns1__getDataResponse
+soap_serialize	gsoap/soapC.cpp	/^void ns1__stringArray::soap_serialize(struct soap *soap) const$/;"	f	class:ns1__stringArray
+soap_serialize_PointerToSOAP_ENV__Code	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_serialize_PointerToSOAP_ENV__Code(struct soap *soap, struct SOAP_ENV__Code *const*a)$/;"	f
+soap_serialize_PointerToSOAP_ENV__Detail	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_serialize_PointerToSOAP_ENV__Detail(struct soap *soap, struct SOAP_ENV__Detail *const*a)$/;"	f
+soap_serialize_PointerToSOAP_ENV__Reason	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_serialize_PointerToSOAP_ENV__Reason(struct soap *soap, struct SOAP_ENV__Reason *const*a)$/;"	f
+soap_serialize_PointerTons1__getData	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_serialize_PointerTons1__getData(struct soap *soap, ns1__getData *const*a)$/;"	f
+soap_serialize_PointerTons1__stringArray	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_serialize_PointerTons1__stringArray(struct soap *soap, ns1__stringArray *const*a)$/;"	f
+soap_serialize_PointerTostring	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_serialize_PointerTostring(struct soap *soap, char **const*a)$/;"	f
+soap_serialize_SOAP_ENV__Code	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_serialize_SOAP_ENV__Code(struct soap *soap, const struct SOAP_ENV__Code *a)$/;"	f
+soap_serialize_SOAP_ENV__Detail	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_serialize_SOAP_ENV__Detail(struct soap *soap, const struct SOAP_ENV__Detail *a)$/;"	f
+soap_serialize_SOAP_ENV__Fault	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_serialize_SOAP_ENV__Fault(struct soap *soap, const struct SOAP_ENV__Fault *a)$/;"	f
+soap_serialize_SOAP_ENV__Header	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_serialize_SOAP_ENV__Header(struct soap *soap, const struct SOAP_ENV__Header *a)$/;"	f
+soap_serialize_SOAP_ENV__Reason	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_serialize_SOAP_ENV__Reason(struct soap *soap, const struct SOAP_ENV__Reason *a)$/;"	f
+soap_serialize__QName	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_serialize__QName(struct soap *soap, char *const*a)$/;"	f
+soap_serialize___ns1__getData	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_serialize___ns1__getData(struct soap *soap, const struct __ns1__getData *a)$/;"	f
+soap_serialize_string	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_serialize_string(struct soap *soap, char *const*a)$/;"	f
+soap_serializefault	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_serializefault(struct soap *soap)$/;"	f
+soap_serializeheader	gsoap/soapC.cpp	/^SOAP_FMAC3 void SOAP_FMAC4 soap_serializeheader(struct soap *soap)$/;"	f
+soap_set_imode	gsoap/stdsoap2.h	2849;"	d
+soap_set_mode	gsoap/stdsoap2.h	2853;"	d
+soap_set_omode	gsoap/stdsoap2.h	2851;"	d
+soap_soap_error_check	gsoap/stdsoap2.h	1506;"	d
+soap_socket_errno	gsoap/stdsoap2.h	1082;"	d
+soap_socket_errno	gsoap/stdsoap2.h	1086;"	d
+soap_socket_errno	gsoap/stdsoap2.h	1092;"	d
+soap_socket_errno	gsoap/stdsoap2.h	1096;"	d
+soap_sprint_fault	gsoap/soapJqServiceHttpBindingProxy.cpp	/^char *JqServiceHttpBindingProxy::soap_sprint_fault(char *buf, size_t len)$/;"	f	class:JqServiceHttpBindingProxy
+soap_sprint_fault	gsoap/soapJqServiceHttpBindingService.cpp	/^char *JqServiceHttpBindingService::soap_sprint_fault(char *buf, size_t len)$/;"	f	class:JqServiceHttpBindingService
+soap_ssl_error_check	gsoap/stdsoap2.h	1510;"	d
+soap_status	gsoap/stdsoap2.h	/^typedef soap_int32 soap_status;$/;"	t
+soap_strcpy	gsoap/stdsoap2.h	1411;"	d
+soap_strcpy	gsoap/stdsoap2.h	1413;"	d
+soap_strcpy	gsoap/stdsoap2.h	1415;"	d
+soap_stream_fault	gsoap/soapJqServiceHttpBindingProxy.cpp	/^void JqServiceHttpBindingProxy::soap_stream_fault(std::ostream& os)$/;"	f	class:JqServiceHttpBindingProxy
+soap_stream_fault	gsoap/soapJqServiceHttpBindingService.cpp	/^void JqServiceHttpBindingService::soap_stream_fault(std::ostream& os)$/;"	f	class:JqServiceHttpBindingService
+soap_strncat	gsoap/stdsoap2.h	1427;"	d
+soap_strncat	gsoap/stdsoap2.h	1429;"	d
+soap_strncpy	gsoap/stdsoap2.h	1420;"	d
+soap_strncpy	gsoap/stdsoap2.h	1422;"	d
+soap_strrchr	gsoap/stdsoap2.h	2860;"	d
+soap_strtol	gsoap/stdsoap2.h	2866;"	d
+soap_strtoll	gsoap/stdsoap2.h	2878;"	d
+soap_strtoll	gsoap/stdsoap2.h	2880;"	d
+soap_strtoul	gsoap/stdsoap2.h	2872;"	d
+soap_strtoull	gsoap/stdsoap2.h	2884;"	d
+soap_strtoull	gsoap/stdsoap2.h	2886;"	d
+soap_tcp_error_check	gsoap/stdsoap2.h	1508;"	d
+soap_type	gsoap/soapStub.h	/^        int soap_type() const { return SOAP_TYPE_SOAP_ENV__Code; }$/;"	f	struct:SOAP_ENV__Code
+soap_type	gsoap/soapStub.h	/^        int soap_type() const { return SOAP_TYPE_SOAP_ENV__Detail; }$/;"	f	struct:SOAP_ENV__Detail
+soap_type	gsoap/soapStub.h	/^        int soap_type() const { return SOAP_TYPE_SOAP_ENV__Fault; }$/;"	f	struct:SOAP_ENV__Fault
+soap_type	gsoap/soapStub.h	/^        int soap_type() const { return SOAP_TYPE_SOAP_ENV__Header; }$/;"	f	struct:SOAP_ENV__Header
+soap_type	gsoap/soapStub.h	/^        int soap_type() const { return SOAP_TYPE_SOAP_ENV__Reason; }$/;"	f	struct:SOAP_ENV__Reason
+soap_type	gsoap/soapStub.h	/^        int soap_type() const { return SOAP_TYPE___ns1__getData; }$/;"	f	struct:__ns1__getData
+soap_type	gsoap/soapStub.h	/^        virtual int soap_type(void) const { return SOAP_TYPE_ns1__getData; }$/;"	f	class:ns1__getData
+soap_type	gsoap/soapStub.h	/^        virtual int soap_type(void) const { return SOAP_TYPE_ns1__getDataResponse; }$/;"	f	class:ns1__getDataResponse
+soap_type	gsoap/soapStub.h	/^        virtual int soap_type(void) const { return SOAP_TYPE_ns1__stringArray; }$/;"	f	class:ns1__stringArray
+soap_unget	gsoap/stdsoap2.h	2844;"	d
+soap_valid_socket	gsoap/stdsoap2.h	932;"	d
+soap_versioning	gsoap/stdsoap2.h	2833;"	d
+soap_versioning_ext	gsoap/stdsoap2.h	2832;"	d
+soap_versioning_paste	gsoap/stdsoap2.h	2831;"	d
+soap_walker	gsoap/stdsoap2.h	/^typedef void soap_walker(struct soap*, void*, int, const char*, const char*);$/;"	t
+soap_wchar	gsoap/stdsoap2.h	/^typedef soap_int32 soap_wchar;$/;"	t
+soap_write_SOAP_ENV__Code	gsoap/soapH.h	/^inline int soap_write_SOAP_ENV__Code(struct soap *soap, struct SOAP_ENV__Code const *p)$/;"	f
+soap_write_SOAP_ENV__Detail	gsoap/soapH.h	/^inline int soap_write_SOAP_ENV__Detail(struct soap *soap, struct SOAP_ENV__Detail const *p)$/;"	f
+soap_write_SOAP_ENV__Fault	gsoap/soapH.h	/^inline int soap_write_SOAP_ENV__Fault(struct soap *soap, struct SOAP_ENV__Fault const *p)$/;"	f
+soap_write_SOAP_ENV__Header	gsoap/soapH.h	/^inline int soap_write_SOAP_ENV__Header(struct soap *soap, struct SOAP_ENV__Header const *p)$/;"	f
+soap_write_SOAP_ENV__Reason	gsoap/soapH.h	/^inline int soap_write_SOAP_ENV__Reason(struct soap *soap, struct SOAP_ENV__Reason const *p)$/;"	f
+soap_write__QName	gsoap/soapH.h	/^inline int soap_write__QName(struct soap *soap, char *const *p)$/;"	f
+soap_write___ns1__getData	gsoap/soapH.h	/^inline int soap_write___ns1__getData(struct soap *soap, struct __ns1__getData const *p)$/;"	f
+soap_write_byte	gsoap/soapH.h	/^inline int soap_write_byte(struct soap *soap, char const *p)$/;"	f
+soap_write_int	gsoap/soapH.h	/^inline int soap_write_int(struct soap *soap, int const *p)$/;"	f
+soap_write_ns1__getData	gsoap/soapH.h	/^inline int soap_write_ns1__getData(struct soap *soap, ns1__getData const *p)$/;"	f
+soap_write_ns1__getDataResponse	gsoap/soapH.h	/^inline int soap_write_ns1__getDataResponse(struct soap *soap, ns1__getDataResponse const *p)$/;"	f
+soap_write_ns1__stringArray	gsoap/soapH.h	/^inline int soap_write_ns1__stringArray(struct soap *soap, ns1__stringArray const *p)$/;"	f
+soap_write_string	gsoap/soapH.h	/^inline int soap_write_string(struct soap *soap, char *const *p)$/;"	f
+soap_xlist	gsoap/stdsoap2.h	/^struct soap_xlist$/;"	s
+soap_xml_error_check	gsoap/stdsoap2.h	1504;"	d
+soap_zlib_error_check	gsoap/stdsoap2.h	1512;"	d
+socket	gsoap/stdsoap2.h	/^  SOAP_SOCKET socket;   \/* socket to send and receive *\/$/;"	m	struct:soap
+socket_flags	gsoap/stdsoap2.h	/^  int socket_flags;             \/* user-definable socket recv() and send() flags, e.g. set to MSG_NOSIGNAL to disable sigpipe *\/$/;"	m	struct:soap
+spine	gsoap/stdsoap2.h	/^  void **spine;$/;"	m	struct:soap_ilist
+ssl	gsoap/stdsoap2.h	/^  SSL *ssl;$/;"	m	struct:soap
+ssl	gsoap/stdsoap2.h	/^  gsk_handle ssl;               \/* ssl socket *\/$/;"	m	struct:soap
+ssl	gsoap/stdsoap2.h	/^  void *ssl;$/;"	m	struct:soap
+ssl_accept	gsoap/soapJqServiceHttpBindingService.cpp	/^int JqServiceHttpBindingService::ssl_accept()$/;"	f	class:JqServiceHttpBindingService
+ssl_flags	gsoap/stdsoap2.h	/^  unsigned short ssl_flags;$/;"	m	struct:soap
+ssl_run	gsoap/soapJqServiceHttpBindingService.cpp	/^int JqServiceHttpBindingService::ssl_run(int port)$/;"	f	class:JqServiceHttpBindingService
+start	gsoap/stdsoap2.h	/^  const char *start;                    \/* MIME start ID *\/$/;"	m	struct:soap_mime
+state	gsoap/stdsoap2.h	/^{ short state;                  \/* 0 = uninitialized, 1 = initialized, 2 = copy of another soap struct *\/$/;"	m	struct:soap
+status	gsoap/stdsoap2.h	/^  int status;                   \/* -1 when request, else error code to be returned by server *\/$/;"	m	struct:soap
+stop	gsoap/stdsoap2.h	/^  struct soap_dom_element *stop;$/;"	m	class:soap_dom_element_iterator	typeref:struct:soap_dom_element_iterator::soap_dom_element
+storage	gsoap/stdsoap2.h	/^    struct sockaddr_storage storage;$/;"	m	union:soap::__anon2	typeref:struct:soap::__anon2::sockaddr_storage
+string	gsoap/getdata.h	/^    char*                               *string                         0;$/;"	m	class:ns1__stringArray
+string	gsoap/soapStub.h	/^        char **string;$/;"	m	class:ns1__stringArray
+string	gsoap/stdsoap2.h	/^  const char *string;$/;"	m	struct:soap_code_map
+strtoll	gsoap/stdsoap2.h	342;"	d
+strtoull	gsoap/stdsoap2.h	343;"	d
+sys_USCOREtype	gsoap/getdata.h	/^    char*                                sys_USCOREtype                 0;	\/\/\/< Optional element.$/;"	m	class:ns1__getData
+sys_USCOREtype	gsoap/soapStub.h	/^        char *sys_USCOREtype;$/;"	m	class:ns1__getData
+tag	gsoap/stdsoap2.h	/^  char tag[SOAP_TAGLEN];$/;"	m	struct:soap
+tag	gsoap/stdsoap2.h	/^  const char *tag() const                                               { return this->name; }$/;"	f	struct:soap_dom_element
+tag	gsoap/stdsoap2.h	/^  const char *tag() const                                       { return this->name; }$/;"	f	struct:soap_dom_attribute
+tail	gsoap/stdsoap2.h	/^  const char *tail;$/;"	m	struct:soap_dom_element
+tcp_keep_alive	gsoap/stdsoap2.h	/^  short tcp_keep_alive;         \/* enable SO_KEEPALIVE *\/$/;"	m	struct:soap
+tcp_keep_cnt	gsoap/stdsoap2.h	/^  unsigned int tcp_keep_cnt;    \/* set TCP_KEEPCNT *\/$/;"	m	struct:soap
+tcp_keep_idle	gsoap/stdsoap2.h	/^  unsigned int tcp_keep_idle;   \/* set TCP_KEEPIDLE *\/$/;"	m	struct:soap
+tcp_keep_intvl	gsoap/stdsoap2.h	/^  unsigned int tcp_keep_intvl;  \/* set TCP_KEEPINTVL *\/$/;"	m	struct:soap
+text	gsoap/stdsoap2.h	/^  const char *text;$/;"	m	struct:soap_dom_attribute
+text	gsoap/stdsoap2.h	/^  const char *text;$/;"	m	struct:soap_dom_element
+tmpbuf	gsoap/stdsoap2.h	/^  char tmpbuf[SOAP_TMPLEN]; \/* in\/out buffer for HTTP\/MIME headers, simpleType values, element and attribute tag names, and DIME must be >=1024 bytes *\/$/;"	m	struct:soap
+type	gsoap/stdsoap2.h	/^  char **type;$/;"	m	struct:soap_xlist
+type	gsoap/stdsoap2.h	/^  char type[SOAP_TAGLEN];$/;"	m	struct:soap
+type	gsoap/stdsoap2.h	/^  const char *type;                     \/* DIME\/MIME type (MIME type format) *\/$/;"	m	struct:soap_multipart
+type	gsoap/stdsoap2.h	/^  const char *type;$/;"	m	struct:soap_dime
+type	gsoap/stdsoap2.h	/^  int type;$/;"	m	class:soap_dom_element_iterator
+type	gsoap/stdsoap2.h	/^  int type;$/;"	m	struct:soap_clist
+type	gsoap/stdsoap2.h	/^  int type;$/;"	m	struct:soap_dom_element
+type	gsoap/stdsoap2.h	/^  int type;$/;"	m	struct:soap_flist
+type	gsoap/stdsoap2.h	/^  int type;$/;"	m	struct:soap_ilist
+type	gsoap/stdsoap2.h	/^  int type;$/;"	m	struct:soap_plist
+user	gsoap/stdsoap2.h	/^  void *user;                   \/* for user to pass user-defined data to callbacks *\/$/;"	m	struct:soap
+userid	gsoap/stdsoap2.h	/^  const char *userid;           \/* HTTP Basic authorization userid *\/$/;"	m	struct:soap
+value	gsoap/stdsoap2.h	/^  char *value;$/;"	m	struct:soap_attribute
+value	gsoap/stdsoap2.h	/^  char *value;$/;"	m	struct:soap_cookie
+version	gsoap/stdsoap2.h	/^  short version;                \/* 1 = SOAP1.1 and 2 = SOAP1.2 (set automatically from namespace URI in nsmap table), 0 indicates non-SOAP content *\/$/;"	m	struct:soap
+version	gsoap/stdsoap2.h	/^  unsigned int version;$/;"	m	struct:soap_cookie
+visible	gsoap/stdsoap2.h	/^  short visible;$/;"	m	struct:soap_attribute
+wsgi_app	getdata.py	/^	wsgi_app = WsgiApplication(soap_app)$/;"	v	class:SomeSampleServices
+wsuid	gsoap/stdsoap2.h	/^  const char *wsuid;            \/* space-separated string of element tags *\/$/;"	m	struct:soap
+xcred	gsoap/stdsoap2.h	/^  gnutls_certificate_credentials_t xcred;       \/* cert pointer *\/$/;"	m	struct:soap
+xlist	gsoap/stdsoap2.h	/^  struct soap_xlist *xlist;$/;"	m	struct:soap	typeref:struct:soap::soap_xlist
+z_buf	gsoap/stdsoap2.h	/^  char *z_buf;                  \/* buffer *\/$/;"	m	struct:soap
+z_buflen	gsoap/stdsoap2.h	/^  size_t z_buflen;$/;"	m	struct:soap
+z_crc	gsoap/stdsoap2.h	/^  soap_int32 z_crc;$/;"	m	struct:soap
+z_crc	gsoap/stdsoap2.h	/^  uLong z_crc;                  \/* internal gzip crc *\/$/;"	m	struct:soap
+z_dict	gsoap/stdsoap2.h	/^  const char *z_dict;           \/* support for zlib static dictionaries *\/$/;"	m	struct:soap
+z_dict_len	gsoap/stdsoap2.h	/^  unsigned int z_dict_len;$/;"	m	struct:soap
+z_level	gsoap/stdsoap2.h	/^  unsigned short z_level;       \/* compression level to be used (0=none, 1=fast to 9=best) *\/$/;"	m	struct:soap
+z_ratio_in	gsoap/stdsoap2.h	/^  float z_ratio_in;             \/* detected compression ratio compressed_length\/length of inbound message *\/$/;"	m	struct:soap
+z_ratio_out	gsoap/stdsoap2.h	/^  float z_ratio_out;            \/* detected compression ratio compressed_length\/length of outbound message *\/$/;"	m	struct:soap
+zlib_in	gsoap/stdsoap2.h	/^  short zlib_in;                \/* SOAP_ZLIB_NONE, SOAP_ZLIB_DEFLATE, or SOAP_ZLIB_GZIP *\/$/;"	m	struct:soap
+zlib_out	gsoap/stdsoap2.h	/^  short zlib_out;               \/* SOAP_ZLIB_NONE, SOAP_ZLIB_DEFLATE, or SOAP_ZLIB_GZIP *\/$/;"	m	struct:soap
+zlib_state	gsoap/stdsoap2.h	/^  short zlib_state;             \/* SOAP_ZLIB_NONE, SOAP_ZLIB_DEFLATE, or SOAP_ZLIB_INFLATE *\/$/;"	m	struct:soap
+~JqServiceHttpBindingProxy	gsoap/soapJqServiceHttpBindingProxy.cpp	/^JqServiceHttpBindingProxy::~JqServiceHttpBindingProxy()$/;"	f	class:JqServiceHttpBindingProxy
+~JqServiceHttpBindingService	gsoap/soapJqServiceHttpBindingService.cpp	/^JqServiceHttpBindingService::~JqServiceHttpBindingService()$/;"	f	class:JqServiceHttpBindingService
+~ns1__getData	gsoap/soapStub.h	/^        virtual ~ns1__getData() { }$/;"	f	class:ns1__getData
+~ns1__getDataResponse	gsoap/soapStub.h	/^        virtual ~ns1__getDataResponse() { }$/;"	f	class:ns1__getDataResponse
+~ns1__stringArray	gsoap/soapStub.h	/^        virtual ~ns1__stringArray() { }$/;"	f	class:ns1__stringArray
